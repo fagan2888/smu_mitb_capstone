@@ -1,5 +1,6 @@
 from unittest import TestCase
 from pprint import pprint
+from datetime import datetime, timedelta
 from http import HTTPStatus
 from data_ingestion import DataGetter
 
@@ -33,6 +34,20 @@ class TestDataIngestion(TestCase):
         assert(response_code == HTTPStatus.OK)
 
 
+    def test_DataGetter_getSecuritiesPriceVolume(self):
+        ret = self.data_getter.getSecuritiesPriceVolume(
+            TestDataIngestion.TEST_COMPANY_TICKER,
+            datetime(2020, 1, 1),
+            datetime(2020, 3, 31),
+            with_http_info=True
+        )
+        (obj, response_code, _) = ret
+
+        print(obj)
+
+        assert(response_code == HTTPStatus.OK)
+
+
     def test_DataGetter_getCompaniesList(self):
         ret = self.data_getter.getCompaniesList(with_http_info=True)
         (obj, response_code, _) = ret
@@ -43,8 +58,26 @@ class TestDataIngestion(TestCase):
         assert(response_code == HTTPStatus.OK)
     
 
-    def test_DataGetter_getIncomeStatementsByCompanyPeriod(self):
-        ret = self.data_getter.getIncomeStatementsByCompanyPeriod(TestDataIngestion.TEST_COMPANY_TICKER, 2020, 1, with_http_info=True)
+    def test_DataGetter_getIncomeStatementByCompanyPeriod(self):
+        ret = self.data_getter.getIncomeStatementByCompanyPeriod(TestDataIngestion.TEST_COMPANY_TICKER, 2020, 1, with_http_info=True)
+        (obj, response_code, _) = ret
+        
+        pprint(obj)
+
+        assert(response_code == HTTPStatus.OK)
+
+
+    def test_DataGetter_getCashflowByCompanyPeriod(self):
+        ret = self.data_getter.getCashflowByCompanyPeriod(TestDataIngestion.TEST_COMPANY_TICKER, 2020, 1, with_http_info=True)
+        (obj, response_code, _) = ret
+        
+        pprint(obj)
+
+        assert(response_code == HTTPStatus.OK)
+
+
+    def test_DataGetter_getBalanceSheetByCompanyPeriod(self):
+        ret = self.data_getter.getBalanceSheetByCompanyPeriod(TestDataIngestion.TEST_COMPANY_TICKER, 2020, 1, with_http_info=True)
         (obj, response_code, _) = ret
         
         pprint(obj)
