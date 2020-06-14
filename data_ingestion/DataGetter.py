@@ -24,28 +24,68 @@ class DataGetter:
         self._fundementals_api = intrinio_sdk.FundamentalsApi()
 
 
-    def getSecuritiesList(self, active=True, delisted=True, with_http_info=False):
-        try:
-            if with_http_info:
-                ret = self._security_api.get_all_securities_with_http_info(active=active, delisted=delisted)
-            else:
-                ret = self._security_api.get_all_securities(active=active, delisted=delisted)
-        except ApiException as e:
-            print(DataGetter.MSG_EXCEPTION % (__name__, e))
+    def _callAPI(self, func, *args, **kwargs):
+        kwargs['next_page'] = ''
+        while kwargs['next_page'] is not None:
+            print (", ".join(f"{param}: {value}" for param, value in kwargs.items()))
+            try:
+                ret = func(*args, **kwargs)
+                if type(ret) == tuple:
+                    (obj, response_code, _) = ret
+                else:
+                    obj = ret
+                    response_code = None
+                
+                kwargs['next_page'] = obj.next_page
+                yield (obj, response_code)
+            except ApiException as e:
+                print(DataGetter.MSG_EXCEPTION %(__name__, e))
 
-        return ret
+
+    def getSecuritiesList(self, active=True, delisted=True, with_http_info=False):
+        if with_http_info:
+            it = self._callAPI(
+                self._security_api.get_all_securities_with_http_info,
+                active=active, delisted=delisted
+            )
+        else:
+            it = self._callAPI(
+                self._security_api.get_all_securities,
+                active=active, delisted=delisted
+            )
+        
+        response = []
+        (ret, res) = next(it)
+        response.append(res)
+        for i in it:
+            (obj, res) = i
+            ret.securities += obj.securities
+            response.append(res)
+
+        return (ret, response)
 
 
     def getSecuritiesByCompany(self, id, with_http_info=False):
-        try:
-            if with_http_info:
-                ret = self._company_api.get_company_securities_with_http_info(id)
-            else:
-                ret = self._company_api.get_company_securities(id)
-        except ApiException as e:
-            print(DataGetter.MSG_EXCEPTION %(__name__, e))
+        if with_http_info:
+            it = self._callAPI(
+                self._company_api.get_company_securities_with_http_info,
+                id
+            )
+        else:
+            it = self._callAPI(
+                self._company_api.get_company_securities,
+                id
+            )
         
-        return ret
+        response = []
+        (ret, res) = next(it)
+        response.append(res)
+        for i in it:
+            (obj, res) = i
+            ret.securities += obj.securities
+            response.append(res)
+
+        return (ret, response)
     
 
     def _getSecurityHistoricalData(self, id, data_type, start_date, end_date, frequency, with_http_info=False):
@@ -62,26 +102,62 @@ class DataGetter:
 
     def getSecuritiesPriceVolume(self, id, start_date, end_date, frequency=None, with_http_info=False):
         frequency = frequency or DataGetter.FREQUENCY_DAILY
+        ret = None
+        if with_http_info:
+            it = self._callAPI(
+                self._security_api.get_security_stock_prices_with_http_info,
+                id, start_date=start_date, end_date=end_date, frequency=frequency, page_size=1000
+            )
+        else:
+            it = self._callAPI(
+                self._security_api.get_security_stock_prices,
+                id, start_date=start_date, end_date=end_date, frequency=frequency, page_size=500
+            )
+
+        response = []
+        (ret, res) = next(it)
+        response.append(res)
+        for i in it:
+            (obj, res) = i
+            ret.stock_prices += obj.stock_prices
+            response.append(res)
+
+        return (ret, response)
+
+
+    def getSecuritiesIntradayPriceVolume(self, id, start_date, end_date, with_http_info=False):
         try:
             if with_http_info:
-                ret = self._security_api.get_security_stock_prices_with_http_info(id, start_date=start_date, end_date=end_date, frequency=frequency)
+                ret = self._security_api.get_security_intraday_prices_with_http_info(id, start_date=start_date, end_date=end_date)
             else:
-                ret = self._security_api.get_security_stock_prices(id, start_date=start_date, end_date=end_date, frequency=frequency)
+                ret = self._security_api.get_security_intraday_prices(id, start_date=start_date, end_date=end_date)
         except ApiException as e:
             print(DataGetter.MSG_EXCEPTION %(__name__, e))
         
         return ret
 
-    def getCompaniesList(self, with_http_info=False):
-        try:
-            if with_http_info:
-                ret = self._company_api.get_all_companies_with_http_info(has_fundamentals=True, has_stock_prices=True)
-            else:
-                ret = self._company_api.get_all_companies(has_fundamentals=True, has_stock_prices=True)
-        except ApiException as e:
-            print(DataGetter.MSG_EXCEPTION % (__name__, e))
 
-        return ret
+    def getCompaniesList(self, with_http_info=False):
+        if with_http_info:
+            it = self._callAPI(
+                self._company_api.get_all_companies_with_http_info,
+                has_fundamentals=True, has_stock_prices=True
+            )
+        else:
+            it = self._callAPI(
+                self._company_api.get_all_companies,
+                has_fundamentals=True, has_stock_prices=True
+            )
+        
+        response = []
+        (ret, res) = next(it)
+        response.append(res)
+        for i in it:
+            (obj, res) = i
+            ret.companies += obj.companies
+            response.append(res)
+
+        return (ret, response)
 
     
     @classmethod
@@ -91,14 +167,16 @@ class DataGetter:
 
     def _getFundementalsByCompanyPeriod(self, key, with_http_info=False):
         print(key)
+        response = None
         try:
             if with_http_info:
-                ret = self._fundementals_api.get_fundamental_standardized_financials_with_http_info(key)
+                (obj, response, _) = self._fundementals_api.get_fundamental_standardized_financials_with_http_info(key)
             else:
-                ret = self._fundementals_api.get_fundamental_standardized_financials(key)
+                obj = self._fundementals_api.get_fundamental_standardized_financials(key)
         except ApiException as e:
             print(DataGetter.MSG_EXCEPTION % (__name__, e))
-        return ret
+        
+        return (obj, response)
 
 
     def getIncomeStatementByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
@@ -114,5 +192,3 @@ class DataGetter:
     def getBalanceSheetByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
         key = DataGetter._getFundementalsKey(company_id, DataGetter.TAG_BALANCE_SHEET, year, quater)
         return self._getFundementalsByCompanyPeriod(key, with_http_info)
-
-
