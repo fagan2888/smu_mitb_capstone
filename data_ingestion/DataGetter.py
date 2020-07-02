@@ -128,9 +128,9 @@ class DataGetter:
     def getSecuritiesIntradayPriceVolume(self, id, start_date, end_date, with_http_info=False):
         try:
             if with_http_info:
-                ret = self._security_api.get_security_intraday_prices_with_http_info(id, start_date=start_date, end_date=end_date)
+                ret = self._security_api.get_security_intraday_prices_with_http_info(id, start_date=start_date, end_date=end_date, source='iex')
             else:
-                ret = self._security_api.get_security_intraday_prices(id, start_date=start_date, end_date=end_date)
+                ret = self._security_api.get_security_intraday_prices(id, start_date=start_date, end_date=end_date, source='iex')
         except ApiException as e:
             print(DataGetter.MSG_EXCEPTION %(__name__, e))
         
@@ -167,6 +167,7 @@ class DataGetter:
 
     def _getFundementalsByCompanyPeriod(self, key, with_http_info=False):
         print(key)
+        obj = None
         response = None
         try:
             if with_http_info:
@@ -192,3 +193,26 @@ class DataGetter:
     def getBalanceSheetByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
         key = DataGetter._getFundementalsKey(company_id, DataGetter.TAG_BALANCE_SHEET, year, quater)
         return self._getFundementalsByCompanyPeriod(key, with_http_info)
+
+
+    def getFundementalsByCompany(self, company_id, year, with_http_info=False):
+        if with_http_info:
+            it = self._callAPI(
+                self._company_api.get_company_fundamentals_with_http_info,
+                company_id, fiscal_year=year
+            )
+        else:
+            it = self._callAPI(
+                self._company_api.get_company_fundamentals,
+                company_id, fiscal_year=year
+            )
+        
+        response = []
+        (ret, res) = next(it)
+        response.append(res)
+        for i in it:
+            (obj, res) = i
+            ret.fundamentals += obj.fundamentals
+            response.append(res)
+
+        return (ret, response)
