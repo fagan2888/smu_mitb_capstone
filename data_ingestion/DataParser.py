@@ -1,9 +1,9 @@
 import pandas as pd
-from . import DataGetter
 
 class DataParser():
 
-    def parseFundamentals(self, data, as_dataframe=False):
+    @classmethod
+    def parseFundamentals(cls, data, as_dataframe=False):
         df = []
         if hasattr(data, 'fundamental'):
             d = {}
@@ -21,7 +21,8 @@ class DataParser():
         return pd.DataFrame(df) if as_dataframe else df
 
 
-    def parseStandardizeFinanacials(self, data, as_dataframe=False):
+    @classmethod
+    def parseStandardizeFinanacials(cls, data, as_dataframe=False):
         df = []
         if hasattr(data, 'standardized_financials'):
             for var in data.standardized_financials:
@@ -38,3 +39,16 @@ class DataParser():
         return pd.DataFrame(df) if as_dataframe else df    
         
 
+    @classmethod
+    def parseDistinctDataTags(cls, data):
+        df = pd.DataFrame(data.tags_dict)
+        return df.tag.unique()
+
+    @classmethod
+    def parseHistoricalTagData(cls, identifier, tag, data, as_dataframe=False):
+        df = pd.DataFrame(data.historical_data_dict)
+        if data.historical_data_dict:
+            df['identifier'] = identifier
+            df.rename(columns={'value': tag}, inplace=True)
+
+        return df if as_dataframe else df.to_json('records')

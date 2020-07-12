@@ -1,0 +1,892 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,149222000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,149222000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2231000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2231000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,146991000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21283000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,44195000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4102000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2117000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1980000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,73677000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,73314000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-98000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,965000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1063000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,74377000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27006000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,47371000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,47371000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,93000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,47278000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,133461000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133461000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,135100000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q1,2011-01-01,2011-03-31,2012-05-03 16:16:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,169242000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,169242000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2735000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2735000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,166507000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21323000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,52685000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4514000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1132000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,3034000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,82688000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,83819000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-217000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,457000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,674000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,84493000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30383000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,54110000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,54110000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,46000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,54064000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,133461000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133461000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,131900000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q2,2011-04-01,2011-06-30,2012-07-26 16:05:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,180801000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,180801000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3227000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3227000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,177574000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23942000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,60349000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4630000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2394000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,4191000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95506000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,82068000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-212000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2802000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2590000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,79478000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25185000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,54293000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,54293000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-21000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,54314000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,133461000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133461000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,132500000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q3,2011-07-01,2011-09-30,2012-11-05 16:37:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,137798000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,137798000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2680000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2680000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,135118000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-21778000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,51947000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5116000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1880000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,64397000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,101562000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,33556000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,944000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,808000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,126000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33546000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11529000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22017000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22017000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-4000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22021000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,133461000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,134865000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.15
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,133600000.0
+TripAdvisor Inc,TRIP,,0001526520,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,183715000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,183715000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2734000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2734000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,180981000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,34095000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,67389000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4281000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1839000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,107604000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,73377000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2932000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,696000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2236000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,71141000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22970000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,48171000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,48171000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,60000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,48111000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,133754000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,136158000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,133600000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 16:50:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,197148000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,197148000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2926000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2926000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,194222000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39826000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,64243000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4715000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1760000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,110544000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,83678000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2405000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4539000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6944000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,76734000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23569000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,53165000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,53165000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,146000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,53019000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139278000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,141737000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139500000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q2,2012-04-01,2012-06-30,2013-07-24 16:06:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,212710000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,212710000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2876000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2876000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,209834000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20056000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,67647000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5037000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1310000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,23535000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,117585000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,92249000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2882000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,76000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1367000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1439000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,90810000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31275000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,59535000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,59535000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,175000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,59360000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,142342000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,143657000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,141300000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:03:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,169427000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,169427000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3464000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3464000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,165963000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-17977000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,66721000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5967000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1091000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,63465000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,119267000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,46696000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2781000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-76000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-524000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3381000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,43315000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9186000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,34129000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,34129000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-381000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,otheradjustmentstonetincometocommon,Other Adjustments to Net Income / (Loss) Attributable to Common Shareholders),-,debit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,33510000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139462000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,141341000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139600000.0
+TripAdvisor Inc,TRIP,,0001526520,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,230000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,230000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,226000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,79000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,29000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,138000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,88000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,84000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,62000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,62000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,62000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,143063000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,144655000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.43
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,140900000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q1,2013-01-01,2013-03-31,2014-05-06 16:07:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,255000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,255000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,6000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,6000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,249000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,97000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,165000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,84000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,28000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,56000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,56000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,56000000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,142690000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145454000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,143600000.0
+TripAdvisor Inc,TRIP,,0001526520,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 16:05:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,281000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,281000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,273000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,101000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,38000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,177000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,96000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,94000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,142399000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.48
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145665000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,141700000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:08:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.48
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,323000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,323000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,9000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,9000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,314000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,127000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,41000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,214000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,100000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,98000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,142701000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.48
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145782000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,141700000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q2,2014-04-01,2014-06-30,2015-07-23 16:05:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.48
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,354000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,354000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,11000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,11000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,343000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,159000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,12000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,46000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,259000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,75000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,21000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,54000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,54000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,54000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,142842000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146071000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,142100000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 16:06:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,288000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,288000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,12000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,12000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,276000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,115000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,46000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,216000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,60000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,55000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,36000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,36000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,36000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,142721000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145800000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,143000000.0
+TripAdvisor Inc,TRIP,,0001526520,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,363000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,363000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,350000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,33000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,157000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,49000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,260000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,90000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,86000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,63000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,63000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,63000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,143145000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145872000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.43
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,143200000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:07:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,405000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,405000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,389000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,44000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,192000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,50000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,310000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,79000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,82000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,58000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,58000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,58000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,143709000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145959000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,145000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:02:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,415000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,415000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,399000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,37000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,197000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,54000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,311000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,88000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,10000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,98000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,74000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,74000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,74000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,144133000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145828000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,145100000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:06:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,309000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,309000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,296000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,96000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,146000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,54000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,321000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-25000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-27000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-30000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,143836000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145967000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,143500000.0
+TripAdvisor Inc,TRIP,,0001526520,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,352000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,352000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,336000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,37000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,172000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,61000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,294000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,38000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,29000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,29000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,29000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145445000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146903000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,145000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:51:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,391000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,391000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,371000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,202000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,17000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,63000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,324000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,47000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,44000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145732000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,147060000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,147800000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:07:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,421000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,421000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,19000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,19000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,402000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,210000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,18000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,62000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,336000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,66000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,63000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,55000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,55000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,55000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145678000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,147217000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,144700000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 16:06:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,316000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,316000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,300000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,172000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,18000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,57000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,289000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145443000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.02
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146893000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,144600000.0
+TripAdvisor Inc,TRIP,,0001526520,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,372000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,372000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,17000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,17000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,355000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,207000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,19000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,59000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,328000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,143632000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,144717000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,144400000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q1,2017-01-01,2017-03-31,2018-05-08 16:08:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,424000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,424000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,404000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,229000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,19000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,64000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,358000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,46000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,44000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,27000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,27000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,27000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,140472000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140937000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,142100000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 16:06:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,439000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,439000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,419000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,247000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,19000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,61000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,377000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,38000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,25000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,25000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,25000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138779000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,139388000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,138900000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q3,2017-07-01,2017-09-30,2018-11-07 16:08:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,321000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,321000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,15000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,15000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,306000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,166000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,22000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,59000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,297000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,87000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-84000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-84000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-84000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,140000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.6
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140000000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.6
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,135700000.0
+TripAdvisor Inc,TRIP,,0001526520,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.6
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,378000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,378000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,358000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,198000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,67000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,335000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139312000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140322000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 16:05:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,433000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,433000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,24000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,24000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,409000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,46000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,217000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,21000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,360000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,49000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,42000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,32000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,32000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,32000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,137831000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,139619000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139100000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:12:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,458000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,458000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,435000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,206000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,72000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,346000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,89000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,87000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,69000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,69000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,69000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,137574000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140513000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,138000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:45:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,346000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,346000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,19000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,19000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,327000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,157000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,21000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,305000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.05
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140000000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.05
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,137800000.0
+TripAdvisor Inc,TRIP,,0001526520,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.05
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,376000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,376000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,355000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,178000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,73000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,324000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,26000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,26000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,141000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,136800000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:02:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,422000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,422000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,27000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,27000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,395000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,45000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,180000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,74000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,329000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,66000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139070000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140805000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,141700000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:12:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,428000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,428000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,25000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,25000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,403000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,51000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,176000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,76000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,335000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,68000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,7000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,5000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,73000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,50000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,50000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,50000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139324000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140381000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.36
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,138900000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:45:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,334000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,334000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,313000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,138000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,24000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,71000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,291000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,13000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-14000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,141000000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,138500000.0
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+TripAdvisor Inc,TRIP,,0001526520,2019.0,Q4,2019-10-01,2019-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,3.5

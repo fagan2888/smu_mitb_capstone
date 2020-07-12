@@ -1,5 +1,10 @@
+import pandas as pd
+from time import sleep
 import intrinio_sdk
 from intrinio_sdk.rest import ApiException
+
+from .DataParser import DataParser
+
 
 class DataGetter:
     MSG_EXCEPTION = 'Exception occurred when calling %s: %s\r\n'
@@ -22,12 +27,14 @@ class DataGetter:
         self._company_api = intrinio_sdk.CompanyApi()
         self._security_api = intrinio_sdk.SecurityApi()
         self._fundementals_api = intrinio_sdk.FundamentalsApi()
+        self._data_tag_api = intrinio_sdk.DataTagApi()
+        self._historical_data_api = intrinio_sdk.HistoricalDataApi()
 
 
     def _callAPI(self, func, *args, **kwargs):
         kwargs['next_page'] = ''
         while kwargs['next_page'] is not None:
-            print (", ".join(f"{param}: {value}" for param, value in kwargs.items()))
+            #print (", ".join(f"{param}: {value}" for param, value in kwargs.items()))
             try:
                 ret = func(*args, **kwargs)
                 if type(ret) == tuple:
@@ -166,7 +173,6 @@ class DataGetter:
 
 
     def _getFundementalsByCompanyPeriod(self, key, with_http_info=False):
-        print(key)
         obj = None
         response = None
         try:
@@ -175,6 +181,7 @@ class DataGetter:
             else:
                 obj = self._fundementals_api.get_fundamental_standardized_financials(key)
         except ApiException as e:
+            print(key)
             print(DataGetter.MSG_EXCEPTION % (__name__, e))
         
         return (obj, response)
@@ -183,7 +190,7 @@ class DataGetter:
     def getIncomeStatementByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
         key = DataGetter._getFundementalsKey(company_id, DataGetter.TAG_INCOME_STATEMENT, year, quater)
         return self._getFundementalsByCompanyPeriod(key, with_http_info)
-
+    
 
     def getCashflowByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
         key = DataGetter._getFundementalsKey(company_id, DataGetter.TAG_CASHFLOW_STATEMENT, year, quater)
@@ -193,6 +200,71 @@ class DataGetter:
     def getBalanceSheetByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
         key = DataGetter._getFundementalsKey(company_id, DataGetter.TAG_BALANCE_SHEET, year, quater)
         return self._getFundementalsByCompanyPeriod(key, with_http_info)
+
+
+    def _getDistinctDataTags(self, type='', statement_code='', fs_template='', with_http_info=False):
+        obj = None
+        response = None
+        try:
+            if with_http_info:
+                (obj, response, _) = self._data_tag_api.get_all_data_tags_with_http_info(
+                    type=type, statement_code=statement_code, fs_template=fs_template, page_size=500
+                )
+            else:
+                obj = self._data_tag_api.get_all_data_tags(
+                    type=type, statement_code=statement_code, fs_template=fs_template, page_size=500
+                )
+        except ApiException as e:
+            print(DataGetter.MSG_EXCEPTION %(__name__, e))
+        
+        return (obj, response)
+
+
+    def _getHistoricalDataByTag(self, identifier, tag, start_date, end_date, with_http_info=False):
+        if with_http_info:
+            it = self._callAPI(
+                self._historical_data_api.get_historical_data_with_http_info,
+                identifier=identifier, tag=tag, start_date=start_date, end_date=end_date, page_size=500
+            )
+        else:
+            it = self._callAPI(
+                self._historical_data_api.get_historical_data,
+                identifier=identifier, tag=tag, start_date=start_date, end_date=end_date, page_size=500
+            )
+        
+        response = []
+        (ret, res) = next(it)
+        response.append(res)
+        for i in it:
+            (obj, res) = i
+            ret.historical_data += obj.historical_data
+            response.append(res)
+
+        return (ret, response)
+
+
+    def getHistoricalIncomeStatementByCompany(self, company_id, start_date, end_date, with_http_info=False):
+        tags, _ = self._getDistinctDataTags(statement_code='income_statement')
+        tags = DataParser.parseDistinctDataTags(tags)
+        sleep(2)
+
+        response = []
+        df = None
+        for t in tags:
+            obj, res = self._getHistoricalDataByTag(company_id, t, start_date, end_date, with_http_info)
+            response.append(res)
+
+            df_tag = DataParser.parseHistoricalTagData(company_id, t, obj, as_dataframe=True)
+            if not df_tag.empty:
+                if df is None:
+                    df = df_tag
+                else:
+                    #print(df.head())
+                    #print(df_tag.head())
+                    df = pd.merge(df, df_tag, on=['identifier','date'], how='outer')
+            sleep(1)
+        
+        return (df, response)
 
 
     def getFundementalsByCompany(self, company_id, year, with_http_info=False):

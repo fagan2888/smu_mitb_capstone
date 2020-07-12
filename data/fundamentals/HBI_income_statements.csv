@@ -1,0 +1,968 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,986022000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,986022000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,658631000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,658631000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,327391000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,230699000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,12544000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,243243000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84148000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,44807000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-168000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-44975000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,39173000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8618000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,30555000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,30555000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,30555000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,95023000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,96167000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,95500000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q2,2009-04-05,2009-07-04,2010-07-28 16:55:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1058673000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1058673000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,701993000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,701993000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,356680000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,248267000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,15104000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,263371000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,93309000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,42941000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2423000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-45364000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,47945000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6807000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41138000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,41138000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,41138000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,95247000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.43
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,96422000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.43
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,95700000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2009.0,Q3,2009-07-05,2009-10-03,2010-10-28 14:44:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.43
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,927840000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,927840000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,600410000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,600410000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,327430000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,241718000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,241718000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,85712000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,37495000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1406000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38901000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,46811000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10298000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,36513000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,36513000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,36513000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,96326000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,97493000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,96100000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q1,2010-01-03,2010-04-03,2011-04-27 17:40:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1075852000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1075852000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,701046000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,701046000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,374806000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,252001000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,252001000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,122805000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36573000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2628000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39201000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,83604000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1808000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,85412000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,85412000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,85412000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,96420000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.89
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,98027000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.87
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,96000000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q2,2010-04-04,2010-07-03,2011-07-28 17:13:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.89
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1173362000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1173362000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,809487000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,809487000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,363875000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,249815000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,249815000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,114060000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36326000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1094000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37420000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,76640000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15328000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,61312000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,61312000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,61312000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,96496000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.64
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,97752000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,95800000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q3,2010-07-04,2010-10-02,2011-11-03 17:07:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.64
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,968958000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,968958000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,659231000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,659231000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,309727000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,251439000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,251439000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,58288000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39749000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-15093000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-54842000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3446000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5929000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9375000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,18681000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28056000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28056000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,96500000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,96500000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,96500000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2010.0,Q4,2010-10-03,2011-01-01,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1036410000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1036410000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,681885000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,681885000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,354525000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,252682000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,252682000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,101843000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41105000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-601000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41706000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,60137000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12028000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,48109000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,48109000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,48109000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,97194000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,98589000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,98200000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q1,2011-01-02,2011-04-02,2012-04-25 16:50:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1167986000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1167986000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,757962000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,757962000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,410024000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,274202000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,274202000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,135822000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39127000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-814000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39941000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,95881000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18121000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,77760000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,9022000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,86782000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,86782000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,97537000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.89
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,99224000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.87
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,97500000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q2,2011-04-03,2011-07-02,2012-08-01 18:04:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.89
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1185304000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1185304000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,771251000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,771251000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,414053000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,269109000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,269109000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,144944000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,38255000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-880000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39135000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,105809000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20739000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,85070000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5762000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,90832000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,90832000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,97925000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.93
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,99535000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.91
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,97700000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q3,2011-07-03,2011-10-01,2012-10-24 16:36:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.93
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1044591000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1044591000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,729985000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,729985000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,314606000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,250088000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,250088000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,64518000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,37711000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4082000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41793000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22725000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8905000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31630000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,9335000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,40965000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,40965000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,97710000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,97710000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,97710000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2011.0,Q4,2011-10-02,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,973133000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,973133000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,718019000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,718019000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,255114000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,244469000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,244469000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10645000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36995000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-645000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37640000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-26995000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2724000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-24271000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2559000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-26830000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-26830000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,98533000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.27
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,98533000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.27
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,98533000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 17:27:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.27
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1180651000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1180651000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,813719000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,813719000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,366932000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,246981000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,246981000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,119951000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36611000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-811000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37422000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,82529000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15213000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,67316000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-66085000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1231000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1231000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123100000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.01
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123100000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.01
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123100000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 10:19:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1218681000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1218681000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,818751000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,818751000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,399930000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,243422000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,243422000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,156508000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,32897000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3373000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-36270000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,120238000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9055000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,111183000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1291000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,109892000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,109892000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,98707000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.11
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,98707000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.09
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,98707000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q3,2012-07-01,2012-09-29,2013-10-31 14:43:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.11
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1153256000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1153256000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,755185000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,755185000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,398071000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,245060000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,245060000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,153011000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30352000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-35486000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-65838000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,87173000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8958000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,78215000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,2173000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,80388000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,80388000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,98709000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,98709000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.81
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,98709000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2012.0,Q4,2012-09-30,2012-12-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,945461000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,945461000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,618162000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,618162000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,327299000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,242156000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,242156000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,85143000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25623000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-464000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26087000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,59056000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7677000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,51379000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,51379000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,51379000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,99369000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.52
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,99369000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,99369000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q1,2012-12-30,2013-03-30,2014-04-25 13:20:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.52
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1199205000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1199205000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,763723000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,763723000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,435482000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,254035000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,254035000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,181447000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25221000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-751000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25972000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,155475000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,33889000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,121586000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,121586000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,121586000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,99855000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,99855000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.19
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,99855000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q2,2013-03-31,2013-06-29,2014-07-24 15:39:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1197346000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1197346000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,775666000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,775666000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,421680000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,244782000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,244782000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,176898000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25002000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-795000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25797000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,151101000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25838000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,125263000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,125263000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,125263000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100066000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.25
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100066000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.23
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,100066000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q3,2013-06-30,2013-09-28,2014-10-30 14:58:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.25
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1285790000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1285790000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,858558000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,858558000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,427232000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,355534000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,355534000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,71698000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,26038000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-15491000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41529000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30169000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2097000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,32266000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,32266000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,32266000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,399436000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,399436000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,399436000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2013.0,Q4,2013-09-29,2013-12-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1059370000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1059370000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,702593000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,702593000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,356777000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,284989000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,284989000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,71788000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21818000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-435000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22253000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,49535000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7975000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41560000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,41560000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,41560000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,401564000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,401564000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,401564000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q1,2013-12-29,2014-03-29,2015-05-01 14:50:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1342052000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1342052000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,837698000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,837698000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,504354000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,297230000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,297230000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,207124000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21119000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-660000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21779000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,185345000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30767000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,154578000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,154578000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,154578000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,401920000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,401920000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,401920000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q2,2014-03-30,2014-06-28,2015-07-31 16:56:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1400728000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1400728000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,903013000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,903013000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,497715000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,343823000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,343823000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,153892000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23528000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-795000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24323000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,129569000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10625000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,118944000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,118944000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,118944000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,402392000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,402392000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,402392000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q3,2014-06-29,2014-09-27,2015-10-29 16:41:30+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1522596000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1522596000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,977035000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,977035000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,545561000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,414411000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,414411000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,131150000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29922000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-709000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30631000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,100519000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11082000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,89437000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,89437000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,89437000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,402300000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,402300000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,402300000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2014.0,Q4,2014-09-28,2015-01-03,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1208921000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1208921000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,762690000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,762690000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,446231000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,356300000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,356300000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,89931000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,26887000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-382000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27269000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,62662000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10026000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,52636000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,52636000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,52636000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,403578000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,403578000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,403578000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q1,2015-01-04,2015-04-04,2016-04-26 15:33:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1522033000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1522033000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,953808000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,953808000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,568225000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,429292000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,429292000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,138933000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29020000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-830000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-29850000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,109083000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14181000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,94902000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,94902000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,94902000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,403949000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,403949000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,403949000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q2,2015-04-05,2015-07-04,2016-08-04 13:34:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1591038000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1591038000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1010288000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1010288000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,580750000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,372422000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,372422000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,208328000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31356000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-718000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-32074000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,176254000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14100000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,162154000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,0.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,162154000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,162154000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,399445000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,399445000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,399445000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q3,2015-07-05,2015-10-03,2016-10-28 14:30:34+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1409557000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1409557000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,868431000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,868431000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,541126000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,383200000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,383200000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,157926000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30772000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1280000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-32052000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,125874000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6711000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,119163000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,119163000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,119163000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,399891000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,399891000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,399891000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2015.0,Q4,2015-10-04,2016-01-02,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1219140000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1219140000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,761884000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,761884000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,457256000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,334851000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,334851000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,122405000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31566000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-649000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-32215000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,90190000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9921000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,80269000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,0.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,80269000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,80269000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,386598000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,386598000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,386598000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q1,2016-01-03,2016-04-02,2017-05-03 16:08:15+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1472731000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1472731000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,915440000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,915440000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,557291000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,336081000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,336081000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,221210000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36540000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-48325000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-84865000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,136345000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8202000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,128143000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,0.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,128143000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,128143000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,379233000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,379233000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,379233000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q2,2016-04-03,2016-07-02,2017-08-02 17:07:35+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1761019000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1761019000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1111653000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1111653000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,649366000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,421014000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,421014000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,228352000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,43433000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1559000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-44992000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,183360000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10570000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,172790000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1068000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,173858000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,173858000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,379368000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,379368000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,379368000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q3,2016-07-03,2016-10-01,2017-11-02 17:46:25+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1575309000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1575309000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,963174000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,963174000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,612135000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,394051000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,394051000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,218084000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41153000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-15627000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-56780000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,161304000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5579000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,155725000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1387000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,157112000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,157112000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,381782000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,381782000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,381782000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2016.0,Q4,2016-10-02,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1380355000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1380355000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,840824000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,840824000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,539531000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,413102000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,413102000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,126429000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,42137000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6545000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-48682000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,77747000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4665000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,73082000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2465000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,70617000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,70617000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,373218000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,373218000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,373218000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q1,2017-01-01,2017-04-01,2018-05-01 17:16:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1646610000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1646610000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1000708000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1000708000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,645902000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,412197000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,412197000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,233705000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,44130000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6422000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-50552000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,183153000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10989000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,172164000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,368000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,172532000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,172532000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,365911000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,365911000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,365911000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q2,2017-04-02,2017-07-01,2018-08-01 18:36:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1799270000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1799270000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1120813000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1120813000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,678457000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,419991000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,419991000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,258466000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,43917000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7043000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-50960000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,207506000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4150000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,203356000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,0.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,203356000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,203356000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,366083000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.56
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,366083000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.55
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,366083000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.56
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q3,2017-07-02,2017-09-30,2018-11-01 17:26:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1645175000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1645175000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1019614000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1019614000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,625561000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,480134000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,27852000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,507986000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,117575000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,44251000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-12635000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-56886000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,60689000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,433313000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-372624000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-372624000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-372624000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,367680000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.02
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,367680000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.01
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,367680000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.02
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2017.0,Q4,2017-10-01,2017-12-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.3
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1471504000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1471504000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,892583000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,892583000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,578921000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,432863000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,432863000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,146058000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,45763000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5761000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-51524000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,94534000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15125000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,79409000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,79409000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,79409000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,361882000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,361882000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,361882000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q1,2017-12-31,2018-03-31,2019-05-02 17:06:39+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1715443000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1715443000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1055487000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1055487000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,659956000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,439893000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,439893000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,220063000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,48430000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6570000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-55000000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,165063000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24430000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,140633000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,140633000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,140633000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,362011000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,362011000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.39
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,362011000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 09:14:46+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1848707000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1848707000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1136040000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1136040000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,712667000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,455778000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,455778000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,256889000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,52795000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7285000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-60080000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,196809000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25388000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,171421000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,171421000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,171421000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,363510000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,363510000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,363510000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q3,2018-07-01,2018-09-29,2019-10-31 16:12:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1768301000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1768301000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1066626000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1066626000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,701675000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,460034000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,460034000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,241641000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,47687000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6779000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-54466000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,187175000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,38972000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,148203000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,148203000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,148203000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,363513000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,363513000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,363513000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2018.0,Q4,2018-09-30,2018-12-29,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.3
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1588024000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1588024000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,967993000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,967993000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,620031000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,470387000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,470387000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,149644000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,48059000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7451000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-55510000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,94134000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13046000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,81088000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,81088000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,81088000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,364570000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,364570000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,364570000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q1,2018-12-30,2019-03-30,2020-04-30 06:37:35+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1760927000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1760927000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1086248000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1086248000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,674679000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,440662000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,440662000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,234017000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46522000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-8249000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-54771000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,179246000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25274000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,153972000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,153972000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,153972000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,364637000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,364637000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,364637000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q2,2019-03-31,2019-06-29,2019-08-02 09:14:46+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1866967000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1866967000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1154629000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1154629000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,712338000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,442582000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,442582000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,269756000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,43091000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-8066000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-51157000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,218599000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30823000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,187776000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,187776000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,187776000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,364743000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,364743000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,364743000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q3,2019-06-30,2019-09-28,2019-10-31 16:12:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1751005000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1751005000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1038723000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1038723000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,712282000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,475969000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,475969000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,236313000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,40907000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7658000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-48565000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,187748000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9864000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,177884000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,177884000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,177884000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,364709000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,364709000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,364709000.0
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+HanesBrands Inc,HBI,GX5LWVWZLL5S4W1L2F20,0001359841,2019.0,Q4,2019-09-29,2019-12-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.3

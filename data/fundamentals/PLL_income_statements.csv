@@ -1,0 +1,565 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,546939000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,546939000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,276741000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,276741000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,270198000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,176658000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,17249000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4057000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,197964000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,72234000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-2606000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2606000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,74840000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7857000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,66983000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,66983000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,66983000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,117686000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.57
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118847000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.56
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,117500000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.57
+Pall Corp ,PLL,,0000075829,2010.0,Q1,2009-08-01,2009-10-31,2010-12-10 16:20:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.145
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,560401000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,560401000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,276116000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,276116000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,284285000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,187012000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,18639000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,572000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,206223000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,78062000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5694000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5694000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,72368000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22749000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,49619000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,49619000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,49619000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,117875000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,119290000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,118100000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+Pall Corp ,PLL,,0000075829,2010.0,Q2,2009-11-01,2010-01-31,2011-03-14 17:13:48+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.16
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,615982000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,615982000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,302450000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,302450000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,313532000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,187303000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,18986000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2030000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,208319000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,105213000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3254000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3254000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,101959000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,32268000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,69691000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,69691000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,69691000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,117589000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.59
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,119204000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.58
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,118100000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.59
+Pall Corp ,PLL,,0000075829,2010.0,Q3,2010-02-01,2010-04-30,2011-06-09 17:12:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.16
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,462357000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,462357000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,208826000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,208826000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,253531000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,165681000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,13922000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,11005000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,190608000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,62923000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25171000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-14324000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39495000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23428000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7268000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16160000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,38795000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,54955000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,54955000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,117437000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118846000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,117700000.0
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+Pall Corp ,PLL,,0000075829,2010.0,Q4,2010-05-01,2010-07-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.47
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,605477000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,605477000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,296804000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,296804000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,308673000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,182298000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20169000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1409000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,203876000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,104797000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-7294000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7294000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,97503000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26094000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,71409000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,71409000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,71409000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116292000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.61
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117821000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.61
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,117100000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.61
+Pall Corp ,PLL,,0000075829,2011.0,Q1,2010-08-01,2010-10-31,2011-12-09 17:22:31+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.16
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,645232000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,645232000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,312747000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,312747000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,332485000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,197100000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20773000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4789000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,222662000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,109823000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5814000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5814000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,104009000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,28345000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,75664000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,75664000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,75664000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116476000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.65
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118266000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.64
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116400000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.65
+Pall Corp ,PLL,,0000075829,2011.0,Q2,2010-11-01,2011-01-31,2012-03-09 17:19:38+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,653792000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,653792000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,321526000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,321526000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,332266000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,203327000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,19308000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,7723000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,230358000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,101908000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-6068000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6068000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,95840000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34082000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,61758000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,9311000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,71069000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,71069000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116899000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.61
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118723000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.6
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116500000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.61
+Pall Corp ,PLL,,0000075829,2011.0,Q3,2011-02-01,2011-04-30,2012-06-11 17:23:31+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,612694000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,612694000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,301206000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,301206000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,311488000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,207554000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20256000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,12584000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,240394000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,71094000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,273000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,273000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,71367000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1001000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,70366000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,26988000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,97354000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,97354000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116521000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.84
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118266000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.82
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116400000.0
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+Pall Corp ,PLL,,0000075829,2011.0,Q4,2011-05-01,2011-07-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.51
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,651262000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,651262000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,315910000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,315910000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,335352000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,208180000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,19521000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,22984000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,250685000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84667000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5945000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5945000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,78722000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19070000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,59652000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,9803000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,69455000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,69455000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,115824000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.6
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117224000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.59
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,115800000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.6
+Pall Corp ,PLL,,0000075829,2012.0,Q1,2011-08-01,2011-10-31,2012-12-07 16:22:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,640047000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,640047000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,301882000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,301882000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,338165000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,209576000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20050000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,5156000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,234782000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,103383000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5386000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5386000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,97997000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23351000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,74646000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,10083000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,84729000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,84729000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116196000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.73
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117914000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.72
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116100000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.73
+Pall Corp ,PLL,,0000075829,2012.0,Q2,2011-11-01,2012-01-31,2013-03-06 17:24:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,657976000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,657976000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,323550000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,323550000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,334426000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,215226000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20780000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2861000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,238867000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,95559000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-6351000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6351000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,89208000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18270000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,70938000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,7980000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,78918000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,78918000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116567000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.68
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118358000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116100000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.68
+Pall Corp ,PLL,,0000075829,2012.0,Q3,2012-02-01,2012-04-30,2013-06-05 20:06:49+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,722371000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,722371000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,350216000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,350216000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,372155000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,210239000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,22581000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,35857000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,268677000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,103478000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2495000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2495000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,100983000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25272000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,75711000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,10496000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,86207000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,86207000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116061000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.74
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117663000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.73
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116100000.0
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.74
+Pall Corp ,PLL,,0000075829,2012.0,Q4,2012-05-01,2012-07-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.6
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,627600000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,627600000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,300517000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,300517000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,327083000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,195965000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,22575000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4274000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,222814000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,104269000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,568000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,568000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,104837000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15672000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,89165000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,250307000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,339472000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,339472000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,114589000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.96
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,116097000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.92
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,114700000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.96
+Pall Corp ,PLL,,0000075829,2013.0,Q1,2012-08-01,2012-10-31,2013-12-03 16:19:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,662455000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,662455000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,320492000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,320492000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,341963000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,206009000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,23399000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4399000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,233807000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,108156000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-6017000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6017000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,102139000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,21820000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,80319000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-3549000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,76770000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,76770000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,112420000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.68
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,113809000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,112900000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.68
+Pall Corp ,PLL,,0000075829,2013.0,Q2,2012-11-01,2013-01-31,2014-03-03 16:39:27+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,641190000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,641190000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,307111000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,307111000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,334079000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,199595000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,22608000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,12824000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,235027000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,99052000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5298000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5298000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,93754000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19483000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,74271000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1206000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,73065000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,73065000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,111964000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.65
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,113311000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.64
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,112400000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.65
+Pall Corp ,PLL,,0000075829,2013.0,Q3,2013-02-01,2013-04-30,2014-06-02 16:56:25+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,716818000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,716818000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,347940000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,347940000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,368878000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,208789000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,25634000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,18685000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,253108000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,115770000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-4874000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4874000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,110896000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24689000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,86207000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-579000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,85628000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,85628000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,112803000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,114236000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,112700000.0
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+Pall Corp ,PLL,,0000075829,2013.0,Q4,2013-05-01,2013-07-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.75
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,629779000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,629779000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,304065000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,304065000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,325714000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,194884000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,23267000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9198000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,227349000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,98365000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5977000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5977000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,92388000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20875000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,71513000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,71513000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,71513000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,111870000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.64
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,113135000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,111700000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.64
+Pall Corp ,PLL,,0000075829,2014.0,Q1,2013-08-01,2013-10-31,2014-12-02 16:46:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.275
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,676969000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,676969000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,332710000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,332710000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,344259000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,196299000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,24979000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9170000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,230448000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,113811000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5195000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5195000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,108616000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24950000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,83666000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,83666000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,83666000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,110720000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.76
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,111980000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.75
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,110100000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.76
+Pall Corp ,PLL,,0000075829,2014.0,Q2,2013-11-01,2014-01-31,2015-02-25 16:33:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,682445000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,682445000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,334371000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,334371000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,348074000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,201045000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,26644000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,11542000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,239231000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,108843000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-4747000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4747000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,104096000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15405000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,88691000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,88691000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,88691000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,110183000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.8
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,111466000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,110900000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.8
+Pall Corp ,PLL,,0000075829,2014.0,Q3,2014-02-01,2014-04-30,2015-05-21 17:14:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,799954000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,799954000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,391838000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,391838000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,408116000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,222233000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,27711000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,10244000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,260188000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,147928000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1613000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1613000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,146315000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26229000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,120086000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,120086000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,120086000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,110776000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.09
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,111949000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.07
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,110600000.0
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.09
+Pall Corp ,PLL,,0000075829,2014.0,Q4,2014-05-01,2014-07-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.83
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,696492000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,696492000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,335084000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,335084000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,361408000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,202656000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,24777000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9240000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,236673000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,124735000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-6702000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6702000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,118033000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,29760000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,88273000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,88273000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,88273000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,108081000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.82
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,109219000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.81
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,107700000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.82
+Pall Corp ,PLL,,0000075829,2015.0,Q1,2014-08-01,2014-10-31,2014-12-02 16:46:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.305
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,673794000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,673794000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,332776000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,332776000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,341018000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,191834000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,24458000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,11534000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,227826000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,113192000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-6238000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6238000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,106954000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22555000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,84399000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,84399000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,84399000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,107139000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.79
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,108507000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106800000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.79
+Pall Corp ,PLL,,0000075829,2015.0,Q2,2014-11-01,2015-01-31,2015-02-25 16:33:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.305
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,681145000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,681145000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,325747000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,325747000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,355398000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,197683000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,24025000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,14131000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,235839000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,119559000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1270000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1270000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,118289000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22112000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,96177000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,96177000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,96177000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,107162000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.9
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,108557000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.89
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106900000.0
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.9
+Pall Corp ,PLL,,0000075829,2015.0,Q3,2015-02-01,2015-04-30,2015-05-21 17:14:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.305

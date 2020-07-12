@@ -1,0 +1,880 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3111314000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3111314000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2111558000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2111558000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,999756000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,709033000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,709033000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,290723000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,72018000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,6000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-145000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-72157000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,218566000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,82570000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,135996000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,135996000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,135996000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,340819000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,344397000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.39
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,340000000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q1,2010-01-30,2010-04-30,2011-06-01 09:04:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3214155000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3214155000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2178176000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2178176000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1035979000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,735222000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,735222000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,300757000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,69330000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,32000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6526000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-75824000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,224933000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,83738000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,141195000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,141195000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,141195000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341001000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,344746000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,344400000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q2,2010-05-01,2010-07-30,2011-08-30 08:35:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3223427000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3223427000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2212759000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2212759000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1010668000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,736334000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,736334000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,274334000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,67235000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,90000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-8312000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-75457000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,198877000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,70757000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,128120000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,128120000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,128120000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341062000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,344739000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,337200000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q3,2010-07-31,2010-10-29,2011-12-05 07:17:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3486104000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3486104000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2355951000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2355951000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1130153000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,721902000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,721902000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,408251000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,65409000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-128000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-118000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-65655000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,342596000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,120050000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,222546000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,222546000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,222546000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341047000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.65
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,344800000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.65
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,341200000.0
+Dollar General Corp,DG,,0000029534,2010.0,Q4,2010-10-30,2011-01-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.65
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3451697000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3451697000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2364300000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2364300000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1087397000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,765779000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,765779000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,321618000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,65572000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2272000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-67844000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,253774000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,96805000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,156969000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,156969000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,156969000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341522000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,345393000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,341200000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q1,2011-01-29,2011-04-29,2012-06-04 16:12:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3575194000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3575194000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2426852000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2426852000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1148342000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,798313000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,798313000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,350029000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,60627000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-58239000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-118866000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,231163000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,85121000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,146042000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,146042000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,146042000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341534000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.43
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,345625000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,339600000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q2,2011-04-30,2011-07-29,2012-09-05 08:19:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.43
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3595224000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3595224000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2479422000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2479422000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1115802000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,804885000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,804885000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,310917000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,38632000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-53000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38685000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,272232000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,101068000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,171164000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,171164000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,171164000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341955000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,345777000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.5
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342300000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q3,2011-07-30,2011-10-28,2012-12-11 08:08:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4185073000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4185073000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2838704000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2838704000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1346369000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,838129000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,838129000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,508240000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,40069000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-51000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-40120000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,468120000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,175610000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,292510000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,292510000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,292510000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341234000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.86
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,345117000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.85
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,340700000.0
+Dollar General Corp,DG,,0000029534,2011.0,Q4,2011-10-29,2012-02-03,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.86
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3901205000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3901205000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2672949000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2672949000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1228256000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,843932000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,843932000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,384324000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,37074000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1671000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38745000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,345579000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,132164000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,213415000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,213415000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,213415000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,336080000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.64
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,339490000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,333500000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q1,2012-02-04,2012-05-04,2013-06-04 09:00:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.64
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3948655000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3948655000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2685432000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2685432000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1263223000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,876009000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,876009000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,387214000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,35666000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-26557000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-62223000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,324991000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,110851000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,214140000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,214140000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,214140000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,333001000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.64
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,335521000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.64
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,334600000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q2,2012-05-05,2012-08-03,2013-09-04 08:54:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.64
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3964647000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3964647000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2738524000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2738524000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1226123000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,864734000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,864734000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,361389000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,27726000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1728000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-29454000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,331935000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,124250000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,207685000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,207685000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,207685000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,332337000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.62
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,334004000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.62
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,335000000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q3,2012-08-04,2012-11-02,2013-12-05 08:50:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.62
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4207621000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4207621000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2839822000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2839822000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1367799000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,845450000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,845450000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,522349000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,27460000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27460000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,494889000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,177467000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,317422000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,317422000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,317422000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,332254000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.97
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,334469000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.96
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,331900000.0
+Dollar General Corp,DG,,0000029534,2012.0,Q4,2012-11-03,2013-02-01,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.97
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4233733000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4233733000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2938585000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2938585000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1295148000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,900148000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,900148000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,395000000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24516000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-18871000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-43387000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,351613000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,131530000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,220083000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,220083000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,220083000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,326975000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.67
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,328132000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,328500000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q1,2013-02-02,2013-05-03,2014-06-03 08:00:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.67
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4394651000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4394651000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3017361000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3017361000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1377290000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,964468000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,964468000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,412822000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20631000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20631000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,392191000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,146716000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,245475000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,245475000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,245475000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,324770000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.76
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,325639000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.75
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,323000000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q2,2013-05-04,2013-08-02,2014-08-28 08:40:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.76
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4381838000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4381838000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3053345000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3053345000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1328493000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,938252000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,938252000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,390241000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21524000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21524000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,368717000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,131332000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,237385000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,237385000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,237385000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,321711000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.74
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,322543000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.74
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,320800000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q3,2013-08-03,2013-11-01,2014-12-04 08:44:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.74
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4493945000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4493945000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3059134000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3059134000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1434811000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,896689000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,896689000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,538122000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,22313000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22313000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,515809000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,193636000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,322173000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,322173000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,322173000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,322886000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,323854000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.01
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,323400000.0
+Dollar General Corp,DG,,0000029534,2013.0,Q4,2013-11-02,2014-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4522081000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4522081000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3164335000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3164335000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1357746000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,978038000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,978038000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,379708000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,22267000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22267000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,357441000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,135043000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,222398000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,222398000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,222398000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,309331000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.72
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,310295000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.72
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,308900000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q1,2014-02-01,2014-05-02,2015-06-02 08:21:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.72
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4724039000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4724039000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3268465000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3268465000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1455574000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1027048000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1027048000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,428526000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,22598000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22598000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,405928000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,154668000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,251260000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,251260000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,251260000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,303015000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.83
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,303888000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.83
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,302700000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q2,2014-05-03,2014-08-01,2015-08-27 08:12:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.83
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4724409000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4724409000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3300661000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3300661000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1423748000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1029605000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1029605000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,394143000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21835000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21835000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,372308000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,135992000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,236316000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,236316000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,236316000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,303080000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,304108000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,303000000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q3,2014-08-02,2014-10-31,2015-12-03 07:22:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4939059000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4939059000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3373620000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3373620000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1565439000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,998723000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,998723000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,566716000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21532000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21532000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,545184000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,189813000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,355371000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,355371000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,355371000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,304633000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.17
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,305681000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.16
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,304400000.0
+Dollar General Corp,DG,,0000029534,2014.0,Q4,2014-11-01,2015-01-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.17
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4918672000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4918672000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3419967000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3419967000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1498705000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1070511000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1070511000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,428194000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21576000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21576000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,406618000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,153383000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,253235000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,253235000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,253235000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,301202000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.84
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,302089000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.84
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,301500000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+Dollar General Corp,DG,,0000029534,2015.0,Q1,2015-01-31,2015-05-01,2016-05-26 08:03:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.22
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5095904000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5095904000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3507749000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3507749000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1588155000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1112343000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1112343000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,475812000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20699000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20699000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,455113000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,172764000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,282349000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,282349000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,282349000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,295679000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.95
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,296528000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.95
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,297200000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.95
+Dollar General Corp,DG,,0000029534,2015.0,Q2,2015-05-02,2015-07-31,2016-08-25 07:49:56+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.22
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5067048000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5067048000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3530086000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3530086000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1536962000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1113103000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1113103000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,423859000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21394000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-326000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21720000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,402139000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,148818000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,253321000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,253321000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,253321000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,292037000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.87
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,292904000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.86
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,291200000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.87
+Dollar General Corp,DG,,0000029534,2015.0,Q3,2015-08-01,2015-10-30,2016-12-01 07:53:36+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.22
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5286938000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5286938000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3604669000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3604669000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1682269000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1069840000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1069840000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,612429000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23275000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23275000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,589154000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,212979000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,376175000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,376175000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,376175000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,294330000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.3
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,295211000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.3
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,294200000.0
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.3
+Dollar General Corp,DG,,0000029534,2015.0,Q4,2015-10-31,2016-01-29,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.22
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5265432000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5265432000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3652818000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3652818000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1612614000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1131871000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1131871000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,480743000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24081000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24081000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,456662000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,161538000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,295124000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,295124000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,295124000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,285886000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.03
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,286978000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.03
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,286500000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.03
+Dollar General Corp,DG,,0000029534,2016.0,Q1,2016-01-30,2016-04-29,2017-06-01 07:51:50+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5391891000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5391891000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3710124000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3710124000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1681767000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1172670000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1172670000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,509097000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24352000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24352000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,484745000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,178227000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,306518000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,306518000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,306518000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,283130000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.08
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,284116000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.08
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,283800000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.08
+Dollar General Corp,DG,,0000029534,2016.0,Q2,2016-04-30,2016-07-29,2017-08-31 08:03:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5320029000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5320029000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3732519000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3732519000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1587510000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1194519000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1194519000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,392991000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23877000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23877000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,369114000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,133799000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,235315000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,235315000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,235315000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,280441000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.84
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,281283000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.84
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,280100000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+Dollar General Corp,DG,,0000029534,2016.0,Q3,2016-07-30,2016-10-28,2017-12-07 07:31:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6009246000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6009246000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4108499000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4108499000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1900747000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1220129000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1220129000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,680618000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25511000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25511000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,655107000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,240931000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,414176000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,414176000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,414176000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,281317000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.5
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,282261000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.48
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,281200000.0
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.5
+Dollar General Corp,DG,,0000029534,2016.0,Q4,2016-10-29,2017-02-03,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5609625000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5609625000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3910642000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3910642000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1698983000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1225188000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1225188000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,473795000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25004000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3502000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28506000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,445289000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,165800000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,279489000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,279489000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,279489000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,274692000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.02
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,275215000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.02
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,274000000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.02
+Dollar General Corp,DG,,0000029534,2017.0,Q1,2017-02-04,2017-05-05,2018-05-31 07:26:11+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.26
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5828305000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5828305000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4037783000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4037783000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1790522000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1297376000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1297376000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,493146000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23748000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23748000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,469398000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,174615000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,294783000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,294783000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,294783000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,273690000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.08
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,274132000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.08
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,272900000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.08
+Dollar General Corp,DG,,0000029534,2017.0,Q2,2017-05-06,2017-08-04,2018-08-30 08:11:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.26
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5903606000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5903606000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4137150000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4137150000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1766456000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1349025000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1349025000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,417431000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23995000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23995000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,393436000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,140903000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,252533000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,252533000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,252533000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,272319000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.93
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,272881000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.93
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,271500000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.93
+Dollar General Corp,DG,,0000029534,2017.0,Q3,2017-08-05,2017-11-03,2018-12-04 07:26:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.26
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6129431000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6129431000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4164033000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4164033000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1965398000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1341952000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1341952000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,623446000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24289000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24289000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,599157000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-112998000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,712155000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,712155000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,712155000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,272751000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,,basiceps,Basic Earnings per Share,=,,usdpershare,2.61
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,273362000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.6
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,272900000.0
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.61
+Dollar General Corp,DG,,0000029534,2017.0,Q4,2017-11-04,2018-02-02,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.26
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6114463000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6114463000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4252214000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4252214000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1862249000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1372065000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1372065000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,490184000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24773000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24773000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,465411000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,100559000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,364852000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,364852000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,364852000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,268267000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.36
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,269135000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.36
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,268300000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.36
+Dollar General Corp,DG,,0000029534,2018.0,Q1,2018-02-03,2018-05-04,2019-05-30 07:45:47+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6443309000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6443309000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4468436000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4468436000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1974873000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1429397000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1429397000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,545476000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25451000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1019000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26470000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,519006000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,111769000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,407237000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,407237000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,407237000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,266457000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.53
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,267226000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.52
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,266200000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.53
+Dollar General Corp,DG,,0000029534,2018.0,Q2,2018-05-05,2018-08-03,2019-08-29 07:39:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6417462000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6417462000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4522403000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4522403000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1895059000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1452916000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1452916000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,442143000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24586000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24586000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,417557000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,83415000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,334142000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,334142000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,334142000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,264490000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.26
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,265522000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.26
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,265200000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.26
+Dollar General Corp,DG,,0000029534,2018.0,Q3,2018-08-04,2018-11-02,2019-12-05 07:56:23+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6649809000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6649809000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4578120000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4578120000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2071689000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1433186000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1433186000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,638503000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25061000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25061000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,613442000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,130201000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,483241000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,483241000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,483241000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,265155000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.84
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,266105000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.83
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,265400000.0
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.84
+Dollar General Corp,DG,,0000029534,2018.0,Q4,2018-11-03,2019-02-01,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6623185000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6623185000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4620909000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4620909000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2002276000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1490039000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1490039000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,512237000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25933000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25933000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,486304000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,101291000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,385013000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,385013000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,385013000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,259021000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.49
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,260265000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.48
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,258400000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.49
+Dollar General Corp,DG,,0000029534,2019.0,Q1,2019-02-02,2019-05-03,2020-05-28 07:15:53+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6981753000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6981753000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4832817000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4832817000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2148936000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1571161000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1571161000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,577775000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24810000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24810000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,552965000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,126410000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,426555000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,426555000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,426555000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,257793000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.65
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,259102000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.65
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,258500000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.65
+Dollar General Corp,DG,,0000029534,2019.0,Q2,2019-05-04,2019-08-02,2019-08-29 07:39:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6991393000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6991393000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4926307000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4926307000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2065086000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1573669000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1573669000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,491417000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24264000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24264000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,467153000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,101603000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,365550000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,365550000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,365550000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,256041000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.43
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,257699000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.42
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,255600000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.43
+Dollar General Corp,DG,,0000029534,2019.0,Q3,2019-08-03,2019-11-01,2019-12-05 07:56:23+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,7157642000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,7157642000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4884879000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4884879000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2272763000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1551888000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1551888000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,720875000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25567000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25567000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,695308000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,159871000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,535437000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,535437000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,535437000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,256553000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,2.11
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,258053000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.09
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,256400000.0
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.11
+Dollar General Corp,DG,,0000029534,2019.0,Q4,2019-11-02,2020-01-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32

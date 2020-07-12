@@ -1,0 +1,991 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,529283000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,529283000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,263527000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,263527000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,265756000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,214307000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,214307000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,51449000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8378000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,393000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7985000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,43464000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,16907000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26557000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,26557000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,26557000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q2,2009-05-04,2009-08-02,2010-10-06 16:58:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,697440000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,697440000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,359766000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,359766000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,337674000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,247238000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,247238000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,90436000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8370000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,237000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8133000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,82303000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1316000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,83619000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,83619000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,83619000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,51600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.62
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.58
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,51600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.62
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2009.0,Q3,2009-08-03,2009-11-01,2010-12-09 16:00:31+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,619044000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,619044000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,302011000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,302011000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,317033000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,287200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,287200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,29833000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8382000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,107000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-52390000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-60665000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-30832000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3219000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-27613000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-27613000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-27613000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.53
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.53
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.53
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q1,2010-02-01,2010-05-02,2011-06-09 13:44:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1103268000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1103268000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,528027000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,528027000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,575241000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,524637000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,524637000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,50604000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46356000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,481000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-88100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-133975000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-83371000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-12747000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-70624000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-70624000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-70624000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,65875000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.07
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,65875000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.07
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,65875000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.07
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q2,2010-05-03,2010-08-01,2011-09-30 12:02:15+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1516419000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1516419000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,722952000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,722952000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,793467000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,615176000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,615176000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,178291000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41734000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,509000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41225000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,137066000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,37218000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,99848000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,99848000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,99848000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.42
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,71800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.39
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,70300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.42
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q3,2010-08-02,2010-10-31,2011-12-08 16:25:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1398117000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1398117000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,661907000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,661907000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,736210000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,644768000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,644768000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,91442000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,38739000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,642000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38097000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,53345000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,579000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,52766000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,52766000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,52766000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,62744000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.01
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,67100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.02
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,66300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2010.0,Q4,2010-11-01,2011-01-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.08
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1369184000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1369184000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,640605000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,640605000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,728579000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,591902000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,591902000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,136677000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,49677000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,374000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-49303000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,87374000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,29707000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,57667000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,57667000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,57667000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,71200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,73000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.79
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,71200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q1,2011-01-31,2011-05-01,2012-06-07 14:47:50+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1334444000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1334444000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,610312000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,610312000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,724132000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,590653000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,590653000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,133479000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31799000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,353000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31446000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,102033000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,35304000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,66729000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,66729000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,66729000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,71000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.94
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,72500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.92
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,71000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.94
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q2,2011-05-02,2011-07-31,2012-09-06 16:21:54+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1654160000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1654160000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,825192000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,825192000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,828968000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,632982000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,632982000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,195986000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31680000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,994000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30686000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,165300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53061000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,112239000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,112239000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,112239000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,71500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.57
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,72900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.54
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,71500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.57
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q3,2011-08-01,2011-10-30,2012-11-28 16:31:45+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1532836000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1532836000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,758626000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,758626000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,774210000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,734313000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,734313000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,39897000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,32432000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,913000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31519000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8378000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-30684000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,39062000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,39062000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,39062000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,71400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.54
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,72900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.53
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,71400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.54
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2011.0,Q4,2011-10-31,2012-01-29,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.08
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1427406000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1427406000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,670577000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,670577000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,756829000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,602671000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,602671000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,154158000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29517000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2197000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27320000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,126838000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31362000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,95476000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,95476000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,95476000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,68539000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.33
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,73400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.3
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,68539000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.33
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q1,2012-01-30,2012-04-29,2013-06-13 15:55:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1336623000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1336623000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,593962000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,593962000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,742661000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,589333000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,589333000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,153328000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28552000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,123000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28429000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,124899000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34981000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,89918000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,89918000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,89918000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70403000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.24
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,70403000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.22
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,70403000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.24
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q2,2012-04-30,2012-07-29,2013-09-12 15:29:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1642770000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1642770000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,773686000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,773686000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,869084000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,631139000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,631139000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,237945000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28660000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3569000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25091000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,212854000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45156000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,167698000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,167698000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,167698000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70586000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.31
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,70586000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.27
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,70586000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.31
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q3,2012-07-30,2012-10-28,2013-12-12 15:39:53+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1636201000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1636201000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,755575000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,755575000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,880626000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,771157000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,771157000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,109469000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31971000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1011000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30960000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,78509000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2199000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,80708000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,80708000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,80708000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.1
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,70400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.08
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,70400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.1
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2012.0,Q4,2012-10-29,2013-02-03,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.08
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1910200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1910200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,958300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,958300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,951900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,895400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,895400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,56500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,88300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-84000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-27500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-17200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-10300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-10300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-10300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.13
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,80000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.13
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.13
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q1,2013-02-04,2013-05-05,2014-06-12 16:16:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1964800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1964800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,938700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,938700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1026100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,941200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,941200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,49500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-46600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,38300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,43600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-5400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.07
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,77100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.07
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.07
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q2,2013-05-06,2013-08-04,2014-09-11 13:37:42+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2259100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2259100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1087300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1087300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1171800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,927400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,927400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,244400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,47900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,6800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,203300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,196600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,196600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,196700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.41
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.37
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.41
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q3,2013-08-05,2013-11-03,2014-12-11 12:05:44+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2052300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2052300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,982800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,982800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1069500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,909500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,909500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,160000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-45400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,114600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,152200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-37600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-37600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-37500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.44
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.43
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.44
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2013.0,Q4,2013-11-04,2014-02-02,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.11
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1963700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1963700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,930500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,930500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1033200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,859100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,859100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,174100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,135200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-130200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,43900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.43
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.43
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q1,2014-02-03,2014-05-04,2015-06-05 14:33:12+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1975600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1975600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,920900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,920900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1054700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,895800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,895800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,158900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,35000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,125500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,126500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,126500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,126500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.54
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.52
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.54
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q2,2014-05-05,2014-08-03,2015-09-03 11:55:54+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2233100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2233100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1065600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1065600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1167500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,892900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,892900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,274600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,33600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,6800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,247800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,225700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,225700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,225700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.74
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.71
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.74
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q3,2014-08-04,2014-11-02,2015-12-08 15:02:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2068800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2068800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,997500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,997500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1071300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1065800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1065800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,32800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-77300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,51500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,51500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,51500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.62
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.62
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.62
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2014.0,Q4,2014-11-03,2015-02-01,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.11
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1879300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1879300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,893700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,893700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,985600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,814900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,814900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,170700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,7200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,147000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,32900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,114100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,114100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,114100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.38
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.37
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.38
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q1,2015-02-02,2015-05-03,2016-06-06 15:27:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1864000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1864000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,861900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,861900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1002100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,850500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,848000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,154100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,126100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,102200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,102200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,102200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.24
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.22
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.24
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q2,2015-05-04,2015-08-02,2016-09-01 11:08:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2164500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2164500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1063500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1063500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1101000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,853800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-6400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,847400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,253600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,226200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,221900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,221900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,221900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.69
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.67
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.69
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q3,2015-08-03,2015-11-01,2016-12-06 14:58:35+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2112500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2112500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1039600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1039600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1072900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,898500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,8900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,907400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,165500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,11200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,148200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,134200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,134200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,134200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.64
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.63
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.64
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2015.0,Q4,2015-11-02,2016-01-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.11
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1917800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1917800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,910900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,910900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1006900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,865200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-152900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,712300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,294600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-29000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,265600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,231600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,231600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,231600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.85
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.83
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.85
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q1,2016-02-01,2016-05-01,2017-06-05 15:17:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1933300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1933300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,899500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,899500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1033800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,874700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,16100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,890800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,143000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,114900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,90500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,90500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,90500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.12
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,80700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.11
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.12
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q2,2016-05-02,2016-07-31,2017-08-31 11:32:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2244300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2244300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1052700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1052700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1191600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,918000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,75700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,993700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,197900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-29200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,168700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,42600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,126100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,126100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,126200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.58
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,80000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.56
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.58
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q3,2016-08-01,2016-10-30,2017-12-05 13:19:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2107700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2107700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,969700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,969700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1138000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1020000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,19900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1039900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,98100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,71300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,26900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,125000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,100500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,100500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,100700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.29
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,80200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.29
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2016.0,Q4,2016-10-31,2017-01-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.29
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1989000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1989000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,908200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,908200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1080800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,960900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,7100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,968000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,112800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,84500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,70100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,70100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,70400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,78200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.9
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,78200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.89
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,78200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.9
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q1,2017-01-30,2017-04-30,2018-06-11 12:26:49+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2069900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2069900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,922600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,922600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1147300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,971000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,968500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,178800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,150800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,119400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,119400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,119700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.54
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,77800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.52
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.54
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q2,2017-05-01,2017-07-30,2018-09-07 10:28:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2357000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2357000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1059700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1059700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1297300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1022500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1020300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,277000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,32300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,249800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,238700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,238700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,239200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,3.09
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,77300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,3.05
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,3.09
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q3,2017-07-31,2017-10-29,2018-12-10 13:45:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2498900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2498900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1129900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1129900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1369000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1290800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1291400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,77600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,58800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,6300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-52500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-82800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,107900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,107900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,108500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.4
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,77600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.38
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2017.0,Q4,2017-10-30,2018-02-04,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.4
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2314600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2314600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1023600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1023600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1291000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1053000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1050500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,240500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,215900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,37000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,178900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,178900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,179400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.33
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,77100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.29
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.33
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q1,2018-02-05,2018-05-06,2019-06-10 12:08:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2333700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2333700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1036700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1036700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1297000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1071500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1068900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,228100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,202300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,37600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,164700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,164700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,165200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.15
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,77000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.12
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.15
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q2,2018-05-07,2018-08-05,2019-09-06 09:50:54+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2524500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2524500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1159700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1159700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1364800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1091300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1088600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,276200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,7000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,252900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,242600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,242600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,243100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,76400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,3.18
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,76400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,3.15
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,76400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,3.18
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q3,2018-08-06,2018-11-04,2019-12-09 11:51:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2484000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2484000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1128500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1128500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1355500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1217000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,12900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1229900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,125600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,9700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,104500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-53900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,158400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,158400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,158700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,76500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,,basiceps,Basic Earnings per Share,=,,usdpershare,2.09
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,76500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.09
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,76500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2018.0,Q4,2018-11-05,2019-02-03,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.09
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2364200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2364200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1075800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1075800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1288400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1154500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-115000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1039500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,248900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,222800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,29700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,193100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,193100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,193500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,74800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.59
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,74800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.58
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,74800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.59
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q2,2019-05-06,2019-08-04,2019-09-06 09:50:54+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2587700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2587700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1181500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1181500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1406200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1141600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2000000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1139600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,266600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,241700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,32800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,208900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,208900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,209200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,73900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.83
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,73900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.82
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,73900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.83
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q3,2019-08-05,2019-11-03,2019-12-09 11:51:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0375
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2600800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2600800000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1202900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1202900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1397900000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1257600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,207700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1465300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-67400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3600000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-30400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-58300000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-125700000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-57200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-68500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-68500000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1100000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-67400000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,74200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.88
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,74200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.88
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,74200000.0
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.88
+PVH Corp,PVH,123WALMHY1GZXG2YDL90,0000078239,2019.0,Q4,2019-11-04,2020-02-02,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
