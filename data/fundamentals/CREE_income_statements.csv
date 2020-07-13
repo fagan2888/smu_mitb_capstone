@@ -1,0 +1,983 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,169130000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,169130000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,95352000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,95352000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73778000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23613000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20174000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3045000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,293000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47125000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,26653000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1630000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,131000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1761000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28414000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7388000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21026000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21026000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21026000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,91160000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,92730000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,91400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q1,2009-06-29,2009-09-27,2010-10-21 16:07:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,199475000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,199475000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,105405000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,105405000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,94070000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25560000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,19325000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3045000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,110000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48040000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,46030000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2002000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-41000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1961000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,47991000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14205000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,33786000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,33786000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,33786000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,104591000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106607000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,105600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q2,2009-09-28,2009-12-27,2011-01-19 17:04:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,234083000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,234083000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,121877000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,121877000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,112206000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28954000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20366000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3045000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,3286000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,55651000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,56555000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2125000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,44000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2169000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,58724000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14094000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,44630000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,44630000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,44630000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106367000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,108601000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q3,2009-12-28,2010-03-28,2011-04-20 17:10:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,264599000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,264599000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,133546000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,133546000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,131053000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,37474000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,21542000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3045000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,452000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62513000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,68540000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-7400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5757000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,160000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1803000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,70343000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17495000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,52848000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,52848000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,52848000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,102371000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.52
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,104698000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,102200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2010.0,Q4,2010-03-29,2010-06-27,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.52
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,268437000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,268437000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,137908000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,137908000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,130529000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29202000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,24732000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2706000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,472000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,57112000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,73417000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2017000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-63000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1954000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,75371000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17335000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,58036000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,58036000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,58036000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,107701000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.54
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,109617000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.53
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,107500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q1,2010-06-28,2010-09-26,2010-10-21 16:07:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.54
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,256983000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,256983000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,135837000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,135837000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,121146000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,33366000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,29233000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2706000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,429000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,65734000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,55412000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2170000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,63000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2233000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,57645000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7870000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,49775000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,49775000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,49775000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,108364000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,109976000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,108200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q2,2010-09-27,2010-12-26,2011-01-19 17:04:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,243027000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,243027000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,150324000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,150324000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,92703000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39133000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,30054000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2671000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,646000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72504000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20199000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-8528000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-6357000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,887000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3058000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23257000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3449000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19808000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19808000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19808000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,108522000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,110035000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,108500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2011.0,Q4,2011-03-28,2011-06-26,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,268980000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,268980000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,170952000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,170952000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98028000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,45539000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,34402000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3925000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,775000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84641000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13387000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1969000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,974000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2943000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16330000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3511000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12819000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12819000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12819000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,111866000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,112543000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q1,2011-06-27,2011-09-25,2011-10-19 20:06:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,304118000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,304118000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105118000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49176000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,35886000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7367000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,497000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,92926000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12192000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-111000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1689000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13881000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1803000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12078000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12078000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12078000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,115536000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,115883000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,120800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q2,2011-09-26,2011-12-25,2012-01-18 18:19:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,284801000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,284801000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,185388000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,185388000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,99413000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,50074000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,36148000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7368000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,816000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,94406000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5007000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1859000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,324000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2183000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7190000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2299000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9489000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9489000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9489000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,115641000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,116074000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,-948900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q3,2011-12-26,2012-03-25,2012-04-18 14:51:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,306759000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,306759000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199856000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199856000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,106903000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,52303000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,36921000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7614000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1393000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,98231000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8672000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5628000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,7202000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1574000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10246000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,220000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10026000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10026000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10026000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,114693000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,115225000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,-2220600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2012.0,Q4,2012-03-26,2012-06-24,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.22
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,315753000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,315753000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199704000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199704000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,116049000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,52645000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,37547000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7670000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,898000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,98760000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17289000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1792000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1593000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3385000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20674000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4551000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16123000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16123000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16123000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,115539000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.14
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,115960000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.14
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,115200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q1,2012-06-25,2012-09-23,2012-10-17 17:09:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.14
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,346286000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,346286000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,212810000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,212810000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,133476000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,60100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,39941000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7719000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,624000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,108384000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25092000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1946000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,535000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2481000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27573000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7170000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20403000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20403000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20403000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,115965000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,116410000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,113400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q2,2012-09-24,2012-12-30,2013-01-23 17:17:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,348934000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,348934000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,215924000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,215924000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,133010000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,62140000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,39036000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7719000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,863000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,109758000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23252000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2018000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,494000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2512000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25764000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3607000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22157000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22157000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22157000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116682000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118608000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q3,2012-12-31,2013-03-31,2013-04-24 08:20:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,375009000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,375009000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,234284000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,234284000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,140725000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61696000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,39365000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7715000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1088000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,109864000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,30861000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5756000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,8441000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2685000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33546000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5304000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28242000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28242000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28242000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116621000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117979000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,115900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2013.0,Q4,2013-04-01,2013-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,391006000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,391006000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,240249000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,240249000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,150757000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64278000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,41743000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7287000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,657000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,113965000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,36792000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2818000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2818000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,39610000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9113000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,30497000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,30497000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,30497000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119564000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,122364000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,117300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q1,2013-07-01,2013-09-29,2013-10-23 16:07:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,415086000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,415086000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,259308000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,259308000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,155778000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67943000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,44436000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7256000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,760000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,120395000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,35383000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3403000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3403000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,38786000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3105000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35681000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35681000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35681000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,120932000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123204000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,118900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q2,2013-09-30,2013-12-29,2014-01-22 16:06:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,405259000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,405259000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,255265000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,255265000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,149994000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,65368000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,46626000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7257000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,364000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,119615000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,30379000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3152000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3152000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33531000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5367000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28164000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28164000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28164000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,121535000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123695000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,122500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q3,2013-12-30,2014-03-30,2014-04-23 16:19:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,436290000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,436290000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,275063000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,275063000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,161227000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,70871000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,48577000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10188000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,909000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130545000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,30682000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3922000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3922000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,34604000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5456000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,29148000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,29148000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,29148000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,120623000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,122914000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,119900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2014.0,Q4,2014-03-31,2014-06-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,427672000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,427672000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,291852000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,291852000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,135820000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,69692000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,46725000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6499000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1447000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,124363000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11457000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2904000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2904000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14361000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3231000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11130000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11130000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11130000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119605000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,121143000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q1,2014-06-30,2014-09-28,2015-10-21 16:05:27+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,413157000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,413157000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,276378000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,276378000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,136779000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,72375000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,46989000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6495000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,735000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,126594000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10185000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1728000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1728000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11913000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-238000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12151000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12151000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12151000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,115264000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,115845000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,110500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q2,2014-09-29,2014-12-28,2016-01-20 16:07:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,409519000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,409519000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,284371000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,284371000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,125148000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,71860000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,43823000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6749000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1459000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,123891000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1257000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-866000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-866000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,391000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-85000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,476000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,476000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,476000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,110662000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,111590000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,-47600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q3,2014-12-29,2015-03-29,2016-04-27 16:12:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,382157000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,382157000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,305985000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,305985000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,76172000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,76803000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,45260000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6477000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,44081000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,172621000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-96449000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-14155000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14155000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-110604000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-22155000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-88449000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-88449000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-88449000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,113022000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.77
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,113022000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.76
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,113500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2015.0,Q4,2015-03-30,2015-06-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.76
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,381549000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,381549000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,274357000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,274357000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,107192000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,70172000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,32731000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6469000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,9565000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,118937000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-11745000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-22803000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22803000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-34548000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8812000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-25736000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1247000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-24489000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-24489000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,103473000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.24
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,103473000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.24
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,2448900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q1,2015-06-29,2015-09-27,2016-10-19 16:05:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,393758000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,393758000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,282624000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,282624000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,111134000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67877000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,31563000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6468000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,2015000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,107923000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3211000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,8016000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,8016000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11227000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1815000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9412000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,4030000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13442000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13442000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,102391000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,102521000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,103400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q2,2015-09-28,2015-12-27,2017-01-25 16:07:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,366919000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,366919000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,257886000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,257886000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,109033000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64489000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,41871000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7318000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-104000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,113574000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-4541000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,717000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,717000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3824000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3976000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,152000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,152000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,152000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100606000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,101221000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q3,2015-12-28,2016-03-27,2017-04-26 16:11:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,474401000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,474401000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,314686000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,314686000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,159715000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,80514000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,62683000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8477000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,5437000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,157111000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2604000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1035000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1035000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3639000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9003000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5364000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-5277000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-10641000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-10641000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,101783000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.1
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,101783000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.1
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,102600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2016.0,Q4,2016-03-28,2016-06-26,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.33
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,371231000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,371231000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,261302000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,261302000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,109929000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,68458000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,39948000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6408000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,324000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,115138000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5209000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-158000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-158000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5367000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5933000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,566000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,566000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,566000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100559000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.01
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100559000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.01
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,56600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q1,2016-06-27,2016-09-25,2017-10-18 16:12:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,401326000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,401326000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,260759000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,260759000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,140567000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,76513000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,37893000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5937000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,717000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,121060000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19507000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4760000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4760000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14747000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8531000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6216000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6216000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6216000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,98467000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.06
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,98730000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,103600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q2,2016-09-26,2016-12-25,2018-01-24 16:16:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.06
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,341505000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,341505000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,255429000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,255429000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,86076000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,68165000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,41451000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,8362000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-12000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,105978000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-19902000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,9865000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,9865000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-10037000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,88976000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-99013000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-99013000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-99013000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,97346000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.02
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,97346000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.02
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,97100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q3,2016-12-26,2017-03-26,2018-04-25 16:25:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.02
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-342562000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-342562000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-249990000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-249990000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-92572000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-67436000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,-5492000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,-17307000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,10959000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-78076000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-14496000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,8053000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,8053000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6443000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-10574000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4131000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-10000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5869000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-5869000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,98487000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.05
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,98487000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.05
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,98487000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2017.0,Q4,2017-03-27,2017-06-25,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.05
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,360398000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,360398000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,260066000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,260066000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100332000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,62964000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,41859000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6792000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,2825000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,114440000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-14108000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1068000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1068000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-15176000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4697000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19873000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-19873000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-16000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-19857000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,97811000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.2
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,97811000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.2
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,99300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q1,2017-06-26,2017-09-24,2018-10-17 16:47:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.2
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,367870000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,367870000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,275267000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,275267000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,92603000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,68076000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,39776000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6792000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,4262000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,118906000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-26303000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,26729000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,26729000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,426000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-13326000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13752000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13752000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,31000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13721000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,99184000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.14
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100763000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.14
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,98000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q2,2017-09-25,2017-12-24,2019-01-31 16:23:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.14
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,225200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,225200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,150337000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,150337000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74863000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,46631000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,31144000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1516000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1112000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80403000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5540000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-15540000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5377000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-10163000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-230370000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-240533000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,44000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-240577000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100140000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-2.4
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100140000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-2.4
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,100200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q3,2017-12-25,2018-03-25,2019-05-02 17:40:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-2.4
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-28568000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-28568000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-62770000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-62770000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,34202000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-7371000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,14521000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,-7900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,16800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,7288000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-7087000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16251000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17951000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5261000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5261000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12690000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12806000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-116000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-33130000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-33246000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,41000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-33287000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,99530000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.35
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,99530000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.35
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,99530000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2018.0,Q4,2018-03-26,2018-06-24,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.35
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,274200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,274200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,175900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,175900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,43900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,36300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,3000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,87500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-9700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-10300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-11100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-11100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,101884000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q1,2018-06-25,2018-09-23,2019-10-31 16:03:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,280500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,280500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,177000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,177000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,103500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,40200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,93500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,102871000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q2,2018-09-24,2018-12-30,2020-01-30 16:05:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,274000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,274000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,173500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,173500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,50600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,40700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,11100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,5300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,111600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-11100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-8400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-19500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-22300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-205400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-227700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-227800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,103500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-2.2
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,103500000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-2.2
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,103659000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q3,2018-12-31,2019-03-31,2020-04-30 16:03:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-2.2
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,251300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,251300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,162600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,162600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,40700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3900000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,13700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-1000000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,114300000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-25600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-31200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3400000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-34600000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-99200000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-133800000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-100000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-133700000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,103576000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.29
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,103576000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.29
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,103576000.0
+Cree Inc,CREE,549300OGU88P3AW3TO93,0000895419,2019.0,Q4,2019-04-01,2019-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.29

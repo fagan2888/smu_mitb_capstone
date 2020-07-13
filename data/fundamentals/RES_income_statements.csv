@@ -1,0 +1,980 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,252896000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,252896000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,139478000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,139478000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,113418000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29478000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,33384000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1533000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,61329000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,52089000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,502000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,9000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-288000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-781000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,51308000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19706000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31602000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,31602000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,31602000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,144990000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146126000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,143600000.0
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+RPC Inc,RES,,0000742278,2010.0,Q2,2010-04-01,2010-06-30,2011-08-02 10:16:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.027
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,302200000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,302200000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,162529000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,162529000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,139671000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,33095000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,33091000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-905000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,65281000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,74390000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,707000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,14000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,441000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-252000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,74138000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27869000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,46269000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,46269000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46269000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145061000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146757000.0
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+RPC Inc,RES,,0000742278,2010.0,Q3,2010-07-01,2010-09-30,2011-11-03 10:30:04+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,381761000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,381761000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,201252000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,201252000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,180509000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36057000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,39537000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1411000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,74183000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,106326000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1079000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,334000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-741000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,105585000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40061000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,65524000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,65524000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,65524000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,217522000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,220544000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,218400000.0
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+RPC Inc,RES,,0000742278,2011.0,Q1,2011-01-01,2011-03-31,2012-05-02 16:18:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,443029000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,443029000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,242991000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,242991000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,200038000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35956000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,44893000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-78000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80771000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,119267000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,998000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1005000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,118262000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45097000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,73165000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,73165000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,73165000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145215000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146842000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.5
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,146300000.0
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+RPC Inc,RES,,0000742278,2011.0,Q2,2011-04-01,2011-06-30,2011-08-02 10:16:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,502235000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,502235000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,279936000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,279936000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,222299000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,37190000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,46476000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,4179000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,87845000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,134454000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,887000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,9000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-906000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1784000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,132670000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,49559000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,83111000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,83111000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,83111000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145274000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.57
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146866000.0
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.57
+RPC Inc,RES,,0000742278,2011.0,Q3,2011-07-01,2011-09-30,2011-11-03 10:30:04+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,482782000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,482782000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,268525000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,268525000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,214257000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42083000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,48999000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1141000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,92223000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,122034000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,489000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,751000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,264000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,122298000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,47717000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,74581000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,74581000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,74581000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,217900000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,219500000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,229800000.0
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+RPC Inc,RES,,0000742278,2011.0,Q4,2011-10-01,2011-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,502557000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,502557000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,273799000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,273799000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,228758000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,44927000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,51570000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1404000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,97901000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,130857000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,596000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,920000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,329000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,131186000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,50431000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,80755000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,80755000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,80755000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,215620000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,217350000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,218300000.0
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+RPC Inc,RES,,0000742278,2012.0,Q1,2012-01-01,2012-03-31,2012-05-02 16:18:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,500106000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,500106000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,281279000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,281279000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,218827000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,43115000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,53950000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1904000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,98969000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,119858000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,650000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-880000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1526000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,118332000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,46072000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,72260000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,72260000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,72260000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,214893000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216127000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,212500000.0
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+RPC Inc,RES,,0000742278,2012.0,Q2,2012-04-01,2012-06-30,2012-08-02 17:07:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,472418000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,472418000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,271401000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,271401000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,201017000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,43016000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,54082000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1551000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,98649000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,102368000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,441000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,16000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1104000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,679000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,103047000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,37007000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,66040000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,66040000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,66040000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,215151000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216645000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,213000000.0
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+RPC Inc,RES,,0000742278,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 09:56:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,469942000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,469942000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,279407000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,279407000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,190535000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,44691000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,55297000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1240000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,101228000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,89307000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,289000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1031000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,747000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,90054000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34673000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,55381000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,55381000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,55381000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,214400000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216100000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,232600000.0
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+RPC Inc,RES,,0000742278,2012.0,Q4,2012-10-01,2012-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,425821000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,425821000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,268227000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,268227000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,157594000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,44914000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,52821000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,2640000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,100375000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,57219000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,340000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,555000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,220000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,57439000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22363000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35076000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35076000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35076000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,216194000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,217525000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3507600000.0
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+RPC Inc,RES,,0000742278,2013.0,Q1,2013-01-01,2013-03-31,2013-05-01 17:28:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,457566000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,457566000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,287578000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,287578000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,169988000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47611000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,52767000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1757000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,102135000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,67853000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,942000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,60000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-191000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1073000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,66780000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26364000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,40416000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,40416000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,40416000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,215883000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216695000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,2020800000.0
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+RPC Inc,RES,,0000742278,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 14:37:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,491121000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,491121000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,303707000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,303707000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,187414000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47096000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,53211000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1268000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,101575000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,85839000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,283000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,8000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1279000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1004000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,86843000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,33083000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,53760000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,53760000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,53760000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,215068000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.25
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216142000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5376000000.0
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+RPC Inc,RES,,0000742278,2013.0,Q3,2013-07-01,2013-09-30,2013-11-01 10:53:23+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,486981000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,486981000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,318900000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,318900000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,168081000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,45544000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,54329000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,3706000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,103579000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,64502000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,257000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,346000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,617000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,706000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,65208000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27565000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,37643000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,37643000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,37643000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,216700000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216700000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,235100000.0
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.17
+RPC Inc,RES,,0000742278,2013.0,Q4,2013-10-01,2013-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,501692000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,501692000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,330015000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,330015000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,171677000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,48708000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,55505000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,2232000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,106445000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,65232000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,337000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,80000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-253000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,64979000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25591000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,39388000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,39388000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,39388000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,215175000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216214000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,1969400000.0
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+RPC Inc,RES,,0000742278,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 17:21:48+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.105
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,582831000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,582831000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,374275000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,374275000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,208556000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47603000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,56517000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1405000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,105525000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,103031000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,49000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,6000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,831000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,788000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,103819000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40536000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,63283000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,63283000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,63283000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,215224000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.29
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216238000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,218200000.0
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.29
+RPC Inc,RES,,0000742278,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 14:25:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.105
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,620684000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,620684000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,398306000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,398306000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,222378000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,50814000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,57219000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,7684000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,115717000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,106661000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,456000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-454000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-906000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,105755000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40870000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,64885000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,64885000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,64885000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,215202000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216334000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,216300000.0
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+RPC Inc,RES,,0000742278,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:04:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.105
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,632206000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,632206000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,390486000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,390486000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,241720000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49992000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,61572000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,4151000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,115715000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,126005000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,589000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-588000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1172000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,124833000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,47196000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,77637000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,77637000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,77637000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,211208000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,211208000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,211208000.0
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.53
+RPC Inc,RES,,0000742278,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,406270000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,406270000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,292445000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,292445000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,113825000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42433000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,65976000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-958000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,107451000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6374000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,691000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,6000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5585000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,4900000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11274000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3726000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7548000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7548000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7548000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,188700000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,188700000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,188700000.0
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+RPC Inc,RES,,0000742278,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 14:54:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.105
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,297560000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,297560000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,241617000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,241617000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,55943000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40208000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,69801000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1718000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,108291000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-52348000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,390000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,9000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,143000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-238000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-52586000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-18531000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-34055000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-34055000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-34055000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,208156000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.16
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,208156000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.16
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,208156000.0
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.16
+RPC Inc,RES,,0000742278,2015.0,Q2,2015-04-01,2015-06-30,2016-08-01 15:01:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,291924000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,291924000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,234640000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,234640000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,57284000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,37345000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,69047000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,3791000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,110183000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-52899000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,250000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-795000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1040000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-53939000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-18766000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-35173000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-35173000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-35173000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,210342000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.16
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,210342000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.16
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,210342000.0
+RPC Inc,RES,,0000742278,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 15:29:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.16
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,268086000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,268086000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,217442000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,217442000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,50644000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36593000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,66153000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,5302000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,108048000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-57404000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,701000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,63000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,252000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-386000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-57790000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-19909000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-37881000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-37881000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-37881000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,210273000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.19
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,210273000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.19
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,210273000.0
+RPC Inc,RES,,0000742278,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.19
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,189095000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,189095000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,161256000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,161256000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27839000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,43546000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,60636000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1256000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,102926000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-75087000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,325000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,23000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,342000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,40000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-75047000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-42536000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-32511000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-32511000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-32511000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,216700000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.15
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216700000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.15
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,214111000.0
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.15
+RPC Inc,RES,,0000742278,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 17:09:30+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,142998000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,142998000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,126997000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,126997000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,16001000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36458000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,56280000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1515000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91223000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-75222000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,126000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,104000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-154000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-176000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-75398000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-26712000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-48686000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-48686000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-48686000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,211700000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.23
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,211700000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.23
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,214263000.0
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.23
+RPC Inc,RES,,0000742278,2016.0,Q2,2016-04-01,2016-06-30,2017-07-31 16:23:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,175884000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,175884000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,146615000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,146615000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29269000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,34859000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,51975000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1148000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,85686000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-56417000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,115000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,169000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,86000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,140000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-56277000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-17335000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-38942000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-38942000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-38942000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,216300000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.18
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216300000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.18
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,214266000.0
+RPC Inc,RES,,0000742278,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:18:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.18
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,220997000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,220997000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,173020000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,173020000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,47977000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35827000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,48367000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-4001000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80193000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-32216000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,115000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,171000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-478000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-422000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-32638000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-11531000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-21107000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-21107000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-21107000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,214227000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.1
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,214227000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.1
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,214227000.0
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.1
+RPC Inc,RES,,0000742278,2016.0,Q4,2016-10-01,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,298119000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,298119000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,216242000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,216242000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,81877000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,37157000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,44663000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1517000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80303000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1574000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,103000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,129000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,212000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,238000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1812000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1822000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3634000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3634000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3634000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,181700000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.02
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,181700000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,181700000.0
+RPC Inc,RES,,0000742278,2017.0,Q1,2017-01-01,2017-03-31,2018-04-30 17:01:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,398810000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,398810000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,254016000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,254016000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,144794000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40288000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,41263000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-3759000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,77792000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,67002000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,114000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,411000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2010000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2307000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,69309000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25469000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,43840000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,43840000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,43840000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,219200000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,219200000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,214594000.0
+RPC Inc,RES,,0000742278,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 14:52:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,470999000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,470999000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,294820000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,294820000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,176179000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39738000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,39587000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-503000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,78822000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,97357000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,105000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,488000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,564000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,947000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,98304000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40970000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,57334000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,57334000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,57334000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,220500000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,220500000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,214129000.0
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+RPC Inc,RES,,0000742278,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 14:14:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,427299000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,427299000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,285731000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,285731000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,141568000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42011000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,38024000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1249000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81284000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,60284000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,104000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,466000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2745000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3107000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,63391000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5688000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,57703000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,57703000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,57703000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,214303000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,214303000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,214303000.0
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+RPC Inc,RES,,0000742278,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,436334000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,436334000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,295605000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,295605000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,140729000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,43814000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,37480000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1363000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,79931000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,60798000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,105000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,402000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5395000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,5692000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,66490000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14360000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,52130000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,52130000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,52130000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,217200000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,217200000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,213293000.0
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+RPC Inc,RES,,0000742278,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 14:18:19+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,467926000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,467926000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,312079000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,312079000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,155847000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42534000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,40094000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1810000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80818000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,75029000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,113000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,458000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,4104000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,4449000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,79478000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19535000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,59943000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,59943000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,59943000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,214100000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,214100000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,212721000.0
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+RPC Inc,RES,,0000742278,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 16:17:42+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,439994000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,439994000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,300947000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,300947000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,139047000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,41787000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,42993000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-286000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84494000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54553000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,150000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,783000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,287000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,920000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,55473000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5506000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,49967000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,49967000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,49967000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,217200000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,217200000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,217200000.0
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+RPC Inc,RES,,0000742278,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:56:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,376751000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,376751000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,274417000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,274417000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,102334000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40016000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,42553000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,115000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,82684000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19650000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,121000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,783000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-473000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,189000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19839000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6477000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13362000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13362000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13362000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,212745000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,212745000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.07
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,212745000.0
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+RPC Inc,RES,,0000742278,2018.0,Q4,2018-10-01,2018-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,334656000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,334656000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,252395000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,252395000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,82261000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,45421000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,42505000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-3504000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84422000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-2161000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,89000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,800000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,445000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1156000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1005000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-266000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-739000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-739000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-739000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,212491000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,212491000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,212491000.0
+RPC Inc,RES,,0000742278,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 14:58:38+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,358516000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,358516000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,265088000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,265088000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93428000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,43293000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,42881000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1133000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,85041000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8387000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,164000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,594000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-53000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,377000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8764000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2593000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6171000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6171000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6171000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,205700000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,205700000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,212339000.0
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+RPC Inc,RES,,0000742278,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 16:17:42+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,293240000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,293240000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,225230000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,225230000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68010000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42571000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,44701000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,71650000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1727000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,160649000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-92639000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,182000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-937000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-763000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-93402000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-24221000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-69181000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-69181000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-69181000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,209600000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.33
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,209600000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.33
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,209600000.0
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.33
+RPC Inc,RES,,0000742278,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:56:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,235997000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,235997000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,176882000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,176882000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,59115000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36842000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,40322000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,10623000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-797000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86990000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-27875000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,73000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,330000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,160000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,417000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-27458000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4096000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-23362000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-23362000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-23362000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,212221000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,212221000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,212221000.0
+RPC Inc,RES,,0000742278,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11

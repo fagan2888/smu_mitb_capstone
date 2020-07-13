@@ -1,0 +1,625 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,177082000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,177082000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,120242000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,120242000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,56840000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7044000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,39065000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,16687000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62796000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5956000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1697000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1697000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-7653000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2568000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5085000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5085000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-5085000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80902000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.06
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,80902000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 16:48:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.06
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,192146000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,192146000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,128135000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,128135000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,64011000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7683000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,37413000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,19587000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,64683000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-672000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1759000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1759000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2431000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1330000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1101000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1101000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1101000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81070000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.01
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81070000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.01
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,110100000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2013.0,Q3,2013-07-01,2013-09-30,2014-11-04 15:47:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,235716000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,235716000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,139202000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,139202000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96514000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9878000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,41341000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,28739000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,79958000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16556000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1625000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1625000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14931000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3882000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11049000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11049000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,-443000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3040000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8452000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81582000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100783000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84500000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q1,2014-01-01,2014-03-31,2015-04-28 18:33:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,244605000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,244605000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,141736000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,141736000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,102869000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,41171000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,43701000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,34663000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,119535000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-16666000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1536000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1536000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-18202000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1639000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19841000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-19841000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-19841000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82936000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.24
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82936000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.24
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82700000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q2,2014-04-01,2014-06-30,2015-07-21 18:48:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.24
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,279971000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,279971000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,155932000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,155932000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,124039000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20097000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,48109000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,42376000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,110582000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13457000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1784000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1784000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11673000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2947000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14620000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14620000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,1000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,36000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14585000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125713000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145186000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,121500000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 16:55:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,633913000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,633913000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,330100000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,330100000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,303813000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22825000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,61226000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,46074000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130125000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,173688000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1115000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1115000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,172573000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,50313000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,122260000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,122260000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,-1835000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,13436000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,110657000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,104453000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.09
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123630000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.98
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106400000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.09
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,363109000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,363109000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199376000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199376000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,163733000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35659000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,56369000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,49437000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,141465000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22268000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2244000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2244000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20024000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3272000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16752000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16752000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16752000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,132278000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,148573000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,128900000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 19:13:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,419919000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,419919000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,225579000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,225579000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,194340000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26255000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,63494000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,58453000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,148202000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,46138000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,122000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,122000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,46260000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11229000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35031000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35031000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35031000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,133150000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146781000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,134700000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 20:46:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,400340000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,400340000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,213710000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,213710000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,186630000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25195000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,66427000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,67372000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,158994000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27636000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-363000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-363000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27273000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8474000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18799000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18799000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18799000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,135800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.14
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146055000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,134300000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 19:18:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.14
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,436603000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,436603000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,308092000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,308092000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,128511000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20724000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,82649000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,66432000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,169805000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-41294000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1575000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1897000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,322000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-40972000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6521000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-34451000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-34451000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-34451000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,134595000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.26
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146486000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.23
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,133800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.26
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,183536000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,183536000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,123822000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,123822000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,59714000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24721000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,79449000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,76979000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,181149000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-121435000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-307000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-307000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-121742000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-14283000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-107459000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-107459000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-107459000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,137543000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.78
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,137543000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.78
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,137800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q1,2016-01-01,2016-03-31,2017-04-27 20:51:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.78
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,220755000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,220755000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,127753000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,127753000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93002000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24442000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,84888000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,93049000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,202379000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-109377000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,516000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1176000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,660000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-108717000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-16950000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-91767000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-91767000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-91767000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138942000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.66
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,138942000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.66
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139000000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 18:30:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.66
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,240569000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,240569000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,143500000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,143500000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,97069000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24945000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,91567000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,96146000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,212658000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-115589000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1156000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,348000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-808000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-116397000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-12329000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-104068000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-104068000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-104068000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,140124000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.74
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140124000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.74
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,140600000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 18:05:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.74
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,540621000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,540621000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,328486000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,328486000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,212135000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,33259000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,112716000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,92728000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,238703000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-26568000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1320000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-430000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1750000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-28318000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,87391000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-115709000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-115709000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-115709000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139425000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.83
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,139425000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.83
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139425000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.83
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,218614000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,218614000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,150048000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,150048000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68566000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22759000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,67856000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,66166000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,156781000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-88215000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,814000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,161000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-653000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-88868000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22282000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-111150000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-111150000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-111150000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,142899000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.78
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,142899000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.78
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,142500000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 17:58:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.78
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,296526000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,296526000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,190894000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,190894000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105632000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18440000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,56678000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,55497000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130615000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-24983000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3784000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,222000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3562000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-28545000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1991000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-30536000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-30536000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-30536000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,136288000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.22
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,136288000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.22
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,138800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:34:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.22
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,329805000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,329805000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199259000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199259000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,130546000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20777000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,46622000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,55098000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,122497000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8049000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4554000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,322000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4232000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3817000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-10844000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14661000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14661000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14661000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,136236000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140288000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,133300000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 19:28:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,334796000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,334796000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,255010000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,255010000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79786000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20168000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,65425000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,52504000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,138097000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-58311000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4508000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,28000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4480000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-62791000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6943000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-55848000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-55848000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-55848000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138500000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.43
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,138500000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.42
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,138056000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.43
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,202346000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,202346000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,157430000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,157430000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,44916000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19506000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,49170000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,50979000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,119655000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-74739000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4567000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,177000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4390000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-79100000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-76300000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-76347000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-76347000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.55
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,138800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.55
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,137857000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:42:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.55
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,282677000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,282677000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199308000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199308000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83369000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15724000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,60256000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,38225000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,114205000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-30836000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4621000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1106000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5727000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-36600000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,700000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-37300000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-37269000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-37269000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138000000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.27
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,138000000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.27
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139166000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:21:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.27
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,285936000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,285936000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,194904000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,194904000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91032000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15358000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,55871000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,41157000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,112386000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-21354000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4616000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,661000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3955000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25309000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-27109000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-27089000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-27089000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,142600000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.19
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,142600000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.19
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,140072000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 17:41:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.19
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,377378000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,377378000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,235261000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,235261000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,142117000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15416000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,56799000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,36935000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,109150000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,32967000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4879000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5238000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,359000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33334000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1659000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31675000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,31671000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,31671000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,139800000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139495000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,242708000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,242708000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,162361000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,162361000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,80347000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15881000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,47290000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,37464000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,100635000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20288000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4527000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,828000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3699000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-23987000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,378000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-24365000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-24365000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-24365000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,143300000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.17
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,143300000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.17
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,142601000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:59:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.17
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,292429000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,292429000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,190244000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,190244000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,102185000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18186000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,52135000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,38811000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,109132000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-6947000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4882000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-63000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4945000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-11900000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-600000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-11300000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-11287000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-11287000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,141100000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.08
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,141100000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.08
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,144668000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:21:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.08
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,131169000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,131169000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,102737000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,102737000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,28432000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15842000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,48848000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,34940000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,99630000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-71198000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4623000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,738000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3885000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-75083000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-300000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-74783000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-74810000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-74810000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,146700000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.51
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146700000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.51
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,145617000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 17:41:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.51
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,528345000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,528345000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,326520000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,326520000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,201825000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15888000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,58158000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,31679000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,105725000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,96100000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5197000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,989000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4208000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,91900000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3906000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,95806000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,95820000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,95820000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,146400000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.66
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146400000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.66
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,144891000.0
+GoPro Inc,GPRO,549300CQJMLT21SZFL16,0001500435,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.66

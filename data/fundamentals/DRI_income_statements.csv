@@ -1,0 +1,993 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1798900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1798900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1394000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1394000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,404900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,159700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,71200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,230900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,174000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,148500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,108100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,107500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,107500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,136100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.79
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,138600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,136100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2009.0,Q3,2008-11-24,2009-02-22,2010-04-02 15:02:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.79
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1734000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1734000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1335700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1335700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,398300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,171400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,72900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,244300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,154000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,130300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,35300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,95000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,94300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,94300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.68
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,141300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,138700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q1,2009-06-01,2009-08-30,2010-10-05 16:17:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.68
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1874000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1874000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1430200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1430200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,443800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,169500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,78100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,247600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,196200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,175400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,134800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,134300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,134300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.96
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,142300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.94
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.96
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q3,2009-11-30,2010-02-28,2011-04-04 16:49:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3505100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3505100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1635900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,1082200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2718100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,787000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,179900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,76100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-1292400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,499700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,287300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-69000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-93900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-80700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-49400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,157200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,41200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,116000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,115600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,netincometocommon,otheradjustmentstonetincometocommon,Other Adjustments to Net Income / (Loss) Attributable to Common Shareholders),-,debit,usd,-60300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,175900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.83
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,142400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.26
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2010.0,Q4,2010-03-01,2010-05-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1806700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1806700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1365400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1365400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,441300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,180900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,76700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,257600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,183700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,159100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,113300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,113100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,113100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,138600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.82
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,141700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,137900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.82
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q1,2010-05-31,2010-08-29,2011-09-30 14:44:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1726200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1726200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1066600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,274900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1341500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,384700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,180000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,78000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,258000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,126700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-23500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,103200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,75800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,74500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,74500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,137600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.54
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,141200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.53
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,138000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.54
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q2,2010-08-30,2010-11-28,2012-01-03 15:45:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1976800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1976800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1192500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,285900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1478400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,498400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,194800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,80500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,275300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,223100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-24000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,199100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,47400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,151700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,151200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,151200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,136400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.11
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.08
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,136200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.11
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q3,2010-11-29,2011-02-27,2012-04-02 14:34:44+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1990500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1990500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,946000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,568200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1514200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,476300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,187000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,81600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,268600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,207700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-24600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-46100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,186200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,48300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,137900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,137500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,137500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,136800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.01
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.98
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,136900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.01
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2011.0,Q4,2011-02-28,2011-05-29,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1942000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1942000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1206600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,299800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1506400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,435600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,182800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,84100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,266900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,168700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-21700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,147000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,106800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,106600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,106600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,133800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.8
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,137200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,133300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.8
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q1,2011-05-30,2011-08-28,2012-09-28 11:57:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.43
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1831500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1831500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1167500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,293100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1460600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,370900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,187400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,85800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,273200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,97700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-25200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,72500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,54100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,53700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,53700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,130300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,131000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q2,2011-08-29,2011-11-27,2013-01-02 16:28:30+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.43
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2159700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2159700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1318900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,308400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1627300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,532400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,198000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,88900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,286900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,245500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-27700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,217800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,164100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,0.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,164100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,164100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,128000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.28
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,130900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.25
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,128200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.28
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q3,2011-11-28,2012-02-26,2013-04-01 12:09:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.43
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-606100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-606100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-455700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-50300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-506000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-100100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-28100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,-17500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-45400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-54700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-27500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-82200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-36400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-45800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,196900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,151100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,151100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,130100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.16
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.14
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,130300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.16
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2012.0,Q4,2012-02-27,2012-05-27,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.43
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2034800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2034800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1245500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,304300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1549800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,485000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,218200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,92600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,310800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,174200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-27900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,146300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,35300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,111000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,110800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,110800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,128100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.86
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,131000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.85
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,128800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.86
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q1,2012-05-28,2012-08-26,2013-09-30 13:23:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1960000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1960000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1243200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,325500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1568700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,391300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,216100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,99200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,315300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,76000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-32900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-32900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,43100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,33700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,33600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,33600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,128800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,131700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,129200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q2,2012-08-27,2012-11-25,2014-01-02 16:49:51+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2258200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2258200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1404100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,348200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1752300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,505900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,199800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,101000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,300800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,205100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-31900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,173200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,38700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,134500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,134400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,134400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,129300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.04
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,131500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.02
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,129200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.04
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q3,2012-11-26,2013-02-24,2014-03-31 16:15:51+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-332000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-332000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-256600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,2400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-254200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-77800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-250000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,241100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,-14500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-22500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-55300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-33300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-88600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-46700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-41900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,175000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,133100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,133100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,129000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.03
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,131600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,129100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.03
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2013.0,Q4,2013-02-25,2013-05-26,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1531500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1531500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,945500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,262600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1208100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,323400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,165600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,74200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,240800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,82600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-32800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-32800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,49800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,42200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,28000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,70200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,70200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,130200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.54
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,132600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.53
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,130000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.54
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q1,2013-05-27,2013-08-25,2014-10-03 16:45:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1485600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1485600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,938600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,261900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1200500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,285100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,174700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,75500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,250400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,34700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-32900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-32900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,13800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,130600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.15
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,132800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.15
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,132000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.15
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q2,2013-08-26,2013-11-24,2014-12-31 16:45:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1618500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1618500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,994400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,271400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1265800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,352700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,154200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,76300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,230500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,122200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-33100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,89100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,86600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,23100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,109700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,109700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,131300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.84
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.82
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,130600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q3,2013-11-25,2014-02-23,2015-03-30 17:14:11+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1650000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1650000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1031300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,284800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1316100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,333900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-81400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,252300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,78400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,15200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,264500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,69400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-35500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-35500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-14500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,48400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,38100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,86500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,86500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,131000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.65
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.65
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,131300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.65
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2014.0,Q4,2014-02-24,2014-05-25,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1595800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1595800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1010300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,272300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1282600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,313200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,95400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,64500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,78700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,7000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,245600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,67600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-111300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-111300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-43700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-24400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,522500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,503200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,503200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,132200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,3.81
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,132200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,3.81
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,132100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,3.81
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q1,2014-05-26,2014-08-24,2015-10-02 17:16:09+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1559000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1559000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,992300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,277400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1269700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,289300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,128900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,61900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,80100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,39300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,310200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-33700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-54600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-23800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-30800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-32800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-32800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,127700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.26
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,127700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.26
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,126200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.26
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q2,2014-08-25,2014-11-23,2016-01-06 17:15:36+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1730900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1730900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1066300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,276000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1342300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,388600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,86400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,51400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,79600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,218200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,170400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-23300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,147100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,128400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,133800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,133800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.07
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,126900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.05
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.07
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q3,2014-11-24,2015-02-22,2016-04-06 17:10:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1878300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1878300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1151800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,295100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1446900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,431400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,119500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,65500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,80900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,15000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,280900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,150500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-24000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,126500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,118100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-12800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,105300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,105300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,127700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.94
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.87
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,127600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.94
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2015.0,Q4,2015-02-23,2015-05-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1687000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1687000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1038800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,271900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1310700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,376300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,97100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,65600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,81100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-1700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,242100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,134200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-22400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,111800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,81000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,86400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,86400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,127400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.68
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,127100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.68
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q1,2015-06-01,2015-08-30,2016-10-05 14:52:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1608800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1608800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1005900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,278000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1283900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,324900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,101900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,58300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,75300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,7700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,243200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,81700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-57300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-57300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,30100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,13100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,43200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,43200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,128100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,127100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q2,2015-08-31,2015-11-29,2017-01-04 16:31:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1847500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1847500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1110300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,305200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1415500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,432000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,95200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,50700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,67000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-2100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,210800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,221200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-83100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-83100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,138100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,29900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,108200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,105800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,105800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,127600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.83
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.82
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,127500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.83
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q3,2015-11-30,2016-02-28,2017-04-04 16:24:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1790200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1790200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-965800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-855100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-1820900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,3611100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,90700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,63400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,66800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,3203200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,3426000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,185100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-9700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,175400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,35000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,140400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,139600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,139600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,127400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.09
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.08
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,127600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.09
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2016.0,Q4,2016-02-29,2016-05-29,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1714400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1714400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1039000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,303700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1342700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,371700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,87700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,63700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,66800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-7800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,210400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,161300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-9900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,151400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,111100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,110200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,110200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.88
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,126700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.87
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.88
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q1,2016-05-30,2016-08-28,2017-10-03 13:12:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.56
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1642500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1642500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1016200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,305300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1321500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,321000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,79500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,57100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,67800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,204500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,116500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-9500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,107000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,79700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,79500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,79500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.65
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.64
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,122300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.65
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q2,2016-08-29,2016-11-27,2018-01-03 17:00:12+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.56
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1878700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1878700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1119800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,320400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1440200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,438500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,87200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,54600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,67900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,209000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,229500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-9300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,220200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,166300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,165600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,165600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.33
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.32
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.33
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q3,2016-11-28,2017-02-26,2018-04-03 17:00:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.56
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1934600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1934600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-909700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-929400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-1839100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,3773700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,133300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,64300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,70400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,3335500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,3603500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,170200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-11500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,158700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,33300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,125400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,123800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,123800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.99
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,126000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.97
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.99
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2017.0,Q4,2017-02-27,2017-05-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-1.68
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1936100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1936100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1522300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1522300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,413800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,98000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,66000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,76100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,239300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,174500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-15000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,159500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,38200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,121300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,119000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,119000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.95
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,127300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.93
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.95
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q1,2017-05-29,2017-08-27,2018-10-02 16:58:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.63
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1881500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1881500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,622400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,622400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1259100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,98900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,58100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,78800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,894400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1130200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,128900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-15500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,113400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,88600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-3900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,84700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,84700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.69
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,122800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2018.0,Q2,2017-08-28,2017-11-26,2019-01-02 16:13:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.69
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2061400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2061400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,679300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,679300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1382100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,104500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,66500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,80700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,941200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1193000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,189100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-13100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-13100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,176000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,168900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,166200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,166200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.34
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.32
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.34
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q1,2018-05-28,2018-08-26,2019-10-01 16:30:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.75
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1973400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1973400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1586700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1586700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,386700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,95100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,58000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,82800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,2700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,238600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,148100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-12800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,135300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,115900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,115600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,115600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.93
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.92
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.93
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q2,2018-08-27,2018-11-25,2020-01-02 16:20:33+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.75
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2246500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2246500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1728900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1728900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,517600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,102800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,62400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,85300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,252100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,265500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-12400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,253100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,28000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,225100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,223600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,223600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123300000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.81
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.79
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q3,2018-11-26,2019-02-24,2020-03-31 15:58:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.81
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2229100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2229100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-1223800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-1223800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,3452900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,103100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,68400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,87900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,2949100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,14600000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,3223100000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,229800000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-11900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,217900000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9200000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,208700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-700000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,208000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,208000000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123500000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.7
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.66
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123400000.0
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.7
+Darden Restaurants Inc,DRI,CY1NFSCCB5GUXC7WZC70,0000940944,2019.0,Q4,2019-02-25,2019-05-26,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-1.5

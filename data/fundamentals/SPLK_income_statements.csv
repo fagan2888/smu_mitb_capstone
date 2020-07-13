@@ -1,0 +1,775 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,20639000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,20639000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2004000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2004000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18635000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,3292000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,12768000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4338000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20398000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1763000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-10000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-473000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-483000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2246000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2246000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2246000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2246000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18700000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.12
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18700000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.12
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,19185000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q1,2011-02-01,2011-04-30,2012-06-12 21:19:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.12
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,25949000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,25949000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2973000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2973000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,22976000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,4446000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,16390000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,5414000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,26250000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3274000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-33000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-603000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-636000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3910000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,0.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3910000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3910000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3910000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,20014000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.2
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,20014000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.2
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,19784000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q2,2011-05-01,2011-07-31,2012-09-13 17:16:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.2
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,31173000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,31173000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3193000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3193000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27980000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5370000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,19179000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6475000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,31024000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3044000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-27000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-439000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-466000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3510000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,50000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3560000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3560000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3560000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,21544000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.17
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,21544000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.17
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,21220000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q3,2011-08-01,2011-10-31,2012-12-13 17:20:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.17
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,43199000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,43199000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3435000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3435000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,39764000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6590000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,26445000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7334000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,40369000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-605000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-24000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-519000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-543000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1148000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,128000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1276000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1276000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1276000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,20921000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,20921000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,20646000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2012.0,Q4,2011-11-01,2012-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.04
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,37191000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,37191000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4265000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4265000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,32926000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6846000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,24166000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8103000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,39115000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-6189000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-19000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-14085000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14104000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-20293000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,177000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-20470000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-20470000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-20470000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29064000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.71
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,29064000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.71
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28679000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q1,2012-02-01,2012-04-30,2013-06-13 17:28:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.71
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,44483000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,44483000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4645000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4645000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,39838000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7247000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,27740000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,9391000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,44378000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-4540000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,101000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,101000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4439000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,136000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4575000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4575000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4575000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,95798000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.05
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,95798000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.05
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,95518000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q2,2012-05-01,2012-07-31,2013-09-13 16:27:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.05
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,52045000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,52045000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,5879000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,5879000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,46166000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7625000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,32847000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,11074000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51546000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5380000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,31000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,31000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5349000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,125000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5474000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5474000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-5474000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,91200000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.06
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,91200000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,96671000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q3,2012-08-01,2012-10-31,2013-12-13 17:18:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.06
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,65225000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,65225000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,6635000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,6635000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,58590000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10884000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,40345000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,13285000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,64514000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5924000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,39000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,37000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5887000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,275000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6162000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6162000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6162000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80465000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,80465000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.36
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80246000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2013.0,Q4,2012-11-01,2013-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,57207000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,57207000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,6681000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,6681000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,50526000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10446000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,41313000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,14464000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66223000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-15697000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,61000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-94000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-15730000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,404000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-16134000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-16134000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-16134000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,102105000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.16
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,102105000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.16
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,102015000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q1,2013-02-01,2013-04-30,2014-06-09 17:13:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.16
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,66873000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,66873000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,7421000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,7421000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,59452000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11912000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,44634000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,16210000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72756000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-13304000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,58000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-82000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-13328000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,365000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13693000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13693000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-13693000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,104181000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.13
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,104181000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.13
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,104100000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q2,2013-05-01,2013-07-31,2014-09-09 17:27:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.13
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,78633000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,78633000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,10525000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,10525000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68108000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12917000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,53052000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,18961000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84930000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-16822000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,55000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-283000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-228000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-17050000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-500000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-16550000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-16550000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-16550000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106079000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.16
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106079000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.16
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106008000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q3,2013-08-01,2013-10-31,2014-12-10 17:17:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.16
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,99910000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,99910000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,11198000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,11198000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88712000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18600000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,76336000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,26260000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,121196000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-32484000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,51000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-461000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-410000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-32894000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-263000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-32631000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-32631000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-32631000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,105143000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.3
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,105143000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.3
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,105067000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2014.0,Q4,2013-11-01,2014-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.3
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,85907000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,85907000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,14187000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,14187000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,71720000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21003000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,71078000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,29742000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,121823000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-50103000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,130000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-220000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-90000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-50193000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,562000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-50755000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-50755000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-50755000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,117343000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.43
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117343000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.43
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,117290000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q1,2014-02-01,2014-04-30,2015-06-09 17:27:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.43
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,101547000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,101547000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,15071000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,15071000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,86476000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32676000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,79978000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,34179000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,146833000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-60357000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,163000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-54000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,109000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-60248000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,534000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-60782000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-60782000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-60782000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119055000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.51
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,119055000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.51
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,119012000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q2,2014-05-01,2014-07-31,2015-09-09 17:13:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.51
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,116029000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,116029000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,17580000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,17580000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98449000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21446000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,85720000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,39534000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,146700000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-48251000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,199000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-52000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,147000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-48104000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,447000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-48551000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-48551000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-48551000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,120365000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.4
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,120365000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.4
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,120331000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q3,2014-08-01,2014-10-31,2015-12-10 17:15:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.4
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,147392000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,147392000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21540000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21540000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,125852000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27921000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,107695000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,47335000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,182951000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-57099000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,262000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,542000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,804000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-56295000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,733000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-57028000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-57028000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-57028000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119813000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.47
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,119813000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.47
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,119775000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2015.0,Q4,2014-11-01,2015-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.47
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,125665000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,125665000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,23085000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,23085000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,102580000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26872000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,101989000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,44698000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,173559000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-70979000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,360000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,89000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,449000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-70530000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,656000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-71186000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-71186000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-71186000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124563000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124563000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124548000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q1,2015-02-01,2015-04-30,2016-06-09 17:19:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,148326000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,148326000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,25040000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,25040000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,123286000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28760000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,111786000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,48308000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,188854000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-65568000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,425000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-295000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,130000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-65438000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-10149000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-55289000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-55289000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-55289000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,126627000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.44
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,126627000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.44
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,126621000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q2,2015-05-01,2015-07-31,2016-09-08 17:14:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.44
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,174420000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,174420000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,30591000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,30591000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,143829000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29857000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,130131000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,56186000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,216174000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-72345000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,377000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-271000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,106000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-72239000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,735000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-72974000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-72974000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-72974000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,129040000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129040000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,128368000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q3,2015-08-01,2015-10-31,2016-12-09 16:15:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,220024000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,220024000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35406000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35406000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,184618000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36090000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,161442000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,66117000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,263649000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-79031000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,636000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-42000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,594000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-78437000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,886000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-79323000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-79323000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-79323000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,127415000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.62
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,127415000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.62
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,126746000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2016.0,Q4,2015-11-01,2016-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.62
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,185952000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,185952000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,39500000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,39500000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,146452000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32073000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,145151000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,67371000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,244595000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-98143000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-403000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1125000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1528000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-99671000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1225000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-100896000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-100896000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-100896000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,132101000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.77
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,132101000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.77
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,131494000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q1,2016-02-01,2016-04-30,2017-06-08 16:53:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.77
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,212753000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,212753000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,44616000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,44616000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,168137000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,34312000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,150228000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,67224000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,251764000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-83627000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-797000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1063000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1860000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-85487000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1110000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-86597000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-86597000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-86597000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,133624000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.65
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133624000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.65
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,133041000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q2,2016-05-01,2016-07-31,2017-09-06 17:03:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.65
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,244789000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,244789000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,48674000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,48674000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,196115000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,34079000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,167330000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,85659000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,287068000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-90953000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-823000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-348000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1171000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-92124000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1367000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-93491000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-93491000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-93491000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,135077000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.69
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,135077000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.69
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,134677000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q3,2016-08-01,2016-10-31,2017-12-06 16:12:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.69
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,300070000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,300070000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,58263000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,58263000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,241807000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,52895000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,176695000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,75596000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,305186000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-63379000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8549000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,7743000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-486000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1292000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-64671000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1805000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-66476000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-66476000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-66476000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,134357000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.48
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,134357000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.48
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,133910000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2017.0,Q4,2016-11-01,2017-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.48
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,226768000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,226768000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,58163000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,58163000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,168605000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36496000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,173461000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,71298000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,281255000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-112650000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-528000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-608000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1136000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-113786000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1338000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-115124000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-115124000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-115124000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,137861000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.84
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,137861000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.84
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,137785000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q1,2017-02-01,2017-04-30,2018-06-08 09:16:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.84
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,280224000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,280224000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,59876000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,59876000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,220348000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39139000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,186637000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,71774000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,297550000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-77202000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-164000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-874000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1038000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-78240000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,353000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-78593000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-78593000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-78593000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139135000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,139135000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139063000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q2,2017-05-01,2017-07-31,2018-09-05 17:24:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.57
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,342489000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,342489000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,64167000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,64167000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,278322000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35857000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,198266000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,74080000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,308203000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-29881000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2133000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2403000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-289000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-19000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-29900000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-232000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-29668000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-29668000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-29668000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,140482000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.21
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,140482000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.21
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,140413000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q3,2017-08-01,2017-10-31,2018-12-07 16:40:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.21
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,459651000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,459651000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,74203000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,74203000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,385448000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47651000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,219512000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,83962000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,351125000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,34323000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6661000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,7232000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1829000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1258000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33065000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-102000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,33167000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,33167000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,33167000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,139921000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,139921000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,139866000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2018.0,Q4,2017-11-01,2018-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,311639000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,311639000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,77970000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,77970000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,233669000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,50742000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,218036000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,86357000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,355135000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-121466000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2073000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3187000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-135000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,979000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-120487000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1988000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-118499000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-118499000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-118499000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,143609000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.83
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,143609000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.83
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,143548000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q1,2018-02-01,2018-04-30,2019-06-06 16:34:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.83
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,388303000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,388303000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,83748000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,83748000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,304555000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57844000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,243830000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,106739000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,408413000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-103858000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2058000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3564000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-336000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1170000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-102688000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,811000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-103499000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-103499000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-103499000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145800000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.71
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145800000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.71
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,145030000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q2,2018-05-01,2018-07-31,2019-09-05 17:18:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.71
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,480983000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,480983000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,89225000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,89225000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,391758000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,59819000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,264223000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,117722000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,441764000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-50006000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12270000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,8571000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-186000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3885000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-53891000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1814000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-55705000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-55705000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-55705000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,147269000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.38
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,147269000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.38
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,146391000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q3,2018-08-01,2018-10-31,2019-12-04 17:14:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.38
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,622085000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,622085000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,93733000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,93733000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,528352000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,69183000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,303861000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,131151000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,504195000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24157000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25562000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,16136000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-856000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10282000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13875000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11749000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2126000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2126000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2126000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145737000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145737000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,145707000.0
+Splunk Inc,SPLK,549300XGDSGBP6UEI867,0001353283,2019.0,Q4,2018-11-01,2019-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03

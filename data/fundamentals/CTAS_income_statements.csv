@@ -1,0 +1,924 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,891569000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,891569000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,508774000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,508774000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,382795000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,264427000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,19477000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,283904000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,98891000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12038000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,359000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11679000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,87212000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,33228000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,53984000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,53984000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,53984000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,154200000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,154200000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,154200000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q1,2009-06-01,2009-08-31,2010-10-08 13:52:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,884509000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,884509000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,514662000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,514662000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,369847000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,259406000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,4052000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,263458000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,106389000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12579000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,314000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12265000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,94124000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,36948000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,57176000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,57176000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,57176000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,154500000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,154500000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,154500000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q2,2009-09-01,2009-11-30,2011-01-07 13:48:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,861812000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,861812000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,502205000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,502205000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,359607000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,275596000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,275596000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84011000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11575000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,422000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11153000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,72858000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23876000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,48982000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,48982000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,48982000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,153100000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,153100000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,153100000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+Cintas Corp,CTAS,,0000723254,2010.0,Q3,2009-12-01,2010-02-28,2011-04-08 11:23:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.48
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,909449000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,909449000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,523881000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,523881000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,385568000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,286930000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,23529000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-2880000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-23529000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,284050000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,101518000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12420000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11820000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,89698000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34220000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,55478000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,55478000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,55478000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,154000000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,154000000.0
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.36
+Cintas Corp,CTAS,,0000723254,2010.0,Q4,2010-03-01,2010-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.04
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,923904000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,923904000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,530233000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,530233000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,393671000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,293425000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,293425000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,100246000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12274000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,578000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11696000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,88550000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27273000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,61277000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,61277000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,61277000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,152164000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,152164000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,152164000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q1,2010-06-01,2010-08-31,2011-10-07 13:37:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,936566000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,936566000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,545918000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,545918000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,390648000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,288304000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,288304000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,102344000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12161000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,394000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11767000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,90577000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34711000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,55866000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,55866000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,55866000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,145511000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,145511000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,145511000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+Cintas Corp,CTAS,,0000723254,2011.0,Q2,2010-09-01,2010-11-30,2012-01-09 12:01:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.49
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,937827000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,937827000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,545906000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,545906000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,391921000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,283045000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,283045000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,108876000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12520000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,280000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12240000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,96636000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,37566000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,59070000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,59070000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,59070000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,144100000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,144100000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q3,2010-12-01,2011-02-28,2012-04-09 10:00:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1012087000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1012087000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,579040000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,579040000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,433047000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,304170000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,304170000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,128877000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12749000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,778000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11971000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,116906000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,46130000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,70776000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,70776000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,70776000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,146586000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,146586000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,146586000.0
+Cintas Corp,CTAS,,0000723254,2011.0,Q4,2011-03-01,2011-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.9
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1017180000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1017180000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,578140000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,578140000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,439040000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,310466000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,310466000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,128574000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,17334000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,365000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16969000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,111605000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,42967000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,68638000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,68638000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,68638000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,131309000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.52
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,131309000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.52
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,131309000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q1,2011-06-01,2011-08-31,2012-10-10 14:19:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.52
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1019126000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1019126000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,589329000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,589329000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,429797000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,297112000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,297112000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,132685000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,17728000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,403000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17325000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,115360000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,41010000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,74350000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,74350000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,74350000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,129727000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.57
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129727000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.57
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,129727000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.57
+Cintas Corp,CTAS,,0000723254,2012.0,Q2,2011-09-01,2011-11-30,2013-01-09 15:19:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.54
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1012112000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1012112000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,586209000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,586209000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,425903000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,288367000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,288367000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,137536000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,17219000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,373000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16846000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,120690000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,44655000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,76035000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,76035000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,76035000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,129735000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.58
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129735000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.58
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,129735000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.58
+Cintas Corp,CTAS,,0000723254,2012.0,Q3,2011-12-01,2012-02-29,2013-04-09 16:33:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1053582000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1053582000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,609714000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,609714000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,443868000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,303036000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,303036000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,140832000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,18344000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,801000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17543000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,123289000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,44675000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,78614000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,78614000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,78614000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,129891000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.6
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,129891000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.6
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,129891000.0
+Cintas Corp,CTAS,,0000723254,2012.0,Q4,2012-03-01,2012-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.6
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1051325000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1051325000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,605450000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,605450000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,445875000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,306581000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,306581000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,139294000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16598000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,77000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16521000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,122773000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,46040000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,76733000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,76733000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,76733000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,126110000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.61
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,126110000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.6
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,126110000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q1,2012-06-01,2012-08-31,2013-10-10 14:47:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.61
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1060386000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1060386000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,628350000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,628350000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,432036000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,293013000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,293013000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,139023000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16294000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,149000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16145000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,122878000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,44851000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,78027000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,78027000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,78027000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124185000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.63
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124185000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124185000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.63
+Cintas Corp,CTAS,,0000723254,2013.0,Q2,2012-09-01,2012-11-30,2014-01-09 16:01:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.64
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1075674000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1075674000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,633733000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,633733000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,441941000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,308918000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,308918000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,133023000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16302000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,132000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16170000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,116853000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,42148000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,74705000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,74705000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,74705000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123120000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.6
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123120000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.6
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123120000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.6
+Cintas Corp,CTAS,,0000723254,2013.0,Q3,2012-12-01,2013-02-28,2014-04-09 16:33:37+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1058579000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1058579000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,625122000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,625122000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,433457000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,278819000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,278819000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,154638000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16518000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,51000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16467000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,138171000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,51050000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,87121000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1144000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,85977000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,85977000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123956000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.69
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123956000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.69
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123956000.0
+Cintas Corp,CTAS,,0000723254,2013.0,Q4,2013-03-01,2013-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.69
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1100246000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1100246000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,644151000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,644151000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,456095000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,316483000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,316483000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,139612000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16523000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,68000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16455000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,123157000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45759000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,77398000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,356000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,77754000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,77754000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,122130000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.63
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,122130000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,122130000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q1,2013-06-01,2013-08-31,2014-10-10 12:26:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.63
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1123931000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1123931000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,656852000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,656852000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,467079000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,314868000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,314868000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,152211000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16485000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,84000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16401000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,135810000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,51354000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,84456000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,406000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,84862000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,84862000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119907000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.71
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,119907000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.7
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,119907000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.71
+Cintas Corp,CTAS,,0000723254,2014.0,Q2,2013-09-01,2013-11-30,2015-01-09 17:09:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.77
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1110973000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1110973000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,641339000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,641339000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,469634000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,317873000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2158000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,320031000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,149603000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16418000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,44000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16374000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,133229000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,48903000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,0.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,84326000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,276000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,84602000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,84602000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119913000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.7
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,119913000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.69
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,119913000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.7
+Cintas Corp,CTAS,,0000723254,2014.0,Q3,2013-12-01,2014-02-28,2015-04-02 16:28:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,858694000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,858694000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,501743000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,501743000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,356951000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,197815000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-2158000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,195657000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,161294000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16396000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,33000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16363000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,144931000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53339000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,91592000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,35632000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,127224000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,127224000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,120377000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.04
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,120377000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.03
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,120377000.0
+Cintas Corp,CTAS,,0000723254,2014.0,Q4,2014-03-01,2014-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.04
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1102077000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1102077000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,624131000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,624131000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,477946000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,314458000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,314458000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,163488000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16583000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,21792000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,5209000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,168697000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,62792000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,105905000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,4203000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,110108000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,110108000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116659000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.94
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,116659000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.93
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116659000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q1,2014-06-01,2014-08-31,2015-10-09 12:18:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.94
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1123379000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1123379000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,641955000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,641955000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,481424000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,299841000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,299841000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,181583000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,15929000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,19000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15910000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,165673000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,61972000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,103701000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,16711000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,120412000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,120412000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,117115000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.02
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117115000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,117115000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.02
+Cintas Corp,CTAS,,0000723254,2015.0,Q2,2014-09-01,2014-11-30,2016-01-08 16:37:38+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.7
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1108847000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1108847000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,633540000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,633540000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,475307000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,301690000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,301690000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,173617000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16254000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,96000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16158000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,157459000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,57128000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,100331000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-5448000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,94883000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,94883000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116178000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,116178000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116178000.0
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+Cintas Corp,CTAS,,0000723254,2015.0,Q3,2014-12-01,2015-02-28,2016-04-08 16:35:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1198890000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1198890000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,674746000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,674746000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,524144000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,338637000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,0.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,338637000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,185507000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16412000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,119000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16293000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,169214000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,63016000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,106198000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-6017000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,100181000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,100181000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,110597000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.89
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,110597000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.88
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,110597000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q1,2015-06-01,2015-08-31,2016-10-11 11:27:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.89
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1219080000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1219080000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,691680000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,691680000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,527400000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,327051000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,0.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,327051000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,200349000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16171000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,111000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16060000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,184289000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,68836000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,115453000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,229647000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,345100000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,345100000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,108301000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,3.11
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,108301000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,3.06
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,108301000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,3.11
+Cintas Corp,CTAS,,0000723254,2016.0,Q2,2015-09-01,2015-11-30,2017-01-06 16:48:53+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.05
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1216083000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1216083000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,691475000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,691475000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,524608000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,331656000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,0.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,331656000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,192952000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16163000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,335000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15828000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,177124000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,59845000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,117279000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,62000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,117341000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,117341000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,107843000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.07
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,107843000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.05
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,107843000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.07
+Cintas Corp,CTAS,,0000723254,2016.0,Q3,2015-12-01,2016-02-29,2017-04-07 12:25:26+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1161719000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1161719000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,636531000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,636531000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,525188000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,335055000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,335055000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,190133000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,15776000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,331000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15445000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,174688000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,65013000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,109675000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,21223000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,130898000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,130898000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,108221000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.23
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,108221000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.22
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,108221000.0
+Cintas Corp,CTAS,,0000723254,2016.0,Q4,2016-03-01,2016-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.23
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1266650000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1266650000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,690223000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,690223000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,576427000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,369703000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,2787000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,372490000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,203937000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14172000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,65000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14107000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,189830000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53622000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,136208000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1883000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,138091000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,138091000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,104483000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.29
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,104483000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.26
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,104483000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q1,2016-06-01,2016-08-31,2017-10-06 16:05:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.29
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1271077000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1271077000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,705859000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,705859000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,565218000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,361415000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3347000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,364762000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,200456000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,13267000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,31000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-13236000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,187220000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,65270000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,121950000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,18427000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,140377000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,140377000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,104957000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.32
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,104957000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.29
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,104957000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.32
+Cintas Corp,CTAS,,0000723254,2017.0,Q2,2016-09-01,2016-11-30,2018-01-05 17:10:25+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.33
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1255367000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1255367000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,695443000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,695443000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,559924000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,358589000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9344000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,367933000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,191991000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,13696000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,11000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-13685000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,178306000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,61352000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,116954000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1051000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,118005000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,118005000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,105093000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.1
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,105093000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.07
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,105093000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.1
+Cintas Corp,CTAS,,0000723254,2017.0,Q3,2016-12-01,2017-02-28,2018-04-06 15:10:15+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.33
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1530287000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1530287000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,851561000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,851561000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,678726000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,437673000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2787000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,66533000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,501419000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,177307000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,45389000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,130000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-45259000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,132048000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,49874000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,82174000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,2061000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,84235000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,84235000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,107100000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,109800000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.76
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,107100000.0
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+Cintas Corp,CTAS,,0000723254,2017.0,Q4,2017-03-01,2017-05-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-1.33
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1611503000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1611503000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,872150000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,872150000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,739353000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,486283000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3971000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,490254000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,249099000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30317000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,297000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30020000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,219079000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,57971000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,161108000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,56103000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,217211000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,217211000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,105740000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.02
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,105740000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.96
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,105740000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q1,2017-06-01,2017-08-31,2018-10-05 17:11:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.02
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1606441000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1606441000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,890072000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,890072000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,716369000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,468084000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,13074000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,481158000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,235211000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29129000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,291000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28838000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,206373000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,68636000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,137737000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-628000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,137109000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,137109000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106340000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.26
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106340000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.23
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106340000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.26
+Cintas Corp,CTAS,,0000723254,2018.0,Q2,2017-09-01,2017-11-30,2019-01-08 15:40:36+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.62
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1589138000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1589138000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,888675000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,888675000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,700463000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,490618000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9821000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,500439000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,200024000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25901000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,384000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25517000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,174507000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-121282000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,295789000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,6306000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,302095000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,302095000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106558000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.79
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106558000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.71
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106558000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.79
+Cintas Corp,CTAS,,0000723254,2018.0,Q3,2017-12-01,2018-02-28,2019-04-05 15:46:15+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.62
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1669550000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1669550000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,917212000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,917212000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,752338000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,471807000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,15031000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,486838000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,265500000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24828000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,370000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24458000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,241042000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,51744000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,189298000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-3127000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,186171000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,186171000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,108300000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.71
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,111500000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.66
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,108300000.0
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.71
+Cintas Corp,CTAS,,0000723254,2018.0,Q4,2018-03-01,2018-05-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-1.62
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1697975000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1697975000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,923263000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,923263000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,774712000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,504634000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4850000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,509484000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,265228000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24304000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,496000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23808000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,241420000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,28873000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,212547000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-32000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,212515000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,212515000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106835000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.96
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106835000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.89
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106835000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q1,2018-06-01,2018-08-31,2019-10-08 14:32:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.96
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1718268000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1718268000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,943110000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,943110000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,775158000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,491671000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,7847000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,499518000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,275640000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24880000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,69764000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,44884000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,320524000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,77530000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,242994000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,19000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,243013000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,243013000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106475000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.25
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106475000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.18
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106475000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.25
+Cintas Corp,CTAS,,0000723254,2019.0,Q2,2018-09-01,2018-11-30,2020-01-09 14:55:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,2.05
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1682330000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1682330000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,927177000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,927177000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,755153000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,476099000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,799000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,476898000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,278255000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,26770000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,70000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26700000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,251555000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,50632000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,200923000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,2411000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,203334000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,203334000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,105080000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.91
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,105080000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.85
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,105080000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.91
+Cintas Corp,CTAS,,0000723254,2019.0,Q3,2018-12-01,2019-02-28,2020-03-31 14:35:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1793730000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1793730000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,970165000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,970165000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,823565000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,508240000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,914000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,509154000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,314411000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25782000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,271000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25511000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,288900000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,62729000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,226171000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-52000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,226119000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,226119000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,107300000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,2.13
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,110800000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.07
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,107300000.0
+Cintas Corp,CTAS,,0000723254,2019.0,Q4,2019-03-01,2019-05-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.13

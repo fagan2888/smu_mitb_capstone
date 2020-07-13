@@ -1,0 +1,780 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,344876000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,344876000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,247528000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,247528000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,97348000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22941000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,5443000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,28384000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,68964000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5726000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,20000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5706000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,63258000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24290000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,38968000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,38968000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1223000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,37745000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84825000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.45
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,85937000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83900000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q2,2009-04-01,2009-06-30,2010-08-10 16:51:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.45
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,338562000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,338562000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,247985000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,247985000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,90577000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24695000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,409000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,25104000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,65473000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4808000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4807000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,60666000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23180000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,37486000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,37486000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1125000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,36361000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,85217000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.43
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86431000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84600000.0
+VCA Inc,WOOF,,0000817366,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 17:02:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.43
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,330734000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,330734000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,247939000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,247939000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,82795000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26140000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,25000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,26165000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,56630000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3167000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-25000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3192000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,53438000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20506000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,32932000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,32932000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,997000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,31935000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,85824000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86870000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86300000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q1,2010-01-01,2010-03-31,2011-05-09 18:12:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,353919000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,353919000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,260435000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,260435000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93484000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,41045000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-14000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,41031000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,52453000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2778000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,335000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2443000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,50010000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19493000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,30517000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,30517000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1113000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,29404000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86041000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87178000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86500000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 14:34:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,358703000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,358703000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,273404000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,273404000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,85299000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27105000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,152000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,27257000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,58042000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6169000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,180000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5989000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52053000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23466000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28587000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28587000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1156000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,27431000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86086000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86964000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,85700000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 20:28:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,338112000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,338112000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,268526000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,268526000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,69586000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29251000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,211000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,29462000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,40124000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4448000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,801000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,282000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3365000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,36759000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14637000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22122000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22122000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,649000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21473000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86049000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.25
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87051000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86100000.0
+VCA Inc,WOOF,,0000817366,2010.0,Q4,2010-10-01,2010-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.25
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,355123000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,355123000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,275345000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,275345000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79778000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26183000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,89000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,26272000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,53506000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4019000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-58000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4077000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,49429000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18933000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,30496000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,30496000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1657000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28839000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86355000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87245000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87400000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 18:46:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,376105000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,376105000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,279273000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,279273000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96832000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26663000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,60000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,26723000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,70109000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4575000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,67000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4508000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,65601000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25536000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,40065000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,40065000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,453000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,39612000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86535000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87304000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86100000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 18:19:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,385135000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,385135000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,294998000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,294998000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,90137000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32488000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-192000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,32296000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,57841000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6986000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-8000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6994000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,50847000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19488000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31359000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,31359000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1190000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,30169000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86697000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87253000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86200000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q3,2011-07-01,2011-09-30,2012-11-09 14:14:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,368998000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,368998000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,297288000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,297288000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,71710000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35778000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,21310000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,425000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,57513000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14197000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4669000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,601000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-119000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4187000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10010000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12070000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2060000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2060000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1155000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3215000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86606000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87394000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86700000.0
+VCA Inc,WOOF,,0000817366,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.04
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,409465000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,409465000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,316086000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,316086000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93379000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39051000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,523000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,39574000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,53805000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4087000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5926000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1839000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,55644000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19323000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,36321000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,36321000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1076000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35245000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86984000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88055000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86000000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q1,2012-01-01,2012-03-31,2013-05-09 17:34:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,438372000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,438372000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,337765000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,337765000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100607000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38997000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,112000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,39109000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,61498000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4364000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,148000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4216000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,57282000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,21504000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35778000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35778000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1458000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34320000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,87589000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88723000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.39
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,88000000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 14:13:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,433613000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,433613000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,334432000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,334432000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,99181000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,37608000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,387000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,37995000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,61186000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4295000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,284000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4011000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,57175000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,21533000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35642000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35642000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1605000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34037000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,87773000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88654000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87300000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 14:20:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,418192000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,418192000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,336385000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,336385000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,81807000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,41499000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,123573000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,288000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,165360000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-83553000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4274000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,468000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-151000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3957000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-87510000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-30485000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-57025000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-57025000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1026000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-58051000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,87681000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.67
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88671000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.66
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87600000.0
+VCA Inc,WOOF,,0000817366,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.67
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,438606000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,438606000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,341683000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,341683000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96923000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39846000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1726000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,41572000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,55351000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4307000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,9000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4298000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,51053000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19230000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31823000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,31823000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1338000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,30485000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88400000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89379000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,89700000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 18:08:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,465255000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,465255000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,350961000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,350961000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,114294000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39023000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-430000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,38593000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,75701000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5658000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,18000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5640000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,70061000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26601000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,43460000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,43460000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1798000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,41662000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88509000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89653000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.46
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,88600000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 19:25:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,464055000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,464055000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,353378000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,353378000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,110677000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38747000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-109000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,38638000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,72039000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4474000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,86000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4388000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,67651000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25740000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41911000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,41911000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1264000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,40647000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88834000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89845000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,88400000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 13:20:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,435453000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,435453000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,347967000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,347967000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87486000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40295000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1268000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,41563000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,45923000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4489000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,379000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-203000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4313000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,41610000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15882000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,25728000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,25728000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1011000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,24717000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88621000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89663000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,88700000.0
+VCA Inc,WOOF,,0000817366,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,449507000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,449507000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,348056000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,348056000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,101451000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,41440000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1221000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,40219000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,61232000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4167000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,53000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4114000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,57118000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22203000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,34915000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,34915000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,872000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34043000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88338000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89421000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87300000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 20:19:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,489472000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,489472000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,369057000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,369057000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,120415000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39931000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,578000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,40509000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,79906000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4030000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-43000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4073000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,75833000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,28925000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,46908000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,46908000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1324000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,45584000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88041000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.52
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89191000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87700000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 14:23:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.52
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,499577000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,499577000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,375820000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,375820000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,123757000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42792000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,27019000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,470000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70281000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,53476000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6076000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-188000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6264000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,47212000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18261000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28951000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28951000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1499000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,27452000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86274000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87360000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,85800000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 15:18:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,479927000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,479927000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,380909000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,380909000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,99018000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47343000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-979000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,46364000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,52654000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5387000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,172000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-41000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5256000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,47398000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17489000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,29909000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,29909000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1505000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28359000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86656000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87825000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86800000.0
+VCA Inc,WOOF,,0000817366,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,499453000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,499453000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,385591000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,385591000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,113862000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,44398000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,335000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,44733000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,69129000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4837000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-66000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4903000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,64226000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24673000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,39553000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,39553000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1252000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,38301000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82347000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83373000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.46
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81500000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 14:04:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,548785000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,548785000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,407938000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,407938000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,140847000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,44485000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-819000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,43666000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,97181000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5104000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,37000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5067000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,92114000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,36191000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,55923000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,55923000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1624000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,54299000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81956000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.66
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83084000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.65
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82300000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 12:35:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.66
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,551717000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,551717000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,414051000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,414051000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,137666000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,44860000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-4273000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,40587000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,97079000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5455000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-59000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5514000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,91565000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,35097000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,56468000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,56468000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1614000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,54854000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80815000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.68
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81795000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80700000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 14:04:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.68
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,533720000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,533720000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,416024000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,416024000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,117696000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,50252000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1063000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51315000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,66381000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5812000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,132000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,43035000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,37355000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,103736000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,39582000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,64154000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,64154000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,559000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,63595000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81443000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82414000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81500000.0
+VCA Inc,WOOF,,0000817366,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,563439000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,563439000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,426659000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,426659000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,136780000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,50128000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,563000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,50691000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,86089000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7095000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,264000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6831000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,79258000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31536000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,47722000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,47722000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1495000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46227000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80776000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.57
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81523000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.57
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81100000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:43:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.57
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,653489000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,653489000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,489541000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,489541000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,163948000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,48190000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-271000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47919000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,116029000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9467000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,600000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8867000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,107162000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40736000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,66426000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,66426000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2376000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,64050000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80835000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.79
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81729000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81100000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 12:00:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.79
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,656854000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,656854000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,500277000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,500277000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,156577000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49343000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,236000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49579000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,106998000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9300000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,121000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9179000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,97819000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,37040000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,60779000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,60779000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2548000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,58231000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80924000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.72
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81812000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.71
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80900000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q3,2016-07-01,2016-09-30,2016-11-07 14:04:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.72
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,643081000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,643081000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,508322000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,508322000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,134759000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57063000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,478000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,57541000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,77218000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8639000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,448000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-83000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8274000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,68944000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26468000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,42476000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,42476000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1781000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,40688000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,80926000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81725000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.5
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80800000.0
+VCA Inc,WOOF,,0000817366,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,678251000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,678251000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,523783000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,523783000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,154468000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58401000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,250000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,58651000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,95817000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9027000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,302000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8725000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,87092000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34639000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,52453000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,52453000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1360000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,51093000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81245000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.63
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82179000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.62
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81100000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 16:43:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.63
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,743132000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,743132000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,558039000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,558039000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,185093000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,59776000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,230000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,60006000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,125087000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10169000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,280000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9889000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,115198000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,44774000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,70424000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,70424000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2712000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,67712000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81267000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.83
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82228000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.82
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81600000.0
+VCA Inc,WOOF,,0000817366,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 12:00:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.83

@@ -1,0 +1,741 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,759344000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,759344000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,481787000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,481787000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,277557000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,199829000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,199829000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,77728000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,94711000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2746000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5126000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-86839000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9111000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4948000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4163000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-11017000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-15180000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,8972000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,584000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-24736000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,176700000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.14
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,176700000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.14
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,177953000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q1,2013-01-01,2013-03-31,2014-05-15 16:43:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.14
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,768232000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,768232000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,467365000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,467365000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,300867000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,212364000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,135598000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,347962000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-47095000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,63669000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3286000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3796000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-64179000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-111274000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8142000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-103132000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-12893000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-116025000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,9005000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,837000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-125867000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,177300000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.71
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,177300000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.71
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,178060000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q2,2013-04-01,2013-06-30,2014-08-07 16:46:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.71
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,775823000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,775823000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,474090000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,474090000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,301733000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,208033000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,2837000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,15889000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,226759000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,74974000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,63454000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1841000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2429000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-64042000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10932000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7861000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3071000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3015000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6086000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,9242000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,714000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3870000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,178140000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,178140000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,193500000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q3,2013-07-01,2013-09-30,2014-11-12 08:16:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,220147000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,220147000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,281921000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,281921000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-61774000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-182773000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-138435000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-15889000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-337097000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,275323000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,65036000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4477000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,794000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-59765000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,215558000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,59268000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,156290000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-128802000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,27488000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,9485000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,728000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17275000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,178125000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,184978000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,178200000.0
+Sabre Corp,SABR,,0001597033,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,666415000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,666415000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,451970000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,451970000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,214445000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,110738000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,110738000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,103707000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,66924000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2441000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2354000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-66837000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,36870000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14911000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21959000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-24056000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2097000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,9146000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,746000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-11989000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,178702000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.07
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,187727000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,171300000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q1,2014-01-01,2014-03-31,2015-05-05 16:06:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.07
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,646380000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,646380000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,422647000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,422647000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,223733000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,127651000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,127651000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,96082000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,83793000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4059000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,391000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-79343000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16739000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10284000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6455000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-16650000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-10195000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,2235000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,702000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-13132000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,243801000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.05
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,252336000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.05
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,262600000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.05
+Sabre Corp,SABR,,0001597033,2014.0,Q2,2014-04-01,2014-06-30,2015-08-04 16:43:26+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,672480000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,672480000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,441052000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,441052000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,231428000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,113581000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,113581000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,117847000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,50153000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2867000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1124000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-46162000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,71685000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30456000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41229000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-3946000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,37283000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,720000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,36563000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,264768000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,273330000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,261200000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2014.0,Q3,2014-07-01,2014-09-30,2015-10-29 17:16:26+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.09
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,646142000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,646142000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,426809000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,426809000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,219333000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,115624000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,115624000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,103709000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,51545000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2715000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-63021000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-111851000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-8142000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-49372000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41230000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5734000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,46964000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,564000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46400000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,238633000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,246747000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,241000000.0
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+Sabre Corp,SABR,,0001597033,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.09
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,710348000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,710348000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,468998000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,468998000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,241350000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,122358000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,122358000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,118992000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46453000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,8519000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4445000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-42379000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,76613000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27283000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,49330000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,158911000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,208241000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,747000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,207494000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,269184000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.77
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,276688000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.75
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,269500000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.77
+Sabre Corp,SABR,,0001597033,2015.0,Q1,2015-01-01,2015-03-31,2016-04-28 16:33:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.09
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,707091000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,707091000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,461126000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,461126000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,245965000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,123360000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,123360000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,122605000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,75844000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5307000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,197000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-70340000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52265000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19676000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,32589000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,696000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,33285000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1078000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,32207000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,271948000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,279101000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,268400000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+Sabre Corp,SABR,,0001597033,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 09:22:34+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.09
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,785002000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,785002000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,509906000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,509906000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,275096000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,166324000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,166324000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,108772000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,40581000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,372000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,92568000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,52359000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,161131000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,38007000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,123124000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,53892000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,177016000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,676000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,176340000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,275471000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.64
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,281395000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,275500000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.64
+Sabre Corp,SABR,,0001597033,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 16:16:49+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.09
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,758455000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,758455000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,504020000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,504020000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,254435000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,145035000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,145035000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,109400000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,49203000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,644000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3057000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-45502000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,63898000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34386000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,29512000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,100909000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,130421000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,980000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,129441000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,273139000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,280067000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,272700000.0
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+Sabre Corp,SABR,,0001597033,2015.0,Q4,2015-10-01,2015-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.18
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,859543000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,859543000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,554265000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,554265000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,305278000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,133856000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,133856000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,171422000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41202000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,763000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3360000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37079000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,134343000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,41424000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,92919000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,13350000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,106269000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1102000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,105167000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,275568000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,281963000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,276800000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+Sabre Corp,SABR,,0001597033,2016.0,Q1,2016-01-01,2016-03-31,2017-05-02 12:01:27+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.13
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,845242000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,845242000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,556317000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,556317000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,288925000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,146886000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,146886000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,142039000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,37210000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,763000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,876000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-35571000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,106468000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31273000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,75195000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2098000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,73097000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1078000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,72019000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,277392000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,283001000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,277000000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Sabre Corp,SABR,,0001597033,2016.0,Q2,2016-04-01,2016-06-30,2017-08-01 16:06:29+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.13
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,838982000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,838982000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,593650000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,593650000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,245332000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,155182000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,155182000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,90150000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41685000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,718000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,281000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-40686000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,49464000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7208000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,42256000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-394000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,41862000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1047000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,40815000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,278399000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.15
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,283462000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,272100000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.15
+Sabre Corp,SABR,,0001597033,2016.0,Q3,2016-07-01,2016-09-30,2017-10-31 16:32:31+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.13
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,829620000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,829620000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,583430000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,583430000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,246190000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,190229000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,190229000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,55961000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41837000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,536000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,23100000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-18201000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,37760000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6740000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31020000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-5309000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,25711000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1150000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,24561000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,277546000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,282752000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,278800000.0
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+Sabre Corp,SABR,,0001597033,2016.0,Q4,2016-10-01,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.26
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,915353000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,915353000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,607586000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,607586000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,307767000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,144441000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,144441000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,163326000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39561000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,898000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-15234000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-53897000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,109429000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31707000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,77722000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-477000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,77245000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1306000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,75939000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,277353000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,279559000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,271200000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Sabre Corp,SABR,,0001597033,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,900663000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,900663000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,643067000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,643067000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,257596000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,146856000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,92022000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,238878000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18718000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,38097000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,513000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-752000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38336000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-19618000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-15466000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4152000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1222000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5374000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1113000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6487000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,278441000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,278441000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,324400000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+Sabre Corp,SABR,,0001597033,2017.0,Q2,2017-04-01,2017-06-30,2018-07-31 16:33:27+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,900606000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,900606000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,631970000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,631970000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,268636000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,91840000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91840000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,176796000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39931000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,357000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3802000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-43376000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,133420000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40595000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,92825000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-529000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,92296000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1307000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,90989000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,277477000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,278369000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,275700000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Sabre Corp,SABR,,0001597033,2017.0,Q3,2017-07-01,2017-09-30,2018-10-30 16:34:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,881862000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,881862000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,631234000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,631234000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,250628000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,126938000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-10910000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,116028000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,134600000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,37348000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,812000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,56318000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,19782000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,154382000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,71201000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,83181000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,296000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,83477000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1387000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,82090000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,276893000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,278320000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,278800000.0
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Sabre Corp,SABR,,0001597033,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,988369000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,988369000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,692857000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,692857000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,295512000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,130111000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130111000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,165401000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,38742000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1171000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1106000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38677000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,126724000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,36275000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,90449000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1207000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,89242000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1362000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,87880000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,274720000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,276844000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,274600000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+Sabre Corp,SABR,,0001597033,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 17:35:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,984376000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,984376000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,721759000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,721759000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,262617000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,123784000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,123784000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,138833000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39409000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,951000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7735000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-46193000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,92640000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,75000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,92565000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,760000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,93325000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1079000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,92246000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,275715000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,277180000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,279500000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Sabre Corp,SABR,,0001597033,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:34:59+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,970283000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,970283000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,703368000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,703368000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,266915000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,130152000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130152000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,136763000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39291000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,333000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1905000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-40863000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,95900000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25021000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,70879000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3664000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,74543000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1538000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,73005000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,275175000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,277528000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,280800000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Sabre Corp,SABR,,0001597033,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:53:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,923928000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,923928000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,673430000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,673430000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,250498000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,129479000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,129479000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,121019000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,40208000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,101000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2237000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37870000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,83149000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3879000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,87028000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1478000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,85550000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1150000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,84400000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,275235000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,277518000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,274400000.0
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+Sabre Corp,SABR,,0001597033,2018.0,Q4,2018-10-01,2018-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1049361000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1049361000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,787563000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,787563000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,261798000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,151391000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,151391000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,110407000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,38013000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,533000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1870000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39350000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,71057000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11843000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,59214000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1452000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,57762000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,912000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,56850000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,275589000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,277605000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,284300000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+Sabre Corp,SABR,,0001597033,2019.0,Q1,2019-01-01,2019-03-31,2020-05-08 16:12:45+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1000006000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1000006000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,763388000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,763388000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,236618000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,154705000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,154705000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,81913000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39608000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,413000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2479000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41674000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,40239000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12145000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28094000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1350000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,29444000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1606000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,27838000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,274245000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,275483000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,278400000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+Sabre Corp,SABR,,0001597033,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:34:59+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,984199000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,984199000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,750821000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,750821000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,233378000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,119918000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,119918000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,113460000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39743000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1027000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1769000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-40485000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,72975000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7795000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,65180000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-596000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,64584000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,771000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,63813000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,273763000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,276235000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,265900000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+Sabre Corp,SABR,,0001597033,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:53:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,941422000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,941422000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,733231000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,733231000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,208191000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,150554000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,150554000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,57637000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39027000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,71000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3314000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-42270000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15367000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3543000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11824000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1068000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10756000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,665000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10091000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,274168000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,276217000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,278200000.0
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Sabre Corp,SABR,,0001597033,2019.0,Q4,2019-10-01,2019-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14

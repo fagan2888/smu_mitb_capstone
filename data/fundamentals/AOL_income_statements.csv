@@ -1,0 +1,503 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,637000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,27300000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,664300000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,364700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,364700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,299600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,133300000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,62200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,23400000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,218900000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,80700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,78000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,36800000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-6500000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,34700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106.3
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,330000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,107.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,320000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,0.0
+AOL Inc ,AOL,,0001468516,2010.0,Q1,2010-01-01,2010-03-31,2011-05-04 07:02:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,330000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,564900000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,27300000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,592200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,335000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,335000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,257200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,127800000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,35700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1414400000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,11100000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1589000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1331800000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4400000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4400000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1336200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-267200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1069000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,14000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1055000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1055000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-9.89
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-9.89
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 07:00:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-9.89
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,538300000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,25900000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,564200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,342800000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,342800000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,221400000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,117500000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,22800000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-400000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,139900000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,81500000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,133100000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,133100000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,214600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,42100000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,172500000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-900000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,171600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,171600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106700000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.61
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,107300000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.6
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 07:04:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.61
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,567500000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,28500000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,596000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,378100000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,378100000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,217900000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,112600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,24600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-300000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-106000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,30900000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,187000000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-112600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-112600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,74400000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9800000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,64600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-6600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,8200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,66200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,66200000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-329999.06
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-319999.05
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106600000.0
+AOL Inc ,AOL,,0001468516,2010.0,Q4,2010-10-01,2010-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-329999.06
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,529100000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,22300000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,551400000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,388900000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,388900000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,162500000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,120700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,24200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,27800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,172700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-10200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1000000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1000000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-11200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-15900000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106900000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,40000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,107900000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,40000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,0.0
+AOL Inc ,AOL,,0001468516,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 07:12:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,40000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q2,2011-04-01,2011-06-30,2012-08-01 07:12:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,542200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q2,2011-04-01,2011-06-30,2012-08-01 07:12:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,403400000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q2,2011-04-01,2011-06-30,2012-08-01 07:12:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,138800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q2,2011-04-01,2011-06-30,2012-08-01 07:12:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,144600000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q2,2011-04-01,2011-06-30,2012-08-01 07:12:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q2,2011-04-01,2011-06-30,2012-08-01 07:12:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-11800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 07:17:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,531700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 07:17:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,397900000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 07:17:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,133800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 07:17:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,125200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 07:17:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1500000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 07:17:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2600000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,558400000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,18400000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,576800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,394200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,394200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,182600000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,106500000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,18500000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1600000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,129400000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,53200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,700000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,53900000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31100000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,104200000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-39999.74
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106000000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-39999.75
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,100800000.0
+AOL Inc ,AOL,,0001468516,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-39999.87
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,512200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,17200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,529400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,384600000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,384600000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,144800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,96200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,7400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,0.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,113400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,8400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,8400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,39800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,94400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,95000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,95900000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q1,2012-01-01,2012-03-31,2013-05-08 07:17:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,513300000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,17800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,531100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,396200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,396200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,134900000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,107800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-96000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-945800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-924300000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1059200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1058100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,87500000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,970600000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,970600000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,970800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,93600000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,10.37
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,95500000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,10.17
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,93600000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 17:09:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,10.37
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,513500000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,18200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,531700000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,382300000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,382300000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,149400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,97200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-300000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,106300000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,43100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,45100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20700000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20700000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,92600000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,96000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,94500000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+AOL Inc ,AOL,,0001468516,2012.0,Q3,2012-07-01,2012-09-30,2013-11-05 07:17:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,5.15
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,748700000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,-53200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,695500000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,424100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,424100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,271400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,112000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9600000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,96000000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-16800000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,203200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,68200000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,67100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31700000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35400000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-300000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35700000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,91100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.7
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,93500000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.6
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,91100000.0
+AOL Inc ,AOL,,0001468516,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.7
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,538300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,538300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,393100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,393100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,145200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,82800000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4800000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1800000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,49900000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2800000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2800000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,47100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,21500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,25600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,25600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,25900000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,76900000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,76200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 07:15:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,541300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,541300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,399900000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,399900000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,141400000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,76600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,51900000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-700000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-700000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,51200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 07:29:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,561300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,561300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,418600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,418600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,142700000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,78200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,11100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,17500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,19000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,126000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16700000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13100000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,66700000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 07:16:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,679000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,679000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,494600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,494600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,184400000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,84400000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,15400000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,13200000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-400000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,112600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,71800000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,70800000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,35300000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,36000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,77600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.45
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82000000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77600000.0
+AOL Inc ,AOL,,0001468516,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.45
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,583300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,583300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,457500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,457500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,125800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,75300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,15200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,11600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,101600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24700000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,16000000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8700000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8700000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,79600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84100000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 07:16:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,606800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,606800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,457400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,457400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,149400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,79500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,16500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2900000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-3500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54000000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,27400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,27400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,79600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,80600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q2,2014-04-01,2014-06-30,2014-08-06 07:29:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,626800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,626800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,479400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,479400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,147400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,81500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,16900000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,99400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,48000000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5700000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5700000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,42300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14400000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,27900000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,27900000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,78300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,79200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 07:16:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,710300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,710300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,526200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,526200000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,184100000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,82100000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,17000000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,6300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,104800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,79300000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2500000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,76800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18000000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,58800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,58800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-800000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,59600000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,78900000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.76
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83000000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.71
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,79000000.0
+AOL Inc ,AOL,,0001468516,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.76
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,625100000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,625100000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,491600000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,491600000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,133500000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,76400000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,17300000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,16900000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1000000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,109600000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23900000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-9900000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9900000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14000000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8100000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5900000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5900000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1100000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7000000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,78100000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81900000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,77800000.0
+AOL Inc ,AOL,,0001468516,2015.0,Q1,2015-01-01,2015-03-31,2015-05-08 07:16:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09

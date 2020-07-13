@@ -1,0 +1,770 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,625431000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,1750000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,627181000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,494240000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,494240000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,132941000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61139000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,61139000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,71802000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2738000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,611000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,154000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1973000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,69829000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,28403000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41426000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,41426000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,41426000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,5777000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,7.17
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6101000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,6.79
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5800000.0
+NVR Inc,NVR,,0000906163,2009.0,Q2,2009-04-01,2009-06-30,2010-08-02 16:54:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,7.17
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,814016000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,2222000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,816238000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,636642000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,636642000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,179596000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64148000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,64148000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,115448000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3110000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,887000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,215000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2008000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,113440000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,41313000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,72127000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,72127000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,72127000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,5866000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,12.29
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6223000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,11.59
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5900000.0
+NVR Inc,NVR,,0000906163,2009.0,Q3,2009-07-01,2009-09-30,2010-11-03 15:30:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,12.29
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,590214000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,2369000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,592583000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,471069000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,471069000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,121514000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67270000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,67270000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54244000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2435000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,756000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,166000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1513000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52731000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20644000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,32087000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,32087000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,32087000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,6066000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,5.29
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6399000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,5.01
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,6100000.0
+NVR Inc,NVR,,0000906163,2010.0,Q1,2010-01-01,2010-03-31,2011-05-03 15:13:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,5.29
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,514504000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,1458000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,515962000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,417920000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,417920000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98042000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,73865000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,73865000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24177000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,496000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1115000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,39000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,658000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24835000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9661000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15174000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15174000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15174000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,5823000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.61
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6020000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.52
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5800000.0
+NVR Inc,NVR,,0000906163,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 15:16:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.61
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,695881000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,1362000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,697243000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,558601000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,558601000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,138642000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,75943000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75943000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,62699000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,551000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1085000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,121000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,655000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,63354000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24909000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,38445000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,38445000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,38445000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,5785000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,6.65
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,5929000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,6.48
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5800000.0
+NVR Inc,NVR,,0000906163,2011.0,Q2,2011-04-01,2011-06-30,2012-07-27 13:35:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,6.65
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,707476000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,842000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,708318000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,572382000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,572382000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,135936000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,68258000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,68258000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,67678000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,476000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1589000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,151000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1264000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,68942000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25533000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,43409000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,43409000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,43409000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,5301000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,8.19
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,5437000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,7.98
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5300000.0
+NVR Inc,NVR,,0000906163,2011.0,Q3,2011-07-01,2011-09-30,2012-11-01 11:51:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,8.19
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,769783000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,538000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,770321000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,624978000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,624978000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,145343000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,82081000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,82081000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,63262000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,258000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,815000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,136000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,693000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,63955000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17117000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,46838000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,46838000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46838000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,5106000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,9.17
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,5221000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,8.97
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5100000.0
+NVR Inc,NVR,,0000906163,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 13:35:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,9.17
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,870637000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,599000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,871236000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,702436000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,702436000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,168800000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,84342000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84342000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84458000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1511000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1025000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,161000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-325000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,84133000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31133000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,53000000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,53000000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,53000000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4999000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,10.6
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,5132000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,10.33
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5000000.0
+NVR Inc,NVR,,0000906163,2012.0,Q3,2012-07-01,2012-09-30,2013-11-01 13:59:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,10.6
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,770256000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,1026000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,771282000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,624085000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,624085000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,147197000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,87594000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,87594000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,59603000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5566000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,955000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,113000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4498000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,55105000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20064000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35041000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35041000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35041000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4979000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,7.04
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,5122000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,6.84
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5000000.0
+NVR Inc,NVR,,0000906163,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:03:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,7.04
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1009892000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,1098000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1010990000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,834288000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,834288000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,176702000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,92372000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,92372000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84330000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5374000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1047000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,178000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4149000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,80181000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,29491000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,50690000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,50690000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,50690000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4889000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,10.37
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,5013000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,10.11
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4900000.0
+NVR Inc,NVR,,0000906163,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 12:33:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,10.37
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1188967000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,1030000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1189997000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,964416000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,964416000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,225581000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,89923000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89923000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,135658000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5682000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1396000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,218000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4068000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,131590000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,48655000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,82935000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,82935000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,82935000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4588000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,18.08
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4695000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,17.67
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4600000.0
+NVR Inc,NVR,,0000906163,2013.0,Q3,2013-07-01,2013-09-30,2014-10-30 16:50:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,18.08
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,811310000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,997000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,812307000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,655152000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,655152000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,157155000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,102897000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,102897000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54258000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5794000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1184000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,59000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4551000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,49707000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25858000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23849000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23849000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23849000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4467000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,5.34
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4620000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,5.16
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4500000.0
+NVR Inc,NVR,,0000906163,2014.0,Q1,2014-01-01,2014-03-31,2015-05-01 09:58:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,5.34
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1102054000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,452000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1102506000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,882778000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,882778000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,219728000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,106200000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,106200000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,113528000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5723000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,825000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,194000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4704000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,108824000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40646000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,68178000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,68178000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,68178000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4349000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,15.68
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4495000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,15.17
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4300000.0
+NVR Inc,NVR,,0000906163,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 08:51:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,15.68
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1203166000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,905000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1204071000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,960055000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,960055000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,244016000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,96063000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,96063000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,147953000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5775000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1373000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,240000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4162000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,143791000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53639000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,90152000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,90152000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,90152000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4196000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,21.49
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4354000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,20.7
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4200000.0
+NVR Inc,NVR,,0000906163,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 14:06:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,21.49
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,957749000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,725000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,958474000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,781668000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,781668000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,176806000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,109708000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,109708000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,67098000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5918000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1078000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,105000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4735000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,62363000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23305000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,39058000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,39058000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,39058000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4057000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,9.63
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4235000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,9.22
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4100000.0
+NVR Inc,NVR,,0000906163,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 14:39:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,9.63
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1402351000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,643000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1402994000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1111672000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1111672000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,291322000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,102580000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,102580000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,188742000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6081000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1972000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,363000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3746000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,184996000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,68526000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,116470000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,116470000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,116470000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4050000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,28.75
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4296000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,27.11
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4100000.0
+NVR Inc,NVR,,0000906163,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 12:18:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,28.75
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1144026000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,767000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1144793000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,925760000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,925760000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,219033000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,112565000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,112565000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,106468000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5088000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1674000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,258000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3156000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,103312000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,38009000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,65303000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,65303000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,65303000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3884000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,16.81
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4135000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,15.79
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3900000.0
+NVR Inc,NVR,,0000906163,2016.0,Q1,2016-01-01,2016-03-31,2017-04-28 14:38:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,16.81
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1388183000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,753000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1388936000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1126369000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1126369000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,262567000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,114879000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,114879000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,147688000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4814000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1437000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,409000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2968000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,144720000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53044000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,91676000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,91676000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,91676000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3900000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,23.51
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4165000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,22.01
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3900000.0
+NVR Inc,NVR,,0000906163,2016.0,Q2,2016-04-01,2016-06-30,2017-07-28 14:17:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,23.51
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1537569000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,703000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1538272000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1242292000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1242292000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,295980000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,107826000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,107826000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,188154000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5624000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2000000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,473000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3151000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,185003000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,67611000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,117392000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,117392000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,117392000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3858000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,30.43
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4125000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,28.46
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3900000.0
+NVR Inc,NVR,,0000906163,2016.0,Q3,2016-07-01,2016-09-30,2017-10-30 14:26:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,30.43
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1752766000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,5346000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1758112000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1413440000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1413440000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,344672000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,108050000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,108050000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,236622000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6181000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5111000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3332000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7960000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,228662000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,77771000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,150891000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,150891000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,150891000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3847000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,39.78
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4104000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,37.35
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3800000.0
+NVR Inc,NVR,,0000906163,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,39.78
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1277092000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,1102000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1278194000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1026017000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1026017000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,252177000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,116150000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,116150000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,136027000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5836000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1661000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,309000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3866000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,132161000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,29238000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,102923000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,102923000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,102923000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3705000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,27.78
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4097000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,25.12
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000.0
+NVR Inc,NVR,,0000906163,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 12:35:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,27.78
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1544492000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,1447000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1545939000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1218083000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1218083000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,327856000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,115034000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,115034000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,212822000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5914000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1554000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,506000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3854000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,208968000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,61091000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,147877000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,147877000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,147877000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3748000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,39.46
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4202000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,35.19
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000.0
+NVR Inc,NVR,,0000906163,2017.0,Q2,2017-04-01,2017-06-30,2018-07-30 17:02:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,39.46
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1633726000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,34194000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1667920000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1307971000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1307971000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,359949000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,113616000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,113616000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,246333000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6120000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1953000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2298000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1869000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,244464000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,82362000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,162102000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,162102000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,162102000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3747000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,43.26
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4263000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,38.02
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000.0
+NVR Inc,NVR,,0000906163,2017.0,Q3,2017-07-01,2017-09-30,2018-10-31 17:19:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,43.26
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1850530000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,-28893000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1821637000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1438307000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1438307000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,383330000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,116000000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,116000000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,267330000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6315000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5168000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5471000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6012000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,261318000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,136699000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,124619000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,124619000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,124619000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3733000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,33.5
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4240000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,28.44
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000.0
+NVR Inc,NVR,,0000906163,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,33.5
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1529414000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1529414000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1211946000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1211946000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,317468000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,124782000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,18109000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,142891000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,174577000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6282000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2093000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,20610000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,16421000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,190998000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24949000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,166049000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,166049000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,166049000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3675000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,45.19
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4220000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,39.34
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000.0
+NVR Inc,NVR,,0000906163,2018.0,Q1,2018-01-01,2018-03-31,2019-05-01 16:06:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,45.19
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1750463000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,36842000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1787305000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1416797000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1416797000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,370508000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,128313000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,128313000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,242195000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6329000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2915000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2805000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-609000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,241586000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,38412000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,203174000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,203174000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,203174000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3635000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,55.9
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4142000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,49.05
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3600000.0
+NVR Inc,NVR,,0000906163,2018.0,Q2,2018-04-01,2018-06-30,2019-07-31 14:07:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,55.9
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1809345000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,43062000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1852407000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1472649000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1472649000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,379758000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,130712000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130712000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,249046000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6197000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3362000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3499000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,664000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,249710000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53894000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,195816000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,195816000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,195816000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3612000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,54.21
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4056000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,48.28
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3600000.0
+NVR Inc,NVR,,0000906163,2018.0,Q3,2018-07-01,2018-09-30,2019-11-01 15:22:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,54.21
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2074452000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,-68311000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2006141000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1590735000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1590735000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,415406000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,128905000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-18109000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,110796000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,304610000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6273000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-8370000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-12529000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27172000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,277438000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45280000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,232158000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,232158000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,232158000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3631000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,64.28
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4092000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,58.13
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3600000.0
+NVR Inc,NVR,,0000906163,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,64.28
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1643206000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,43805000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1687011000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1338806000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1338806000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,348205000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,132492000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,132492000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,215713000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6215000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2833000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,6276000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2894000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,218607000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30201000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,188406000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,188406000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,188406000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3607000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,52.23
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3955000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,47.64
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3600000.0
+NVR Inc,NVR,,0000906163,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 14:12:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,52.23
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1757448000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,42746000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1800194000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1425388000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1425388000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,374806000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,133044000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,133044000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,241762000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6301000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2737000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,6514000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2950000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,244712000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,34503000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,210209000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,210209000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,210209000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3612000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,58.2
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3959000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,53.09
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3600000.0
+NVR Inc,NVR,,0000906163,2019.0,Q2,2019-04-01,2019-06-30,2019-07-31 14:07:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,58.2
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1873331000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,37933000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1911264000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1518276000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1518276000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,392988000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,130376000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130376000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,262612000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6293000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3340000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,7515000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,4562000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,267174000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,43387000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,223787000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,223787000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,223787000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3672000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,60.94
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3988000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,56.11
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000.0
+NVR Inc,NVR,,0000906163,2019.0,Q3,2019-07-01,2019-09-30,2019-11-01 15:22:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,60.94
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2114679000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,-112342000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2002337000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1567392000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1567392000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,434945000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,131493000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,131493000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,303452000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6571000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-8910000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,7331000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8150000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,295302000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,39165000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,256137000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,256137000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,256137000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3641000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,69.94
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3973000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,64.29
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3600000.0
+NVR Inc,NVR,,0000906163,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,69.94
