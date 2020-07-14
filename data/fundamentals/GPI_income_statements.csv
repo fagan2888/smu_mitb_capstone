@@ -1,0 +1,837 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1418509000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1418509000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1191857000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1191857000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,226652000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,182465000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6679000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1482000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,190626000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,36026000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21126000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8357000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12769000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12769000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12769000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23084000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.55
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,23638000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.54
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,23200000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q2,2010-04-01,2010-06-30,2011-07-27 17:22:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.55
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1461755000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1461755000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1232916000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1232916000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,228839000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,173925000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6772000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1639000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,182336000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,46503000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,15915000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15915000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30588000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11603000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18985000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18985000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18985000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22419000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.85
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22926000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.83
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:58:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.85
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1409302000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1409302000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1187527000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1187527000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,221775000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,175884000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6455000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,222000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,182561000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,39214000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14702000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14702000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24512000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9150000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15362000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15362000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15362000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22582000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.64
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22736000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.64
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.64
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 16:05:24+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1474145000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1474145000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1229934000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1229934000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,244211000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,183051000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6581000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,142000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,189774000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54437000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14746000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14746000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,39691000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15008000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,24683000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,24683000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,24683000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22533000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.1
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,23183000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.06
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22400000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.1
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q2,2011-04-01,2011-06-30,2011-07-27 17:22:47+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1570389000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1570389000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1321636000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1321636000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,248753000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,188185000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6845000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,3644000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,198674000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,50079000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,15608000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15608000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,34471000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12977000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21494000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21494000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21494000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22020000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.92
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22219000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.91
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,23400000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.92
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q3,2011-07-01,2011-09-30,2012-10-26 16:06:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.13
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1625929000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1625929000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1380068000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1380068000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,245861000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,188109000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7182000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,797000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,196088000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,49773000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16353000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16353000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33420000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12565000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20855000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20855000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20855000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22157000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.84
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22409000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.86
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,23500000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2011.0,Q4,2011-10-01,2011-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.13
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1664745000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1664745000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1404321000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1404321000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,260424000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,199112000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7236000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,101000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,206449000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,53975000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16659000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16659000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,37316000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14199000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23117000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23117000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23117000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,21629000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.01
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22532000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.97
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.01
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q1,2012-01-01,2012-03-31,2012-04-27 16:05:24+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1895826000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1895826000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1610482000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1610482000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,285344000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,214327000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7742000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,187000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,222256000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,63088000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,17053000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17053000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,46035000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17410000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28625000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28625000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28625000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,21650000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.25
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22513000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.2
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.25
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q2,2012-04-01,2012-06-30,2012-07-27 10:57:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1976572000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1976572000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1685341000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1685341000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,291231000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,216082000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8096000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,224178000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,67053000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,17561000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17561000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,49492000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18157000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31335000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,31335000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,31335000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,21521000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.38
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22458000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.32
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22700000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.38
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q3,2012-07-01,2012-09-30,2012-10-26 16:06:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1938957000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1938957000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1658704000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1658704000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,280253000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,218925000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8460000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,6988000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,234373000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,45880000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,17988000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17988000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27892000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10760000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,17132000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17132000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17132000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,21620000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.75
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22688000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.7
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22800000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.75
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2012.0,Q4,2012-10-01,2012-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1963832000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1963832000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1663343000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1663343000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,300489000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,233433000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8413000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,241846000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,58643000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,18606000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-789000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-19395000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,39248000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17130000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22118000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22118000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22118000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22282000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.95
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,24113000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.88
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,23300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.95
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q1,2013-01-01,2013-03-31,2013-05-10 16:19:56+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2335110000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2335110000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1993836000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1993836000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,341274000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,251159000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8884000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,609000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,260652000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,80622000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20443000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20443000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,60179000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22791000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,37388000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,37388000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,37388000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23315000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.53
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,24980000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.43
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24400000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.53
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 19:14:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.16
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2340147000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2340147000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2010685000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2010685000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,329462000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,246863000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9093000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,565000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,256521000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,72941000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20661000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20661000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52280000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19515000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,32765000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,32765000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,32765000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23373000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.34
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26342000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.19
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24500000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.34
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:05:15+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2279492000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2279492000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1958171000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1958171000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,321321000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,245401000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9436000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,5368000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,260205000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,61116000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20928000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20928000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,40188000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18467000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21721000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21721000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21721000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23096000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.9
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25314000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.82
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24200000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.9
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2013.0,Q4,2013-10-01,2013-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2260863000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2260863000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1922741000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1922741000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,338122000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,257558000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9925000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,267483000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,70639000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21426000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21426000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,49213000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17910000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31303000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,31303000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,31303000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23339000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.29
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25428000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.19
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.29
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q1,2014-01-01,2014-03-31,2014-04-29 16:55:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2511638000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2511638000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2142490000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2142490000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,369148000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,271970000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10753000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1721000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,284444000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84704000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46510000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-46510000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,38194000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,21332000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16862000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16862000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16862000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23298000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.7
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26242000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.62
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24100000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.7
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:55:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2626448000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2626448000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2251739000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2251739000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,374709000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,264233000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10746000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,9373000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,284352000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,90357000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46488000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-46488000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,43869000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17707000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26162000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,26162000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,26162000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23424000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.07
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,24432000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.03
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24500000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.07
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 10:53:30+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2538940000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2538940000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2172981000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2172981000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,365959000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,268203000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10920000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,30426000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,309549000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,56410000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23286000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23286000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33124000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14447000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18677000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18677000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18677000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23380000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.76
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,24885000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.76
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.76
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.19
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2432854000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2432854000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2068970000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2068970000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,363884000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,271469000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11684000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,283153000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,80731000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23259000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23259000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,57472000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,21657000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35815000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35815000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35815000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23443000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.47
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,23446000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.47
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24400000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.47
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 15:52:54+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2726480000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2726480000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2334907000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2334907000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,391573000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,280568000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11946000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1039000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,293553000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,98020000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24243000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24243000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,73777000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27467000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,46310000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,46310000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46310000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23312000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.91
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,23315000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.91
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24200000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.91
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 17:43:21+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2800569000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2800569000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2402187000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2402187000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,398382000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,289012000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11811000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,916000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,301739000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,96643000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23607000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23607000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,73036000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27775000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,45261000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,45261000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,45261000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23132000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.88
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,23137000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.88
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24100000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.88
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 18:22:05+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2672602000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2672602000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2292469000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2292469000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,380133000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,279784000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11798000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,85607000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,377189000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2944000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25058000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25058000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-22114000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11273000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-33387000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-33387000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-33387000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23148000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.35
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,23152000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.36
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.35
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2015.0,Q4,2015-10-01,2015-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.22
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2608355000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2608355000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2219254000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2219254000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,389101000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,293664000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,12464000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,932000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,307060000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,82041000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,27939000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27939000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,54102000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19811000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,34291000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,34291000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34291000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22448000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.47
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22453000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.47
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,23300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.47
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q1,2016-01-01,2016-03-31,2017-05-03 21:55:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.22
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2782449000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2782449000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2372330000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2372330000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,410119000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,299022000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,12713000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1024000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,312759000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,97360000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28298000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28298000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,69062000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22482000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,46580000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,46580000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46580000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,21057000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.12
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,21070000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.12
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.12
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q2,2016-04-01,2016-06-30,2017-08-02 16:52:42+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.23
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2823176000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2823176000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2416508000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2416508000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,406668000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,299006000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,12891000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,10855000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,322752000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,83916000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28229000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28229000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,55687000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20321000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35366000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35366000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35366000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,20568000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.65
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,20578000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.65
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,21400000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.65
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:52:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.23
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2518829000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2518829000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2135307000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2135307000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,383522000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,289779000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,13606000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,303385000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,80137000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28941000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-28941000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,51196000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17257000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,33939000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,33939000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,33939000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,20692000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.58
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,20698000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.58
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,21500000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.58
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q1,2017-01-01,2017-03-31,2018-05-04 08:32:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.24
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2672195000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2672195000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2267303000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2267303000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,404892000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,298568000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14093000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,312661000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,92231000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30541000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30541000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,61690000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22557000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,39133000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,39133000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,39133000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,20516000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.84
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,20522000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.84
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,21300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.84
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 19:33:56+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.24
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3012292000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3012292000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2580872000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2580872000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,431420000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,328327000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15059000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,9526000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,352912000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,78508000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31365000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31365000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,47143000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17262000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,29881000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,29881000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,29881000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,20222000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.43
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,20225000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.43
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,20900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.43
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 15:03:12+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.24
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2860026000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2860026000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2440263000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2440263000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,419763000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,324347000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16342000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,340689000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,79074000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,32907000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-32907000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,46167000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10353000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,35814000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,35814000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,35814000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,20298000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.7
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,20307000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.7
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,21100000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.7
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q1,2018-01-01,2018-03-31,2019-05-07 19:03:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,260.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2943462000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2943462000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2505299000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2505299000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,438163000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,308092000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16638000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,4268000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,328998000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,109165000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,33977000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33977000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,75188000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18725000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,56463000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,56463000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,56463000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,20036000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.72
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,20046000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.72
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,20800000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.72
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q2,2018-04-01,2018-06-30,2019-08-02 17:12:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.26
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2889100000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2889100000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2454000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2454000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,435100000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,316800000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,23200000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,356900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,78200000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,33800000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33800000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,44400000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9600000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,34800000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,34800000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34800000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,19252948.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.74
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19261070.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.74
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,20000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.74
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 17:23:11+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.26
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2808376000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2808376000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2376873000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2376873000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,431503000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,327708000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16997000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,344705000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,86798000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,34622000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-34622000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52176000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13528000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,38648000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,38648000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,38648000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17797000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.09
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17849000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.08
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18500000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q1,2019-01-01,2019-03-31,2019-05-07 19:03:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.09
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3005689000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3005689000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2551436000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2551436000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,454253000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,338715000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,17864000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,537000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,357116000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,97137000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,33904000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33904000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,63233000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14008000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,49225000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,49225000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,49225000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17908000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.65
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17930000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.64
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18600000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.65
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q2,2019-04-01,2019-06-30,2019-08-02 17:12:07+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.26
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3118300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3118300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2652700000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2652700000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,465600000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,354000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,18000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,10300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,382300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,83300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,34300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-34300000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,49000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,38000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,38000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,38000000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17961555.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,2.04
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17978700.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.04
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18600000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.04
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 17:23:11+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.28
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5919811000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5919811000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,5023664000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,5023664000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,896147000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,665685000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,35736000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,11363000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,712784000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,183263000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,68296000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-68296000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,115067000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,28292000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,86775000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,86775000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,86775000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,4.66
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17900000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.66
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18600000.0
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,4.66
+Group 1 Automotive Inc,GPI,549300US8QAZJLWYAF63,0001031203,2019.0,Q4,2019-10-01,2019-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.55

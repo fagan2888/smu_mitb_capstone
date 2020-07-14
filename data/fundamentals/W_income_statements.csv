@@ -1,0 +1,610 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,237302000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,237302000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,178656000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,178656000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,58646000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15530000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,46602000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,184000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62316000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3670000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,61000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,579000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,640000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3030000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3031000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3031000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,4673000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-7704000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40500000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.19
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40500000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.19
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,41367115.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2013.0,Q3,2013-07-01,2013-09-30,2014-11-14 16:02:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.19
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,278707000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,278707000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,213500000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,213500000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,65207000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22769000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,59375000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,249000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,10969000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,93362000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-28155000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,56000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,88000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,144000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-28011000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-28026000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-28026000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,7150000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-35176000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,41400000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.85
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,41400000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.85
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,41144000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q1,2014-01-01,2014-03-31,2015-05-14 07:01:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.85
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,295437000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,295437000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,226983000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,226983000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68454000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23586000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,55771000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,250000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,12113000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91720000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-23266000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,77000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-184000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-107000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-23373000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-23375000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-23375000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,4605000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-27980000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40600000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.69
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40600000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.69
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40515000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q2,2014-04-01,2014-06-30,2015-08-12 16:05:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.69
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,336188000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,336188000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,257161000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,257161000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79027000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25203000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,63200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,249000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14239000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,102891000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-23864000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,89000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-309000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-220000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-24084000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,59000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-24143000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-24143000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,4748000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-28891000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40700000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.71
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40700000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.71
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40513000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q3,2014-07-01,2014-09-30,2015-11-12 08:26:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.71
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,408619000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,408619000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,310209000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,310209000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98410000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,60123000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,93051000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,-748000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,18483000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,170909000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-72499000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,128000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-84000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,44000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-72455000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,99000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-72554000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-72554000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,-14432000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-58122000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,50600000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.72
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,50600000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.72
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,50642000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.72
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,424371000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,424371000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,321536000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,321536000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,102835000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32870000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,81233000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,15978000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130081000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-27246000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,264000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-108000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,156000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-27090000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,46000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-27136000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-27136000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-27136000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.33
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.33
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83210000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 16:29:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.33
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,491752000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,491752000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,370951000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,370951000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,120801000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36591000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,85353000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,18330000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,140274000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-19473000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,308000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-96000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,212000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-19261000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,73000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19334000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-19334000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-19334000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.23
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.23
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83603000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q2,2015-04-01,2015-06-30,2016-08-09 16:10:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.23
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,593972000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,593972000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,452586000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,452586000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,141386000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,41120000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,97794000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,21109000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,160023000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-18637000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,325000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2746000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3071000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-15566000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-88000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-15478000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-15478000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-15478000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86000000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.18
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86000000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.18
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83886000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:10:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.18
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,739790000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,739790000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,564088000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,564088000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,175702000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,152039000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13844000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,25813000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,191696000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-15994000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,387000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,176000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,563000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-15431000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,64000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-15495000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-15495000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-15495000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.18
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.18
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83726000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.18
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,747348000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,747348000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,568292000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,568292000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,179056000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58282000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,135533000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,27350000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,221165000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-42109000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,552000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,669000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1221000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-40888000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,317000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-41205000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-41205000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-41205000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.49
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.49
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84445000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.49
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,786928000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,786928000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,598414000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,598414000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,188514000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,69481000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,137699000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,30064000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,237244000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-48730000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,531000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,246000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,777000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-47953000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,300000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-48253000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-48274000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-48274000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84700000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.57
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84700000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.57
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84786000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:10:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.57
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,861525000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,861525000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,659864000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,659864000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,201661000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,79526000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,149883000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,33872000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,263281000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-61620000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-292000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,889000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,597000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-61023000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-83000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-60940000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-60940000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-60940000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84600000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.72
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84600000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.72
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,85105000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:21:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.72
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,984559000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,984559000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,745979000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,745979000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,238580000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,259731000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,-13990000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,36597000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,282338000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-43758000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-97000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-48000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-145000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-43903000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,74000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-43977000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-43956000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-43956000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84900000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.51
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84900000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.51
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84977000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.51
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,960825000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,960825000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,723942000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,723942000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,236883000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,139766000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,118265000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,35058000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,293089000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-56206000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-299000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,176000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-123000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-56329000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,210000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-56539000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-56539000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-56539000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,85700000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.66
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,85700000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.66
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86036000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 16:13:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.66
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1122856000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1122856000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,853390000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,853390000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,269466000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,143652000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,124241000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,39125000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,307018000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-37552000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1550000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,451000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1099000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-38651000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-38851000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-38875000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-38875000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86400000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.45
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86400000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.45
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86714000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 17:02:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.45
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1198198000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1198198000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,917889000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,917889000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,280309000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,169603000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,141714000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,42949000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,354266000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-73957000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2008000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-227000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2235000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-76192000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,237000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-76429000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-76429000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-76429000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86900000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.88
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86900000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.88
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87283000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:15:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.88
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1439016000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1439016000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1106851000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1106851000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,332165000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,181780000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,165739000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,52384000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,399903000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-67738000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5576000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,358000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5218000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-72956000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-161000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-72795000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-72771000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-72771000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,87100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.82
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.82
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86983000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.82
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1404269000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1404269000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1080445000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1080445000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,323824000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,211363000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,161646000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,53884000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,426893000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-103069000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5407000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,941000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4466000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-107535000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,240000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-107775000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-107775000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-107775000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88300000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.22
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88300000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.22
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,88467000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:16:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.22
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1655256000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1655256000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1270249000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1270249000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,385007000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,240972000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,177582000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,61792000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,480346000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-95339000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-5796000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,666000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5130000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-100469000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,300000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-100769000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-100734000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-100734000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,89100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.13
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.13
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,89158000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:12:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.13
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1705645000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1705645000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1312875000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1312875000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,392770000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,268785000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,202587000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,66664000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,538036000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-145266000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-7066000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1054000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6012000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-151278000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,400000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-151678000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-151726000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-151726000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,89800000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.69
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89800000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.69
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,89792000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q3,2018-07-01,2018-09-30,2019-10-31 16:08:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.69
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2014004000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2014004000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1528882000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1528882000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,485122000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,304647000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,232374000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,77706000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,614727000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-129605000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-10291000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2865000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-13156000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-142761000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1097000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-143858000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-143845000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-143845000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,89500000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.59
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89500000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.59
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,89472000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.59
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1944829000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1944829000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1474373000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1474373000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,470456000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,343648000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,243969000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,76473000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,664090000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-193634000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-9238000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3078000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6160000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-199794000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,595000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-200389000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-200389000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-200389000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,91100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-2.2
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,91100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-2.2
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,91104000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q1,2019-01-01,2019-03-31,2020-05-05 16:19:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-2.2
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2343251000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2343251000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1783651000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1783651000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,559600000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,383109000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,259166000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,88502000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,730777000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-171177000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-10252000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,322000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9930000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-181107000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,800000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-181907000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-181938000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-181938000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,91900000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.98
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,91900000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.98
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,91802000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:12:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.98
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2305487000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2305487000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1765566000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1765566000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,539921000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,426529000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,281846000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,91255000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,799630000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-259709000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-14432000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2182000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12250000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-271959000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,100000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-272059000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-272035000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-272035000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,92500000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-2.94
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,92500000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-2.94
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,92540000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q3,2019-07-01,2019-09-30,2019-10-31 16:08:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-2.94
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2533490000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2533490000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1956135000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1956135000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,577355000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,471420000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,310859000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,100497000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,882776000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-305421000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-20592000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2701000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23293000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-328714000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1515000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-330229000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-330222000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-330222000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,92200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-3.56
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,92200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-3.56
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,92200000.0
+Wayfair Inc,W,54930027N9ZAVYFDHK53,0001616707,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-3.56

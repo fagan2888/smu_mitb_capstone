@@ -1,0 +1,830 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,72802000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,72802000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,45505000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,45505000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27297000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13793000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,1690000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,2000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,15485000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11812000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,187000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-134000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,53000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11865000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2123000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9742000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9742000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,2292000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4188000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3262000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17200000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18100000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17200000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q1,2011-01-01,2011-03-31,2012-05-09 17:24:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,80176000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,80176000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,48816000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,48816000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,31360000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16805000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,1959000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,21000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1697000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20482000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10878000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-428000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-703000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-275000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10603000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2326000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8277000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8277000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,15271000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6994000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17100000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.41
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17100000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.41
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17100000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 17:15:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.41
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,86423000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,86423000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,51627000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,51627000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,34796000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15822000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2083000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17905000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16891000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-385000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2301000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1916000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14975000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1025000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13950000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13950000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,7822000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6128000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17000000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18600000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17000000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 08:07:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,94383000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,94383000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,60175000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,60175000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,34208000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,17627000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2211000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,586000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20424000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13784000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,476000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,80000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,556000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14340000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2241000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12099000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12099000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3135000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8964000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,30197000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,33957000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29900000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 16:24:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,103800000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,103800000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63803000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63803000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,39997000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20711000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2423000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,33000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,23167000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16830000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,460000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1394000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-934000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15896000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2575000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13321000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13321000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13321000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42475000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46382000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43000000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q2,2012-04-01,2012-06-30,2013-08-13 21:43:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,110078000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,110078000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,69099000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,69099000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,40979000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21153000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3040000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,50000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,24243000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16736000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,486000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-635000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-149000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16587000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2522000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14065000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14065000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14065000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42952000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46501000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,42600000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 16:31:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,125538000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,125538000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,77284000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,77284000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,48254000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26377000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3208000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,13000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,29598000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18656000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,519000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-135000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,384000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19040000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4041000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14999000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14999000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,206000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14793000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40190000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43821000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40300000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,124198000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,124198000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,77937000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,77937000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,46261000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27083000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3617000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,25000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,30725000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15536000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,630000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-499000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,131000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15667000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2987000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12680000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12680000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12680000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,44812000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,47646000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45300000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 17:20:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,133184000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,133184000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,83547000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,83547000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,49637000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28541000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3854000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-293000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,32102000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17535000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,769000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-869000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-100000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17435000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3317000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14118000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14118000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14118000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,45486000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,47977000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45500000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q2,2013-04-01,2013-06-30,2014-08-11 17:30:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,140150000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,140150000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,88539000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,88539000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,51611000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27893000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3906000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-418000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,31381000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20230000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,846000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-720000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,126000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20356000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3919000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16437000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16437000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16437000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46162000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,48720000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45700000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 17:02:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,157585000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,157585000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,97627000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,97627000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,59958000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32980000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3743000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,43000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,36766000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23192000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,832000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-712000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,120000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23312000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4553000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18759000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18759000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18759000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,45754000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,48358000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45900000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,160384000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,160384000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,102454000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,102454000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,57930000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32359000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3689000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,25000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,36073000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21857000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,976000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1241000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-265000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21592000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4228000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,17364000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17364000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17364000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46797000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,49207000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,46900000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 17:01:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,174695000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,174695000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,110102000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,110102000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,64593000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38671000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5451000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1995000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,46117000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18476000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1164000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1239000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-75000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18401000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3587000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14814000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14814000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14814000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,47068000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,49559000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47800000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 19:43:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,192764000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,192764000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,122509000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,122509000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70255000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,42875000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5510000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,35000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48420000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21835000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1261000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-718000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,543000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22378000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3338000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19040000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19040000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19040000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,47315000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,49829000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47600000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 09:29:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,202184000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,202184000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,121465000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,121465000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,80719000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49761000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2833000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1869000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,2241000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,56704000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24015000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1368000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-801000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,567000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24582000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6159000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18423000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18423000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18423000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,47189000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,49734000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47100000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,200045000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,200045000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,125887000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,125887000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74158000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,46938000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4200000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,200000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51338000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22820000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1158000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5754000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4596000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18224000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3510000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14714000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14714000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14714000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,47886000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,51000000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47500000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:09:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,217781000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,217781000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,134256000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,134256000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83525000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,55976000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3903000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,40000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,59919000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23606000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1299000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-465000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,834000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24440000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5209000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19231000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19231000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19231000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,48584000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,51917000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,48100000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 17:24:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,236049000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,236049000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,148479000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,148479000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87570000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,55431000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4393000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-30000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,59794000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27776000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,865000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,32000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,897000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28673000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5800000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22873000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22873000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22873000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,49043000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52344000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,48700000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q3,2015-07-01,2015-09-30,2016-11-09 16:50:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,260253000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,260253000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,158291000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,158291000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,101962000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64414000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4899000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,884000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70197000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31765000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1409000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1559000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2968000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,34733000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7095000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,27638000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,27638000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,27638000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,48720844.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.55
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,51986000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.52
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,48800000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.55
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,264482000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,264482000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,167381000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,167381000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,97101000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61494000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5102000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,174000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66770000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,30331000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1211000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1290000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-79000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30252000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6353000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23899000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23899000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23899000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,49714000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.48
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52883000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,49800000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 09:05:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.48
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,283832000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,283832000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,180782000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,180782000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,103050000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64241000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6123000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,606000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70970000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,32080000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1138000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2295000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1157000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30923000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6493000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,24430000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,24430000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,24430000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,50211000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,53271000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.46
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,49900000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 20:57:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,298293000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,298293000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,190797000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,190797000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,107496000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67491000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5925000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,178000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,73594000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,33902000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1067000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1728000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-661000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33241000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7067000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26174000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,26174000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,26174000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,51131000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,53864000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,51300000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q3,2016-07-01,2016-09-30,2017-11-06 17:35:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,313525000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,313525000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,198226000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,198226000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,115299000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,72637000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6237000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-958000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,77916000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,37383000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1432000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6765000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5333000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,32050000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7287000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,24763000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,24763000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,24763000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,50309000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,53215000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,50400000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,324651000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,324651000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,207730000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,207730000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,116921000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,78453000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6672000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,830000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,85955000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,30966000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2371000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2371000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28595000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4954000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23641000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23641000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23641000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,50958089.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,53889000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,51400000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:47:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,348977000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,348977000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,220132000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,220132000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,128845000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,80419000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7020000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,724000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,88163000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,40682000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2364000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2364000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,43046000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5687000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,37359000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,37359000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,37359000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,51899416.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.72
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,54848619.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.68
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,51900000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q2,2017-04-01,2017-06-30,2018-08-06 17:30:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.72
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,377523000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,377523000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,239369000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,239369000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,138154000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,81190000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7174000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,542000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,88906000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,49248000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1339000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1339000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,50587000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7953000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,42634000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,42634000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,42634000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52545155.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,55228781.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.77
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52600000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q3,2017-07-01,2017-09-30,2018-11-05 17:22:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,399297000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,399297000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,254121000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,254121000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,145176000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,87526000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7696000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2096000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,93126000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,52050000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,27000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,27000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52077000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,82951000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-30874000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-30874000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-30874000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52077011.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.59
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,54984173.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.57
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52000000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.59
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,424148000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,424148000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,277634000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,277634000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,146514000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,89641000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8176000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,97817000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,48697000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-798000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-798000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,47899000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-16519000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,64418000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,64418000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,64418000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,53078529.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.21
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,56240539.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.15
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53200000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 17:02:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.21
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,445647000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,445647000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,289175000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,289175000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,156472000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,93273000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8962000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,102235000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54237000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2882000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2882000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,57119000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6864000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,50255000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,50255000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,50255000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,53517124.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.94
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,56587009.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.89
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53500000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 17:06:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.94
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,468186000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,468186000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,301081000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,301081000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,167105000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,93226000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9319000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,102545000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,64560000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1427000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1427000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,65987000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,369000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,65618000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,65618000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,65618000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,53851865.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.22
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,56962867.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.15
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53800000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:39:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.22
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,504931000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,504931000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,319031000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,319031000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,185900000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,97447000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10183000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,107630000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,78270000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,498000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,498000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,78768000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18803000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,59965000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,59965000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,59965000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,53622989.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.11
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,56672676.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.05
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53600000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.11
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,521333000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,521333000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,344689000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,344689000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,176644000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,101786000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10200000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,111986000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,64658000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-408000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-408000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,64250000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3496000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,60754000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,60754000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,60754000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,54245133.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.12
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57236427.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.06
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,54200000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 17:31:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.12
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,551587000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,551587000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,355915000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,355915000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,195672000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,111762000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11028000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,122790000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,72882000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2372000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2372000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,70510000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11733000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,58777000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,58777000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,58777000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,54681959.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.07
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57614284.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.02
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,54900000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 17:06:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.07
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,588103000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,588103000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,377525000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,377525000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,210578000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,118886000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11127000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130013000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,80565000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-596000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-596000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,79969000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12967000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,67002000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,67002000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,67002000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,54877666.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.22
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57844355.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.16
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,54900000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:39:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.22
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,632775000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,632775000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,410069000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,410069000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,222706000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,124999000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,12962000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,137961000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,84745000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,52000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,52000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,84797000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10273000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,74524000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,74524000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,74524000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,54719414.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.36
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57667789.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.29
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,54700000.0
+EPAM Systems Inc,EPAM,549300XCR4R530HJP604,0001352010,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.36

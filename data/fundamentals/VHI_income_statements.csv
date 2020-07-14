@@ -1,0 +1,823 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,415700000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,3900000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,419600000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,326300000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,326300000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93300000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58100000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,17000000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75100000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18200000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18200000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11800000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6400000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6400000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1900000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4500000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,112500000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,112500000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,114300000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 17:16:54+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,413200000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,17700000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,430900000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,313100000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,313100000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,117800000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58500000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,16700000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,500000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75700000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42100000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,42100000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24000000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18100000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18100000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3700000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14400000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,110800000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,110800000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,114300000.0
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 20:43:53+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,455700000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,16800000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,472500000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,306800000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,306800000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,165700000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61300000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,20500000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81800000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,83900000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,83900000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30700000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,53200000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,53200000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,15200000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,38000000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,115200000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,115200000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,114200000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Valhi Inc,VHI,,0000059255,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:19:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,573100000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,8800000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,581900000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,372400000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,372400000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,209500000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,79100000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,15900000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95000000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,114500000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,114500000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,41600000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,72900000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,72900000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,20500000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,52400000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,349300000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.15
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,349300000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.15
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,341900000.0
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.15
+Valhi Inc,VHI,,0000059255,2011.0,Q2,2011-04-01,2011-06-30,2012-08-09 16:07:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.042
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,582800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,9600000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,592400000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,322400000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,322400000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,270000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,78700000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,13500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,92200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,177800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,177800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,59000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,118800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,700000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,119500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,30600000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,88900000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341900000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,341900000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Valhi Inc,VHI,,0000059255,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 17:10:23+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.042
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,568300000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,22200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,590500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,406300000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,406300000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,184200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,68200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,21500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89700000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,94500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,94500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,33700000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,60800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,61600000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,17200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,44400000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,341500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2012.0,Q2,2012-04-01,2012-06-30,2013-08-09 17:08:21+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,508800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,7600000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,516400000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,411300000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,411300000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14600000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,400000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,78100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,30000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,31800000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8900000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22900000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,327100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,327100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.07
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+Valhi Inc,VHI,,0000059255,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 17:24:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,427400000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,31200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,458600000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,372100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,372100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,86500000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63300000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,13900000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,7200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84400000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15100000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,22200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9200000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5600000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3600000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,340000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.01
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,340000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.01
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+Valhi Inc,VHI,,0000059255,2012.0,Q4,2012-10-01,2012-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,499200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,8800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,508000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,486300000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,486300000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,69700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,22000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-70000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-70000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-21800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-48200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-48200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-8400000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-39800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,331700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.12
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,331700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.12
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.12
+Valhi Inc,VHI,,0000059255,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 17:15:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,516000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,4300000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,520300000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,498800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,498800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21500000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,82700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,97400000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-75900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-75900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-27300000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-48600000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-48600000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-8900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-39700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,330800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.12
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,330800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.12
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.12
+Valhi Inc,VHI,,0000059255,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:13:46+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,448200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,8700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,456900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,399600000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,399600000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,57300000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,101100000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,16000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,117100000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-59800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-59800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-18900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-40900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-40900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-6700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-34200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.1
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.1
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.1
+Valhi Inc,VHI,,0000059255,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 17:28:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,400200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,66200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,466400000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,344700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,344700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,121700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,121600000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,12300000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,133900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-12200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-12200000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-23000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10800000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-4900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15700000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,337900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,337900000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2013.0,Q4,2013-10-01,2013-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,462400000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,5100000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,467500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,376600000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,376600000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,90900000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,68800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,13700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,82500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8400000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8400000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4600000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4600000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 17:18:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,491700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,10200000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,501900000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,387500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,387500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,114400000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,74600000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14600000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89200000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25200000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25200000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8200000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,310000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,310000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 17:31:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,476500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,18700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,495200000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,360700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,360700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,134500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67400000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,13800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81200000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,53300000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,53300000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,37500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,37500000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,358800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,358800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+Valhi Inc,VHI,,0000059255,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 17:28:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,432000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,8000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,440000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,335000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,335000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,65300000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14600000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,79900000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25100000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25100000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11400000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13700000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4900000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8800000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,336300000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,336300000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,416100000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,12100000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,428200000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,326800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,326800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,101400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,65200000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14600000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,79800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21600000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21600000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,17300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11900000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,297500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,297500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 17:12:56+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,408800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,7400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,416200000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,352500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,352500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,63700000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,78000000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,92500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-28800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-28800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,110600000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-139400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-139400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-35500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-103900000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,346300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.3
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,346300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.3
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.3
+Valhi Inc,VHI,,0000059255,2015.0,Q2,2015-04-01,2015-06-30,2016-08-08 16:34:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,383200000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,5900000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,389100000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,333400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,333400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,55700000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64100000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,78500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-22800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-22800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-9500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1600000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-11700000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,390000000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,390000000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+Valhi Inc,VHI,,0000059255,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 16:16:37+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,279800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,6500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,286300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,246800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,246800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,39500000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,41300000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,10100000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51400000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-11900000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-11900000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2100000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-14000000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-21700000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-35700000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-5800000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-29900000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,342600000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.1
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,342600000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.1
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.1
+Valhi Inc,VHI,,0000059255,2015.0,Q4,2015-10-01,2015-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,353500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,11400000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,364900000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,311500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,311500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,53400000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63200000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,15700000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,5100000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-30600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-30600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-22000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-22000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-2500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-19500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,325000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.06
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,325000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.06
+Valhi Inc,VHI,,0000059255,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 16:16:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,398600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,10700000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,409300000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,336400000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,336400000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72900000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,15800000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80400000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-7500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,200000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-7700000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7700000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,800000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,425000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,425000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 16:17:24+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,406800000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,6200000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,413000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,321500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,321500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,15900000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,79900000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,6000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,300000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.01
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,300000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.01
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+Valhi Inc,VHI,,0000059255,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:17:21+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,360500000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,10700000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,371200000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,242100000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,242100000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,129100000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40800000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,22200000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,66100000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,66100000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24400000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41700000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-24000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17700000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8600000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9100000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,318000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,318000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2016.0,Q4,2016-10-01,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,405300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,7600000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,412900000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,288700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,288700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,124200000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,18600000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,82100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,42100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18600000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,9100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,317500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,317500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 16:18:39+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,481800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,3800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,485600000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,338000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,338000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,147600000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,66100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,19000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,85100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,62500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,62500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-100800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,163300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-108200000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,55100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,46300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,293300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,293300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2017.0,Q2,2017-04-01,2017-06-30,2018-08-08 16:16:47+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,496500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,4300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,500800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,332100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,332100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,168700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,65200000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,26600000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,76900000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,76900000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,62200000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,63900000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,18000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,45900000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,353100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,353100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Valhi Inc,VHI,,0000059255,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:16:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,495800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,9500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,505300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,307700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,307700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,197600000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,19500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,87300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,110300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,110300000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-52500000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,162800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,161800000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,21700000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,140100000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,340200000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,340200000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+Valhi Inc,VHI,,0000059255,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,466000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,20400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,486400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,280700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,280700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,205700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,80200000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,19100000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,99300000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,106400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,106400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,36200000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,70200000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,37600000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,107800000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,18500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,89300000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,343500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,343500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Valhi Inc,VHI,,0000059255,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:16:53+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,510200000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,19300000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,529500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,326200000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,326200000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,203300000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,79500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,19800000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,62000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,161300000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,42000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,390000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,390000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:16:41+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,455200000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,20100000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,475300000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,322500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,322500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,152800000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,78200000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,17700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95900000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,56900000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,56900000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-91400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,148300000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,149000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,143500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,341700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,341700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342100000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+Valhi Inc,VHI,,0000059255,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 16:17:37+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,388700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,9400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,398100000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,281500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,281500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,116600000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,72100000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,13600000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,85700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,30900000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30900000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28400000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-4600000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23800000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,6100000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17700000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,340500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.06
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,340500000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.06
+Valhi Inc,VHI,,0000059255,2018.0,Q4,2018-10-01,2018-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,479600000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,6600000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,486200000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,357800000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,357800000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,128400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,71400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,85800000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42600000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,42600000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14200000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,10200000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18200000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,364000000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,364000000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342000000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.05
+Valhi Inc,VHI,,0000059255,2019.0,Q1,2019-01-01,2019-03-31,2020-05-07 16:16:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,475200000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,13600000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,488800000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,376800000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,376800000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,112000000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,76000000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-300000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,90100000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21900000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21900000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4700000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,17200000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17200000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4100000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13100000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,327500000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,327500000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342100000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Valhi Inc,VHI,,0000059255,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 16:17:37+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,414100000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,5300000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,419400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,322900000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,322900000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96500000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,73200000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14300000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,87500000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9000000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9000000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3600000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10800000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,351400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,351400000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,342100000.0
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Valhi Inc,VHI,,0000059255,2019.0,Q4,2019-10-01,2019-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.02
