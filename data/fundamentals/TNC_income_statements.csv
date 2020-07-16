@@ -1,0 +1,845 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,166137000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,166137000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,94594000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,94594000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,71543000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,54506000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6408000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,60914000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10629000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,396000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,31000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-317000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-682000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9947000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3772000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6175000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6175000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6175000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18789530.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19302802.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 15:32:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,168637000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,168637000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,96775000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,96775000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,71862000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,54227000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7114000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,61341000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10521000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,390000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,52000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,187000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-151000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10370000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2844000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7526000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7526000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7526000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18873249.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19402902.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.39
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2010.0,Q3,2010-07-01,2010-09-30,2011-11-02 14:01:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.14
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,172591000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,172591000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,100660000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,100660000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,71931000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57459000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6280000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63739000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8192000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,415000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,68000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,558000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,211000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8403000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2537000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5866000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5866000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5866000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18963177.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19556036.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18900000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q1,2011-01-01,2011-03-31,2012-04-27 14:49:23+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,201259000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,201259000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,117791000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,117791000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83468000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,66513000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6717000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,73230000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10238000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,545000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,184000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,848000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,487000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10725000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4870000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5855000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5855000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5855000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18941131.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19467553.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18900000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q2,2011-04-01,2011-06-30,2012-08-02 14:56:26+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,186990000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,186990000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,106737000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,106737000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,80253000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57250000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7240000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,64490000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15763000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,654000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,224000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1390000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1820000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13943000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4215000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9728000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9728000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9728000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18741524.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.52
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19271074.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.5
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.52
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q3,2011-07-01,2011-09-30,2012-10-30 16:29:30+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,193158000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,193158000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,109629000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,109629000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83529000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,60403000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7674000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,68077000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15452000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,624000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,276000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,555000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,207000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15659000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4395000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11264000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11264000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11264000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18832693.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.6
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19360428.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.59
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.6
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2011.0,Q4,2011-10-01,2011-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,173712000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,173712000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,98393000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,98393000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,75319000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,59714000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7270000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66984000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8335000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,712000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,310000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-195000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-597000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7738000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2414000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5324000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5324000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5324000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18722156.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19228272.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,19000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q1,2012-01-01,2012-03-31,2013-04-26 15:59:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,199493000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,199493000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,110542000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,110542000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88951000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,60419000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6935000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,67354000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21597000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,669000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,330000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-839000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1178000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20419000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6748000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13671000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13671000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13671000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18594207.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.74
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19203563.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.71
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18500000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.74
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q2,2012-04-01,2012-06-30,2013-07-30 16:23:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,178268000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,178268000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,100705000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,100705000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77563000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57193000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7353000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-784000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63762000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13801000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,640000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,229000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-286000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-697000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13104000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4359000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8745000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8745000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8745000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18468546.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19040875.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.46
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18600000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q3,2012-07-01,2012-09-30,2013-10-28 17:21:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,187507000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,187507000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,104044000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,104044000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83463000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,56788000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7705000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,64493000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18970000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,496000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-45000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-341000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18629000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4785000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13844000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13844000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13844000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18544896.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.75
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19102016.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.73
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18600000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.75
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2012.0,Q4,2012-10-01,2012-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,168092000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,168092000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,95569000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,95569000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72523000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58122000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7518000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,65640000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6883000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,467000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,114000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-318000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-671000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6212000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1153000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5059000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5059000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5059000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18343933.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18889317.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q1,2013-01-01,2013-03-31,2014-04-25 16:33:21+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,200238000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,200238000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,112497000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,112497000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87741000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58298000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7821000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66119000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21622000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,411000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,114000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-506000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-803000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20819000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6565000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14254000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14254000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14254000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18253326.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18787880.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.76
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:06:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,188541000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,188541000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,106679000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,106679000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,81862000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57663000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7970000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,65633000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16229000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,440000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,67000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-460000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-833000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15396000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4779000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10617000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10617000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10617000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18267828.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.58
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18811638.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.56
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.58
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q3,2013-07-01,2013-09-30,2014-10-29 16:29:04+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,195140000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,195140000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,111358000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,111358000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83782000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58893000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7220000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66113000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17669000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,443000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,95000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,130000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-218000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17451000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7150000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10301000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10301000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10301000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18297371.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.56
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18833453.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.55
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.56
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2013.0,Q4,2013-10-01,2013-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,183979000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,183979000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,107062000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,107062000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,76917000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,60199000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7481000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,67680000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9237000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,486000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,75000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-239000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-650000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8587000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2792000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5795000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5795000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5795000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18318260.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18839172.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q1,2014-01-01,2014-03-31,2015-04-30 14:44:09+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,219084000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,219084000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,123821000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,123821000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,95263000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64471000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7651000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72122000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23141000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,419000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,95000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,239000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-85000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23056000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7533000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15523000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15523000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15523000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18167054.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.85
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18675607.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.83
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.85
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q2,2014-04-01,2014-06-30,2015-07-30 14:07:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,202643000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,202643000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,115480000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,115480000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87163000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63215000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6844000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70059000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17104000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,396000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,84000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-438000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-750000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16354000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4562000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11792000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11792000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11792000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18120729.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.65
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18635287.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.65
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q3,2014-07-01,2014-09-30,2015-10-30 14:53:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,216277000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,216277000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,123193000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,123193000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93084000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63013000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7456000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70469000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22615000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,421000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,48000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-701000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1074000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21541000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,17541000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17541000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17541000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18217384.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.96
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18740858.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.93
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.96
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,185740000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,185740000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,107659000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,107659000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,78081000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,62117000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7710000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,69827000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8254000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,377000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,50000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-495000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-822000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7432000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2406000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5026000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5026000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5026000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18283097.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18780934.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18600000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q1,2015-01-01,2015-03-31,2016-04-29 15:02:46+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,215404000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,215404000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,120371000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,120371000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,95033000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64042000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8404000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72446000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22587000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,419000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,53000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-410000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-776000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21811000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6994000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14817000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14817000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14817000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18197431.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18672040.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.79
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q2,2015-04-01,2015-06-30,2016-07-28 14:47:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,204802000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,204802000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,116145000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,116145000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88657000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64681000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8207000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,11199000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84087000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4570000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,215000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,42000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-446000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-619000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3951000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4902000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-951000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-951000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-951000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17941171.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.05
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17941171.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.05
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,19000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.05
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q3,2015-07-01,2015-09-30,2016-10-28 16:24:26+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,205853000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,205853000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,118564000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,118564000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87289000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61430000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8094000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,69524000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17765000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,302000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,27000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-260000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-535000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17230000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4034000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13196000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13196000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13196000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18015151.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.75
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18493447.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.73
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.75
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2015.0,Q4,2015-10-01,2015-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,179864000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,179864000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,102362000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,102362000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77502000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,62439000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7904000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,62000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70405000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7097000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,302000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,41000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-309000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-570000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6527000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2088000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4439000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4439000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4439000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17544192.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.25
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17977587.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.25
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:18:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,216828000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,216828000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,121539000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,121539000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,95289000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64253000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8390000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,87000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72730000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22559000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,288000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,40000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,283000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,35000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22594000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7266000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15328000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15328000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15328000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17508022.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.88
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17933243.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.85
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17400000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.88
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q2,2016-04-01,2016-06-30,2017-08-09 16:13:31+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,200134000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,200134000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,114839000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,114839000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,85295000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,60623000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8418000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,69041000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16254000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,329000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,107000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-159000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-381000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15873000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4396000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11477000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11477000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11477000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17498808.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.66
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17973206.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.64
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17400000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.66
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:56:44+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,211746000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,211746000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,118237000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,118237000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93509000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61277000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,10026000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-149000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,71154000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22355000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,360000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,142000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-640000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-858000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21497000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6127000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15370000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15370000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15370000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17523267.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.87
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17976183.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.85
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17500000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.87
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2016.0,Q4,2016-10-01,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,191059000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,191059000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,111323000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,111323000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79736000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,73956000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8446000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,82402000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-2666000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,794000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,84000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1165000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1875000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4541000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-584000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3957000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3957000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3957000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17596546.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.22
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17596546.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.22
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.22
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:33:05+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,270791000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,270791000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,166237000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,166237000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,104554000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,87326000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7886000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95212000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9342000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11833000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,793000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-720000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11760000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2418000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,238000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2656000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2656000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-65000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2591000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17693102.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.15
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17693102.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.15
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.15
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q2,2017-04-01,2017-06-30,2018-08-01 14:36:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,261921000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,261921000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,157317000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,157317000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,104604000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,85711000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7907000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,93618000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10986000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6093000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,698000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1264000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6659000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4327000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,731000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3596000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3596000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,37000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3559000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17729857.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18171444.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q3,2017-07-01,2017-09-30,2018-11-02 10:49:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,279329000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,279329000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,168423000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,168423000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,110906000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,87807000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7761000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95568000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15338000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6680000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,825000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-8151000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14006000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1332000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4515000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3183000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3183000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,28000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3211000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17695390.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17695390.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,272800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,272800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,163700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,163700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,109100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,90700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,98700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10400000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4400000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17790989.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18245359.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 16:14:39+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,292200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,292200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,175000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,175000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,117200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,90300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7900000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,98200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,900000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5900000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,400000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17943450.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.71
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18371538.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.69
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17900000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.71
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 09:29:45+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.21
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,285200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,285200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,173100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,173100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,112100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,91600000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7300000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,98900000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13200000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5600000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1400000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-600000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8400000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,600000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7800000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,100000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7700000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17940438.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.43
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18338569.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.43
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18000000.0
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.43
+Tennant Co,TNC,JYAIRLT8DVP6DP8UT336,0000097134,2018.0,Q4,2018-10-01,2018-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.43

@@ -1,0 +1,672 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,38257000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,38257000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,14509000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,14509000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,23748000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6525000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,3232000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,1698000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7365000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2081000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20901000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2847000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8959000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8959000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6112000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2370000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3742000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3742000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3742000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,62400000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.06
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,62400000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,58692803.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q2,2010-04-01,2010-06-30,2011-08-15 16:33:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.06
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,70616000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,70616000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,27813000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,27813000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,42803000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8845000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,7897000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,2761000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11190000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,15797000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,141000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,46631000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3828000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10392000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10392000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-14220000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6478000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-7742000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7742000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-7742000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82839063.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.09
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82839063.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.09
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86000000.0
+Bankrate Inc,RATE,,0001518222,2010.0,Q3,2010-07-01,2010-09-30,2011-11-10 16:42:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.09
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,99078000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,99078000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37965000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37965000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,61113000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10669000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,16098000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3470000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10846000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1473000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,42556000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18557000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9396000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9396000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9161000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4099000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5062000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5062000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5062000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,87379865.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.06
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87379865.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84400000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q1,2011-01-01,2011-03-31,2012-05-14 17:03:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.06
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,98449000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,98449000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35310000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35310000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,63139000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10277000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,19604000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3652000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10820000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,38460000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,82813000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-19674000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,26153000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26153000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-45827000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6166000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-39661000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-39661000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-39661000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,89302942.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.44
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89302942.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.44
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,90100000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q2,2011-04-01,2011-06-30,2012-08-13 06:08:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.44
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,112904000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,112904000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,38071000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,38071000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74833000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13610000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,24007000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3696000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10899000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1163000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,53375000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21458000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6519000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6519000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14939000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7807000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7132000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7132000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7132000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,99879865.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100427391.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.07
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,101900000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q3,2011-07-01,2011-09-30,2012-11-14 07:55:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,113894000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,113894000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,120829000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,120829000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-6935000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-8248000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,-38043000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6290000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10474000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,619000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,21000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-28887000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21952000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6365000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6365000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15587000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-150000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15737000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1169000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14568000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14568000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,94160687.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,94160687.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,1289900000.0
+Bankrate Inc,RATE,,0001518222,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,125020000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,125020000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40278000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40278000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,84742000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13921000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,31250000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4424000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11769000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,105000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,197000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,61666000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23119000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6437000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6437000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16639000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6488000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10151000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10151000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10151000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,99879865.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,101712071.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,101500000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 08:01:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,122125000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,122125000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37609000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37609000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,84516000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13200000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,31551000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4146000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,12587000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,682000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,3000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62169000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22347000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6475000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-355000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6830000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15517000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-759000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16276000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16276000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16276000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,99896608.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,101088756.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,101700000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 07:31:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,116775000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,116775000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37682000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37682000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79093000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12425000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,34986000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4082000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14103000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-512000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,833000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,65917000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13176000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6365000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1742000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8107000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5069000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2509000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2560000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2560000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2560000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,99918198.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100541993.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,85300000.0
+Bankrate Inc,RATE,,0001518222,2012.0,Q3,2012-07-01,2012-09-30,2013-11-06 19:06:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,108448000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,108448000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,36108000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,36108000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72340000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15153000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,26333000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4651000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14511000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1149000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,61797000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10543000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6535000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6535000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4008000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1825000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2183000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2183000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2183000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100047441.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.02
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100053107.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,109200000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q1,2013-01-01,2013-03-31,2014-05-08 16:54:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,105546000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,105546000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37542000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37542000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68004000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14997000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,24873000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4840000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14844000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,2949000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,20000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62523000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5481000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6539000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6539000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1058000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-166000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-892000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-892000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-892000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100050989.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.01
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100050989.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.01
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,89200000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 14:17:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,121178000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,121178000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40524000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40524000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,80654000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16148000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,31639000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4453000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14730000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,30000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,67000000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13654000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23936000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2142000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26078000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-12424000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4673000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-7751000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7751000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-7751000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100127658.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.08
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100127658.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.08
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,96900000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q3,2013-07-01,2013-09-30,2013-11-06 19:06:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.08
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-38893000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-38893000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,26968000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,26968000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-65861000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-11513000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,-68005000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,-891000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,-12589000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2949000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,31000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,16231000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-79685000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13824000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5123000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2142000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2981000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10843000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4872000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5971000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-10707000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4736000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4736000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100108316.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100108316.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,101800000.0
+Bankrate Inc,RATE,,0001518222,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.04
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,136275000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,136275000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,78508000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,78508000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,57767000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12543000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,6087000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6875000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,13856000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2403000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1407000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,43171000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14596000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5190000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5190000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9406000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4874000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4532000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-446000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4086000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4086000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100876470.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,103081843.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,102200000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q1,2014-01-01,2014-03-31,2015-06-17 18:39:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,130367000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,130367000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,78174000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,78174000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,52193000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11724000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,6347000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6979000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14590000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,159000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,9933000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49732000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2461000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5162000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5162000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2701000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-874000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1827000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-366000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2193000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2193000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,101894188.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,101894188.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,109700000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 18:36:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,141650000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,141650000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,85528000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,85528000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,56122000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28992000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,6228000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7399000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14964000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,248000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-7050000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,50781000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5341000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5231000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5231000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,110000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6927000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6817000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-207000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7024000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-7024000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100607876.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.07
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100607876.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.07
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,100300000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 16:43:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.07
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-56241000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-56241000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-61765000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-61765000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,5524000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7582000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,-3906000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,-4467000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,-8908000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,780000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,746000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-8173000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13697000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5233000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5233000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8464000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2667000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11131000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-828000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10303000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10303000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100399458.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,102417273.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,103400000.0
+Bankrate Inc,RATE,,0001518222,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,89010000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,89010000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,41310000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,41310000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,47700000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15708000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,3973000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4904000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9462000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,263000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-240000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,34070000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13630000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5269000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5269000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8361000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3655000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4706000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,247000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4953000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4953000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,98414578.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.05
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,98936296.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.05
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,99100000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:51:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.05
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,99659000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,99659000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,44526000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,44526000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,55133000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19206000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,4269000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6320000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9983000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,650000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,348000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,40776000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14357000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5583000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5583000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8774000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3109000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5665000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-29056000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-23391000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-23391000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,98637078.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.24
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,99305197.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.23
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,97500000.0
+Bankrate Inc,RATE,,0001518222,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 17:29:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.24
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,93478000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,93478000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,47310000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,47310000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,46168000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16889000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,4895000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6579000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9627000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-851000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-34000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-162000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,36943000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9225000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5479000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,632000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4847000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4378000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3656000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,722000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-439000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,283000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,283000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,92899932.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,93440754.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q1,2016-01-01,2016-03-31,2017-05-09 17:41:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,98302000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,98302000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,52828000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,52828000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,45474000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20069000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,4037000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7470000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11079000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,20000000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,25000000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1335000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,263000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89253000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-43779000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5400000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,426000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4974000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-48753000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-7444000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-41309000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,353000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-40956000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-40956000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88030655.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.47
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88030655.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.47
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87100000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q2,2016-04-01,2016-06-30,2017-08-08 08:34:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.47
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,128798000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,128798000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,64516000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,64516000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,64282000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23939000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,4619000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8122000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10845000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,4178000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-173000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-10435000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,41095000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23187000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4871000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4871000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18316000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7534000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10782000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-96000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10686000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10686000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,87865210.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88895104.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,89100000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q3,2016-07-01,2016-09-30,2016-11-08 17:29:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,113583000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,113583000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,62892000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,62892000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,50691000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18996000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,3961000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7141000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10696000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-19149000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,13932000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,566000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,9198000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45341000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5350000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3927000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1058000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4985000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,365000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4598000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4233000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,86000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4147000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4147000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,89181386.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,89181386.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,-3413400000.0
+Bankrate Inc,RATE,,0001518222,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,118659000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,118659000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63194000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63194000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,55465000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21839000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,5226000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8579000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10542000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,12847000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,59033000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3568000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5462000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,509000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4953000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-8521000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3274000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5247000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5247000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-5247000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88260929.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.06
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88260929.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87500000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q1,2017-01-01,2017-03-31,2017-05-09 17:41:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.06
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,115924000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,115924000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,64400000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,64400000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,51524000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23941000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,5304000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8897000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10887000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,909000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,27292000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,77230000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-25706000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5414000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-265000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5679000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-31385000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8099000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-23286000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-23286000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-23286000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,88709404.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.26
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88709404.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.26
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,89600000.0
+Bankrate Inc,RATE,,0001518222,2017.0,Q2,2017-04-01,2017-06-30,2017-08-08 08:34:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.26

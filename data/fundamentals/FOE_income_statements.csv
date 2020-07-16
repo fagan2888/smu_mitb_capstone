@@ -1,0 +1,958 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,543485000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,543485000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,421155000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,421155000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,122330000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,69852000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,21205000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91057000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31273000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,13766000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,133000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3873000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9760000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21513000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13919000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7594000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7594000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,165000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,494000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6935000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86700000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86700000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86700000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q2,2010-04-01,2010-06-30,2011-08-01 16:15:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,528564000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,528564000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,408268000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,408268000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,120296000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,74835000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,9570000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84405000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,35891000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,29850000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,78000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7743000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37515000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1624000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,738000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2362000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2362000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,165000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,983000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3510000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,87800000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87800000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87800000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2010.0,Q3,2010-07-01,2010-09-30,2011-10-26 16:19:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.04
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,573009000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,573009000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,452683000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,452683000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,120326000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,76818000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1630000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,78448000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,41878000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6826000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,74000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1828000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8580000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33298000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10107000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23191000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23191000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,165000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,301000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22725000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,85975000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,85975000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,85975000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q1,2011-01-01,2011-03-31,2012-04-25 16:37:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,593974000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,593974000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,479627000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,479627000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,114347000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,73548000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1545000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75093000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,39254000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7352000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,69000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-889000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8172000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,31082000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11461000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19621000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19621000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,232000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19389000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86159000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86159000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86159000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q2,2011-04-01,2011-06-30,2012-07-25 17:03:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,546114000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,546114000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,442304000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,442304000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,103810000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,65766000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,869000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66635000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,37175000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7030000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,50000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1790000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8770000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28405000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9057000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19348000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19348000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,40000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19308000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86169000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86169000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,1930800000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q3,2011-07-01,2011-09-30,2012-10-29 17:24:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,417756000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,417756000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,353434000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,353434000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,64322000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,114318000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,12986000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,127304000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-62982000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6027000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,92000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2778000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8713000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-71695000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-12493000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-59202000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,2176000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-57026000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,157000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-57183000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86119000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.66
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86778000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.65
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86119000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.45
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,460425000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,460425000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,374704000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,374704000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,85721000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,72508000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,311000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72819000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12902000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6374000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,84000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-540000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6830000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6072000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2809000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3263000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,707000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3970000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,124000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3846000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,96200000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,96200000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,128200000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q1,2012-01-01,2012-03-31,2013-04-24 16:59:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,475546000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,475546000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,389728000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,389728000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,85818000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,66304000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,4728000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,71032000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14786000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6476000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,51000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1624000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8049000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6737000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4859000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1878000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,328000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2206000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,330000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1876000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,93800000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.02
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,93800000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,-62500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q2,2012-04-01,2012-06-30,2013-07-31 17:22:27+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,408865000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,408865000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,348155000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,348155000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,60710000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63863000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,198695000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,262558000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-201848000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6716000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,57000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1666000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8325000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-210173000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,105447000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-315620000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-118000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-315738000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,376000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-316114000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86296000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-3.66
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86296000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-3.66
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86296000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q3,2012-07-01,2012-09-30,2013-10-23 16:49:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-3.66
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-77141000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-77141000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-78289000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-78289000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1148000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,69162000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,21990000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91152000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-90004000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1346000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,119000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,108000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1119000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-91123000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-15498000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-75625000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,12153000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-63472000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,404000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-63876000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86288000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.74
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86288000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.74
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86288000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.68
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,417524000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,417524000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,338287000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,338287000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79237000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61592000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,9454000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,71046000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8191000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7297000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,53000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,9010000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1766000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9957000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1016000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8941000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-8421000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,520000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-363000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,883000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86439000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.01
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86439000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.01
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86439000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q1,2013-01-01,2013-03-31,2014-04-23 16:22:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,319022000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,319022000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,243833000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,243833000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,75189000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57850000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,13070000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70920000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4269000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5012000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,70000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2051000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6993000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2724000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2341000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5065000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3083000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1982000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,148000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2130000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,106500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,106500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,106500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q2,2013-04-01,2013-06-30,2014-07-30 16:35:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,298083000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,298083000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,225980000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,225980000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72103000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,52589000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,3562000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,56151000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15952000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5039000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,48000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-835000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5826000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10126000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,312000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9814000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3230000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13044000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,392000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12652000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86426000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.15
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86426000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.15
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86426000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q3,2013-07-01,2013-09-30,2014-10-27 17:18:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.15
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,153953000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,153953000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,102810000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,102810000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,51143000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-21278000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,14843000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-6435000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,57578000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2804000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,100000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5957000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3253000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,60831000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10616000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,50215000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,10648000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,-503000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,60360000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-177000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,60537000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86484000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.69
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87497000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.68
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86484000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.69
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,280727000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,280727000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,205774000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,205774000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74953000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,51369000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,4350000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,55719000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19234000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4511000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,15000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2108000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6604000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12630000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2482000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10148000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,6584000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16732000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-472000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17204000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86778000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86778000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86778000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q1,2014-01-01,2014-03-31,2015-04-29 16:35:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,294217000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,294217000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,215763000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,215763000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,78454000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49260000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1958000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51218000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27236000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4673000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,14000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3483000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8142000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19094000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5186000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13908000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-3520000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10388000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,429000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9959000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86936000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86936000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86936000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 16:09:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,275754000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,275754000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,202950000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,202950000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72804000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,51716000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1521000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,53237000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19567000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,17987000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,23000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,510000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17454000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2113000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4680000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2567000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,50124000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,47557000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,92000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,47465000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86979000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.55
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,86979000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.55
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86979000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:11:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.55
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,262772000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,262772000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,192137000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,192137000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70635000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49456000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,509000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49965000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20670000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3150000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,37000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2127000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5240000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15430000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2459000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12971000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-3956000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9015000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1955000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10970000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,87114000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,87114000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,87114000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q1,2015-01-01,2015-03-31,2016-04-26 16:20:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,268214000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,268214000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,190574000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,190574000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77640000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,52695000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1116000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,53811000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23829000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3110000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,57000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2666000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5719000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18110000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5679000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12431000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-5646000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6785000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,186000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6599000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q2,2015-04-01,2015-06-30,2016-07-27 16:20:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,279365000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,279365000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,202337000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,202337000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77028000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,48417000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,3844000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,52261000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24767000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3877000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,97000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1670000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5450000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19317000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3792000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15525000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-19086000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3561000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,498000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4059000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81200000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.05
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81200000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.05
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81200000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q3,2015-07-01,2015-09-30,2016-11-02 17:13:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.05
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,264990000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,264990000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,188613000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,188613000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,76377000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,66331000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,4186000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70517000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5860000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5026000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,172000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,920000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3934000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1926000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-57030000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,58956000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-8091000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,996000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,51861000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1271000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,50590000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,86718000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.59
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,88433000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.56
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,86718000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.59
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,277451000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,277451000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,193222000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,193222000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,84229000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,52646000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,881000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,53527000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,30702000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4847000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,85000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1842000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2920000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27782000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8018000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19764000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-29494000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-9730000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,236000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-9966000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83311000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.12
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83311000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.12
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83311000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q1,2016-01-01,2016-03-31,2017-04-25 16:46:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.12
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,297977000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,297977000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199604000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199604000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98373000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57871000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,787000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,58658000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,39715000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5428000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,115000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1058000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6371000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33344000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8484000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,24860000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-5748000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19112000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,143000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18969000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83209000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83209000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83209000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q2,2016-04-01,2016-06-30,2017-07-26 16:42:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,288527000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,288527000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199546000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199546000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88981000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,55588000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,26000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,55614000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,33367000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5304000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,214000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1572000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6662000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,26705000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6157000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20548000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-29222000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8674000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,210000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8884000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83268000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83268000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83268000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q3,2016-07-01,2016-09-30,2017-11-01 16:57:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,281337000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,281337000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,196542000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,196542000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,84795000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61181000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,14213000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75394000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9401000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5968000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,216000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-29035000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-34787000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25386000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4791000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-20595000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,-930000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-21525000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-589000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-20936000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83298000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.25
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84910000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.24
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83298000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.25
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,320555000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,320555000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,221761000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,221761000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98794000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,59446000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,3018000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62464000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,36330000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10129000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,180000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2878000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7071000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,29259000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7138000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22121000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22121000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,223000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21898000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83530000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83530000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83530000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q1,2017-01-01,2017-03-31,2018-05-01 16:25:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,348632000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,348632000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,240290000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,240290000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,108342000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,62981000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,3224000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66205000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42137000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6449000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,175000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5939000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12213000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,29924000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8695000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21229000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21229000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,204000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21025000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83673000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.25
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83673000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83673000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 17:00:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.25
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,350012000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,350012000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,246396000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,246396000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,103616000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,65941000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1471000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,67412000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,36204000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7248000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,201000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1161000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5886000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30318000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7353000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22965000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22965000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,148000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22817000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83735000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83735000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83735000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:45:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-22817000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-22817000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-38784000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-38784000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,15967000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28922000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,810000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,29732000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-13765000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,726000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2412000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5893000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,7579000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6186000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,23227000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-29413000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,41722000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,36198000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,48507000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,139000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,48368000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83713000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.1
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,85156000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,167800000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.1
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,405532000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,405532000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,286846000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,286846000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,118686000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,73092000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,4106000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,77198000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,41488000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7962000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,201000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2615000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10376000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,31112000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7514000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23598000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23598000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,207000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23391000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84228000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84228000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84228000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q1,2018-01-01,2018-03-31,2019-04-30 21:35:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,416239000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,416239000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,289594000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,289594000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,126645000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,70124000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,3768000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,73892000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,52753000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11400000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,186000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1288000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12502000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,40225000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10364000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,29861000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,29861000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,193000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,29668000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84341000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84341000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,84341000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q2,2018-04-01,2018-06-30,2019-07-30 16:45:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,395163000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,395163000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,289676000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,289676000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105487000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64344000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,2561000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66905000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,38582000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8553000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,110000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2628000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11071000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27511000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11368000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16143000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16143000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,85000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16058000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83893000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83893000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83893000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 07:28:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-134711000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-134711000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-123628000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-123628000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-11083000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12387000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-3319000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9068000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20151000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-1030000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3175000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-11878000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7673000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-27798000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-15116000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-12682000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,48050000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,56069000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,91437000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,368000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,91069000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83940000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,85085000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,168600000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,263382000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,263382000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,185523000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,185523000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77859000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,56931000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1740000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,58671000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19188000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6295000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,811000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2010000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7494000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11694000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2893000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8801000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5077000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13878000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,274000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13604000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82480000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82480000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82480000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 16:02:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,393902000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,393902000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,285644000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,285644000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,108258000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,71645000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,10260000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81905000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,26353000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8515000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,149000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1739000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10105000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16248000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5139000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11109000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11109000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,238000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10871000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81932000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81932000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81932000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q2,2019-04-01,2019-06-30,2019-07-30 16:45:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,365728000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,365728000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,265437000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,265437000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100291000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67723000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,6226000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,73949000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,26342000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8138000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,93000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1358000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9403000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16939000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3729000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13210000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13210000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,390000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12820000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,81942000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,81942000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81942000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 07:28:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-4646000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-4646000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-27054000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-27054000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,22408000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16186000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-7271000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8915000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13493000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1354000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2272000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-15781000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14863000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1370000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3642000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2272000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-61321000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,34305000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-24744000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,475000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-25219000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,172500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.38
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82891000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.38
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,172500000.0
+Ferro Corp,FOE,1YTO5R7OHOPE81ZNYD08,0000035214,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.38

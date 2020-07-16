@@ -1,0 +1,897 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,101602000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,101602000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,31522000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,31522000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70080000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20931000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13125000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2601000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6575000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,43232000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,26848000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9170000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,125000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,441000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8604000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18244000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6927000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11317000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11317000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-3000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11320000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,56886000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57735000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,56600000.0
+ILG Inc,ILG,,0001434620,2010.0,Q2,2010-04-01,2010-06-30,2011-08-04 19:28:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,100488000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,100488000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,31175000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,31175000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,69313000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22802000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,12533000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2644000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6575000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,44554000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24759000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8847000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,120000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-702000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9429000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15330000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6038000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9292000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9292000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9292000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,56993000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57722000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,58100000.0
+ILG Inc,ILG,,0001434620,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 15:51:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,116983000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,116983000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37523000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37523000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79460000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24315000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13832000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3290000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6813000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48250000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31210000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8966000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,121000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1160000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10005000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21205000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8007000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13198000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13198000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13195000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57188000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,58084000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57400000.0
+ILG Inc,ILG,,0001434620,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 18:40:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,105554000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,105554000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35333000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35333000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70221000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24160000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,14042000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3397000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6805000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48404000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21817000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9140000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,266000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-570000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9444000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12373000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4875000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7498000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7498000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-4000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7502000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57472000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,58311000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57700000.0
+ILG Inc,ILG,,0001434620,2011.0,Q2,2011-04-01,2011-06-30,2012-08-07 19:35:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,106713000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,106713000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,34708000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,34708000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72005000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23256000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13341000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3319000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6830000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,46746000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25259000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8762000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,433000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2488000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5841000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19418000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7982000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11436000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11436000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11434000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57245000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57861000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57200000.0
+ILG Inc,ILG,,0001434620,2011.0,Q3,2011-07-01,2011-09-30,2012-11-06 19:01:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,99544000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,99544000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,33856000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,33856000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,65688000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22777000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,12289000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3271000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6853000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45190000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20498000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8707000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,443000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,822000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7442000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13056000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4062000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8994000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8994000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8995000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,56981000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57775000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.15
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57100000.0
+ILG Inc,ILG,,0001434620,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,126739000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,126739000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,42791000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,42791000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83948000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25426000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13773000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3306000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7043000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49548000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,34400000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8564000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,426000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2473000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10611000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23789000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8560000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15229000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15229000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15225000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,56089000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,56676000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,56400000.0
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+ILG Inc,ILG,,0001434620,2012.0,Q1,2012-01-01,2012-03-31,2013-05-06 18:57:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,118668000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,118668000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,43261000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,43261000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,75407000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26980000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,14268000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3222000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7289000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51759000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23648000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9427000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,577000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,980000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7870000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15778000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5727000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10051000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10051000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10052000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,56540000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57321000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,55800000.0
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+ILG Inc,ILG,,0001434620,2012.0,Q2,2012-04-01,2012-06-30,2013-08-07 19:27:49+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,117195000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,117195000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,41741000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,41741000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,75454000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26626000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13282000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3311000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6669000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49888000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25566000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24410000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,535000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-915000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24790000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,776000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,624000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,152000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,152000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,149000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,56714000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57364000.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.0
+ILG Inc,ILG,,0001434620,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 20:14:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,110737000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,110737000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40466000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40466000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70271000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26238000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,12236000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3590000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2040000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,44104000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,26167000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1755000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,254000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-48000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1549000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24618000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9341000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15277000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15277000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15276000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,56549000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57248000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,56500000.0
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+ILG Inc,ILG,,0001434620,2012.0,Q4,2012-10-01,2012-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,134881000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,134881000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,46376000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,46376000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88505000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26305000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13735000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3664000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2012000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45716000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42789000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1653000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,151000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-520000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2022000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,40767000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15757000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,25010000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,25010000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,6000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,25004000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,56928000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57435000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,56800000.0
+ILG Inc,ILG,,0001434620,2013.0,Q1,2013-01-01,2013-03-31,2014-05-07 19:19:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,124983000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,124983000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,43421000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,43421000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,81562000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28227000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,14272000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3696000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1896000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48091000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,33471000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1611000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,72000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1479000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-60000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33411000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12841000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20570000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20570000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20570000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57315000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57795000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.36
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57100000.0
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+ILG Inc,ILG,,0001434620,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 18:11:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,119156000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,119156000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,41991000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,41991000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77165000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27387000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,12951000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3499000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1950000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45787000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31378000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1295000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,60000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-65000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1300000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30078000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12973000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,17105000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17105000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17101000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57353000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57986000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57000000.0
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+ILG Inc,ILG,,0001434620,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 17:49:29+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,122195000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,122195000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,47722000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,47722000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74473000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,30655000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,12764000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3672000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2275000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49366000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25107000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1613000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,79000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-635000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2169000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22938000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3841000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19097000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19097000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,555000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18542000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57243000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57832000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57200000.0
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+ILG Inc,ILG,,0001434620,2013.0,Q4,2013-10-01,2013-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,157041000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,157041000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63850000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63850000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93191000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,31437000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,14570000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3793000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2966000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,52766000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,40425000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1324000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,44000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-136000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1416000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,39009000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14315000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,24694000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,24694000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,979000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23715000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57505000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,58078000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57800000.0
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+ILG Inc,ILG,,0001434620,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 19:06:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,143528000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,143528000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,59761000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,59761000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83767000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,31251000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13808000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3876000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2895000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51830000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31937000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1628000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,55000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-280000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1853000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30084000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10690000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19394000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19394000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1034000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18360000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57669000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,58169000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57400000.0
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+ILG Inc,ILG,,0001434620,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 19:37:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,146683000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,146683000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,58995000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,58995000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87688000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,31340000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,14799000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3765000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,2879000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,52783000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,34905000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1529000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,55000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,511000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-963000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33942000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11838000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,22104000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,22104000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,809000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21295000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57098000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57683000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57600000.0
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+ILG Inc,ILG,,0001434620,2014.0,Q3,2014-07-01,2014-09-30,2015-11-09 17:03:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,166748000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,166748000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-36606000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-36606000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,203354000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38972000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,18823000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4566000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3260000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,118000000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,183621000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19733000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2519000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4846000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1905000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,4232000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23965000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8157000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15808000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15808000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,178000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15630000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57343000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57953000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57200000.0
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+ILG Inc,ILG,,0001434620,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.11
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,184552000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,184552000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,82357000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,82357000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,102195000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35895000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,18208000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4269000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3501000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,61873000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,40322000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2753000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1791000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,921000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,40281000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14492000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,25789000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,25789000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,527000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,25262000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57179000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57747000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57400000.0
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+ILG Inc,ILG,,0001434620,2015.0,Q1,2015-01-01,2015-03-31,2016-05-09 21:33:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,174000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,174000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,137000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,19000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,44000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,106000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,17000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57453000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.29
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,58041000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,58600000.0
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.29
+ILG Inc,ILG,,0001434620,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:08:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,174000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,174000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,36000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,36000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,138000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,18000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,4000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,39000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,105000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,33000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,31000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57477000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,58055000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57600000.0
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+ILG Inc,ILG,,0001434620,2015.0,Q3,2015-07-01,2015-09-30,2016-11-08 18:51:48+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,164448000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,164448000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-11357000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-11357000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,175805000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38105000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,15792000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5731000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3499000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,89000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,152127000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23678000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6247000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2209000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1921000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5959000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17719000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5508000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12211000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12211000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,473000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11738000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57400000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57989000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57000000.0
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+ILG Inc,ILG,,0001434620,2015.0,Q4,2015-10-01,2015-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,186000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,186000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,146000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,17000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,43000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,106000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,40000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,36000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,22000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,57619000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,57954000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,57900000.0
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+ILG Inc,ILG,,0001434620,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 19:07:37+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,297000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,297000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,77000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,77000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,220000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,54000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,42000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,83000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,193000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,198000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,193000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,220000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,36000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,184000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,184000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,183000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,97091000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.89
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,97857000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.87
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,96800000.0
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.89
+ILG Inc,ILG,,0001434620,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 19:08:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,418000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,418000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,110000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,110000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,308000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,56000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,66000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,119000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,261000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,47000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-13000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,32000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,32000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,32000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124762000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125763000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123100000.0
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+ILG Inc,ILG,,0001434620,2016.0,Q3,2016-07-01,2016-09-30,2017-11-07 19:18:23+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,455000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,455000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,117000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,117000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,338000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,50000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,69000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,128000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,267000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,71000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-30000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,38000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28000000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100868000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,101732000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,101100000.0
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+ILG Inc,ILG,,0001434620,2016.0,Q4,2016-10-01,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,444000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,444000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,227000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,227000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,217000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,54000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,70000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,10000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,154000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,63000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,10000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,7000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,70000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,45000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,45000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,44000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123998000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125582000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,122200000.0
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+ILG Inc,ILG,,0001434620,2017.0,Q1,2017-01-01,2017-03-31,2018-05-03 18:07:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,441000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,441000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,231000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,231000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,210000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,76000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,11000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,165000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,45000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,0.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,39000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,26000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,26000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124384000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,126141000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,118200000.0
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+ILG Inc,ILG,,0001434620,2017.0,Q2,2017-04-01,2017-06-30,2018-08-03 16:19:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,446000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,446000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,129000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,129000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,317000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,77000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,108000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,263000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,47000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,30000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,30000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,29000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124122000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,126002000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,120800000.0
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+ILG Inc,ILG,,0001434620,2017.0,Q3,2017-07-01,2017-09-30,2017-11-07 19:18:23+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,455000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,455000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-58000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-58000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,513000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,55000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,80000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,301000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,456000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,57000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-16000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,41000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-29000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,70000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,70000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,69000000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124032000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.56
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125833000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.56
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123500000.0
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.54
+ILG Inc,ILG,,0001434620,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,482000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,482000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,248000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,248000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,234000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,59000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,78000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,11000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,168000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,66000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,65000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,45000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,45000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,43000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123826000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125751000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,122900000.0
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+ILG Inc,ILG,,0001434620,2018.0,Q1,2018-01-01,2018-03-31,2018-05-03 18:07:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,461000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,461000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,231000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,231000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,230000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,65000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,81000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,11000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,178000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,52000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,41000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,27000000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124241000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125874000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,128600000.0
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+ILG Inc,ILG,,0001434620,2018.0,Q2,2018-04-01,2018-06-30,2018-08-03 16:19:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175

@@ -1,0 +1,908 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,453359000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,453359000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,422687000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,422687000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,30672000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13597000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13597000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17075000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5659000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,99000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-110000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5670000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11405000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2517000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8888000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8888000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,204000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8684000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31359000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31678000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31000000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q2,2010-04-01,2010-06-30,2011-08-03 17:15:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,496149000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,496149000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,464191000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,464191000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,31958000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15016000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,15016000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16942000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6544000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,97000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6445000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10497000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3082000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7415000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7415000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,49000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7366000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31369000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31584000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,32000000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2010.0,Q3,2010-07-01,2010-09-30,2011-11-01 17:03:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,812327000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,812327000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,774703000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,774703000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,37624000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,17628000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17628000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19996000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8132000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,91000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-63000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8104000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11892000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4361000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7531000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7531000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-210000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7741000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36199000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42764.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36900000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q1,2011-01-01,2011-03-31,2012-05-01 17:10:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,861393000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,861393000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,826314000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,826314000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,35079000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,17474000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17474000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17605000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9255000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,72000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-551000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9734000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7871000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2852000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5019000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5019000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,37000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4982000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36415000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.14
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42953000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.14
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,35600000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q2,2011-04-01,2011-06-30,2011-08-03 17:15:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.14
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,957018000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,957018000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,909725000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,909725000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,47293000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18248000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18248000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,29045000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9440000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,59000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-284000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9665000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19380000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6979000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12401000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12401000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-28000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12429000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,35624000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42151000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,35500000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q3,2011-07-01,2011-09-30,2011-11-01 17:03:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,922974000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,922974000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,870738000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,870738000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,52236000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19869000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19869000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,32367000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9818000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,88000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,119000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9611000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22756000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9494000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13262000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13262000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-4000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13266000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,35276000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,41808000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,35200000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,775395000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,775395000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,766625000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,766625000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,8770000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19861000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19861000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-11091000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9067000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,39000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-578000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9606000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-20697000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8001000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-12696000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-12696000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-4000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-12692000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,32238000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.39
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32238000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.39
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,32500000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q1,2012-01-01,2012-03-31,2013-05-02 17:05:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.39
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,870356000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,870356000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,852222000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,852222000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18134000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19217000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19217000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1083000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9842000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,58000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-832000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10616000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-11699000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4145000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-7554000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7554000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-4000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-7550000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29614000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.25
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,29614000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.25
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,30200000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 16:26:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.25
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,947413000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,947413000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,919516000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,919516000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27897000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19273000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19273000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8624000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9832000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,46000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-448000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10234000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1610000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-604000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1006000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1006000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-4000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1002000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29655000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,29655000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,33400000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q3,2012-07-01,2012-09-30,2012-11-01 16:40:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,883706000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,883706000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,841736000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,841736000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,41970000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20668000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-47133000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-26465000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,68435000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8780000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,48000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-541000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9273000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,59162000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26143000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,33019000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,33019000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-4000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,33023000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,30296000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,30463000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,30200000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,765476000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,765476000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,738262000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,738262000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27214000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14510000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,14510000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12704000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8070000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,39000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-520000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8551000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4153000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1598000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2555000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2555000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2555000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29933000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,30210000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28400000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q1,2013-01-01,2013-03-31,2013-05-02 17:05:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,804696000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,804696000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,772085000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,772085000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,32611000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14049000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,14049000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18562000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7762000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,63000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-610000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8309000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10253000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4288000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5965000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5965000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5965000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,30160000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36804000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29800000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q2,2013-04-01,2013-06-30,2013-08-01 16:21:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,757971000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,757971000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,716947000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,716947000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,41024000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15490000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,15490000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25534000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7608000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,64000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-947000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8491000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17043000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7633000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9410000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9410000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9410000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,30204000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37483000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,30400000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q3,2013-07-01,2013-09-30,2013-10-31 17:13:12+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,712868000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,712868000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,640697000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,640697000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72171000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21120000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,21120000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,51051000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9917000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,128000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-430000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10219000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,40832000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15371000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,25461000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,25461000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,25461000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,30183000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.84
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,38304000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.71
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,30100000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2013.0,Q4,2013-10-01,2013-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.04
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,733889000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,733889000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,633140000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,633140000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100749000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22406000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22406000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,78343000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9759000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,113000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1031000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8615000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,69728000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26525000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,43203000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,43203000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,43203000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,33153000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.3
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43251000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.04
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,33200000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.3
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 17:16:04+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,837858000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,837858000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,759543000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,759543000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,78315000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19369000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19369000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,58946000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9704000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,143000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,704000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8857000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,50089000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17775000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,32314000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,32314000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,32314000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37467000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.86
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,39359000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.82
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37600000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.86
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q2,2014-04-01,2014-06-30,2015-07-31 16:18:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,833925000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,833925000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,723083000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,723083000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,110842000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20217000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15570000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,35787000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,75055000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10288000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,164000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1068000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9056000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,65999000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24250000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41749000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,41749000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,41749000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37588000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.11
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40542000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.03
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37600000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.11
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 17:09:59+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,829939000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,829939000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,693703000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,693703000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,136236000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15737000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,46569000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62306000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,73930000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10157000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,215000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,626000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9316000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,64614000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22376000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,42238000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,42238000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,42238000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36467000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.1
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40730000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.07
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36500000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.1
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.16
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,738388000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,738388000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,699461000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,699461000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,38927000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18976000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15847000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,34823000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4104000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9158000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,220000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-931000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9869000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5765000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2447000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3318000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3318000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3318000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37803000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.09
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37803000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.09
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36900000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.09
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 16:18:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,744490000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,744490000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,683697000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,683697000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,60793000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20226000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16165000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,36391000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24402000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10564000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,210000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1034000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11388000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13014000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5222000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7792000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7792000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7792000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38027000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40075000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,39000000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:09:30+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,742797000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,742797000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,687063000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,687063000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,55734000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19280000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16621000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,35901000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19833000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10196000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,319000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-519000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10396000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9437000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-604000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10041000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10041000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3862000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6179000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38066000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,38556000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,38600000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q3,2015-07-01,2015-09-30,2016-11-03 16:55:45+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,739914000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,739914000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,688747000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,688747000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,51167000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21112000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,17317000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,38429000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12738000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10448000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,462000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2027000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7959000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4779000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4066000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,713000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,713000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4302000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3589000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37947000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.08
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,39028000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.08
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37200000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.08
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2015.0,Q4,2015-10-01,2015-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.28
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,749204000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,749204000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,733332000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,733332000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,15872000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20373000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,18145000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,38518000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-22646000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10798000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,410000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1675000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12063000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-34709000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-14893000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19816000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-19816000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4322000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-24138000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38197000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.63
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,38197000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.63
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,38300000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.63
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 09:35:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,887727000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,887727000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,818028000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,818028000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,69699000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23589000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,18701000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,42290000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27409000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10499000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,368000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1178000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8953000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18456000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5471000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12985000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12985000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4794000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8191000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38425000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,38536000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,39000000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 09:44:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,841852000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,841852000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,767447000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,767447000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74405000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24264000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,19286000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,43550000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,30855000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11819000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,484000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1553000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12888000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17967000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5083000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12884000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12884000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4956000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7928000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38282000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,39136000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37800000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:41:39+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,932098000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,932098000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,811483000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,811483000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,120615000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,36451000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,28094000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,64545000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,56070000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,18735000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,279000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-977000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-19433000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,36637000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12199000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,24438000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,24438000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5756000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18682000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38318000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,38573000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.5
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,38100000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2016.0,Q4,2016-10-01,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,887684000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,887684000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,820427000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,820427000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,67257000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23782000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,26083000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49865000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17392000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,18496000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,364000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,10000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-18122000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-730000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2381000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1651000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1651000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5248000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3597000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38420000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.09
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,38420000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.09
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40000000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.09
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q1,2017-01-01,2017-03-31,2018-05-07 16:40:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,886263000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,886263000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,838286000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,838286000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,47977000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25575000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,26188000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51763000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3786000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,19430000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,314000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1357000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17759000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-21545000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-9749000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-11796000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-11796000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4570000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-16366000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40220000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.41
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40220000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.41
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,39900000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.41
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:14:15+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,901235000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,901235000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,824096000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,824096000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77139000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28589000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,27834000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,56423000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20716000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31889000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,383000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1444000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30062000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9346000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-48775000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,39429000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,39429000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5035000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,34394000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,41348000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.83
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,50647000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.74
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,41400000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.83
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 18:25:35+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,614293000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,614293000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,538373000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,538373000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,75920000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63017000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,23477000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86494000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-10574000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,13885000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,526000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,400000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12959000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-23533000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-71156000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-274000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,47349000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,4998000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,52347000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5717000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46630000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,39247000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.23
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,50240000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.23
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,39100000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.23
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.36
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1045287000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1045287000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,996735000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,996735000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,48552000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26003000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,26474000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,52477000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3925000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,22128000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,637000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-66000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21557000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25482000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6027000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19455000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-19455000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4662000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-24117000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40164000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.6
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40164000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.6
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40200000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.6
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 15:32:37+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,789048000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,789048000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,733080000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,733080000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,55968000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,30486000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,29266000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,59752000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3784000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,19703000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,745000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,133000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-18825000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-22609000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-14973000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-250000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-7886000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,467000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7419000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5050000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-12469000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40229000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.31
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40229000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.31
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40200000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 15:06:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.31
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,438641000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,438641000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,434391000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,434391000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,4250000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25264000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,17624000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,42888000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-38638000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9731000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1186000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,912000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7633000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-46271000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-12943000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-74000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-33402000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-4469000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-37871000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4928000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-42799000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40315000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40315000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40400000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 14:30:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,895853000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,895853000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,888257000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,888257000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,7596000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27882000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,19094000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,46976000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-39380000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,15969000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,923000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-406000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15452000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-54832000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-14700000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-40132000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-40179000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5163000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-45342000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,40081000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.13
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,40081000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.13
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40100000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.13
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 16:36:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.12
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,632350000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,632350000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,632129000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,632129000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,221000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24758000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,17828000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,42586000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-42365000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10548000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,767000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,88000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9693000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-52058000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-12530000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,644000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-38884000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3393000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-35491000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3479000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-38970000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36913000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36913000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36800000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 15:06:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.06
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,450394000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,450394000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,430170000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,430170000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20224000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24830000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,17581000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,42411000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-22187000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3952000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1457000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,4901000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2406000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-19781000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18857000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,2227000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-36411000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1905000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-34459000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5290000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-39749000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38111000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.13
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,38111000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.13
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,38100000.0
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.13
+Green Plains Inc,GPRE,VJ5WLTHARBSDR14KIZ98,0001309402,2019.0,Q4,2019-10-01,2019-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.12

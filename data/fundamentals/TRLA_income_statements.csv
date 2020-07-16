@@ -1,0 +1,308 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,10533000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,10533000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,5268000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,5268000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,5265000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1660000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,5010000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6670000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1405000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,94000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-90000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1495000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,0.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1495000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1495000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1495000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,6800000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.22
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6800000.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.22
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,6720268.0
+"TRULIA, INC.",TRLA,,0001349454,2011.0,Q3,2011-07-01,2011-09-30,2012-11-13 16:41:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.22
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,12162000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,12162000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,6851000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,6851000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,5311000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2971000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,6075000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9046000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3735000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,252000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-216000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-465000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4200000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4200000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4200000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4200000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,6900000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.61
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6900000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.61
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,6882065.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q1,2012-01-01,2012-03-31,2013-05-13 16:39:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.61
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,16825000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,16825000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,7747000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,7747000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,9078000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,3054000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,9122000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12176000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3098000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,239000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-107000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-342000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3440000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3440000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3440000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3440000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,7000000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.49
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,7000000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.49
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,7017449.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q2,2012-04-01,2012-06-30,2013-08-12 16:47:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.49
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,18544000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,18544000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,7850000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,7850000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,10694000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,3631000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,8441000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12072000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1378000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,268000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,3000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-46000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-311000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1689000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1689000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1689000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1689000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8805722.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.19
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8900000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.19
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,8900000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q3,2012-07-01,2012-09-30,2013-11-14 17:00:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.19
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,20554000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,20554000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,7750000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,7750000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,12804000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,4003000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,10109000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,14112000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1308000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,257000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-10000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,50000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-217000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1525000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,67000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1592000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1592000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1592000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,12600000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,12600000.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,12538769.0
+"TRULIA, INC.",TRLA,,0001349454,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,24002000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,24002000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,8078000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,8078000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,15924000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5172000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,12293000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17465000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1541000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,236000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,26000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-210000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1751000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,231000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1982000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1982000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1982000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28300000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.07
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28300000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.07
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28427025.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q1,2013-01-01,2013-03-31,2014-05-01 18:55:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.07
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,29713000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,29713000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,10972000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,10972000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18741000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5570000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13302000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2005000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20877000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-2136000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,217000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,52000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-165000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2301000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,110000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2411000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2411000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2411000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,34400000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.07
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,34400000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.07
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,32150829.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 17:16:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.07
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,40283000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,40283000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,16127000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,16127000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24156000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9826000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,20189000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4060000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,34075000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9919000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,203000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,33000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-170000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-10089000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-7869000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2220000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2220000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2220000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37000000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.06
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37000000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,34557842.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.06
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,49730000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,49730000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,22557000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,22557000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27173000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12134000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,25586000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,37720000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-10547000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,592000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-111000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,121000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-582000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-11129000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-11146000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-11146000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-11146000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,32900000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.34
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32900000.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.34
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,33129572.0
+"TRULIA, INC.",TRLA,,0001349454,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.34
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,54489000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,54489000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,22722000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,22722000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,31767000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11994000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,33144000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45138000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-13371000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1827000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,145000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1682000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-15053000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,98000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-15151000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-15151000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-15151000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37000000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.41
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37000000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.41
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36726178.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q1,2014-01-01,2014-03-31,2014-05-01 18:55:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.41
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,64086000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,64086000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,25338000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,25338000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,38748000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13559000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,37485000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3643000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,54687000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-15939000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1872000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,146000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1726000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-17665000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,198000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-17863000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-17863000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-17863000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37200000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.48
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37200000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.48
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37068035.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q2,2014-04-01,2014-06-30,2014-08-08 17:16:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.48
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,67144000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,67144000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,26890000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,26890000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,40254000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11606000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,38867000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,11986000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62459000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-22205000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1830000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,109000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1721000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-23926000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,67000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-23993000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-23993000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-23993000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37500000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.64
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37500000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.64
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37540527.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q3,2014-07-01,2014-09-30,2014-11-06 16:44:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.64
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,66218000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,66218000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,27231000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,27231000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,38987000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12805000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,34684000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,7502000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,54991000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-16004000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1857000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-400000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-431000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2688000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-18692000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,64000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-18756000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-18756000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-18756000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37300000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.5
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37300000.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.5
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37335200.0
+"TRULIA, INC.",TRLA,,0001349454,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.5

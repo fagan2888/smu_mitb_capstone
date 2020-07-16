@@ -1,0 +1,615 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,123194000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,123194000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,39413000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,39413000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83781000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22222000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,36383000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9836000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,303000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,68744000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15037000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,841000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2917000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3758000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11279000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3430000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7849000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7849000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7849000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,224861000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,227883000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,261600000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q2,2009-03-30,2009-06-28,2010-08-05 16:04:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,130876000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,130876000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,44432000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,44432000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,86444000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19743000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,35823000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9836000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,175000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,65577000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20867000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,487000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1144000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1631000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19236000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8583000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,27819000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,27819000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,27819000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,227123000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,231863000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,231800000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2009.0,Q3,2009-06-29,2009-09-27,2010-11-04 16:02:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,152826000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,152826000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,49005000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,49005000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,103821000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22385000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,42067000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9836000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,256000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,74544000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,29277000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,121000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-909000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1030000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28247000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1260000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26987000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,26987000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,26987000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,229804000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,233653000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,224900000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q1,2009-12-28,2010-03-28,2011-05-04 21:44:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,160669000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,160669000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,50064000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,50064000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,110605000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25196000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,43646000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6816000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75658000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,34947000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-405000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-430000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,34517000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4411000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,30106000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,30106000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,30106000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,230997000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,234925000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,231600000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q2,2010-03-29,2010-06-27,2011-08-04 17:20:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,162335000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,162335000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,53813000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,53813000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,108522000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,25567000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,50180000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5884000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,66000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81697000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,26825000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-68000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-537000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-469000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,26356000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11201000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15155000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15155000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15155000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,231966000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,234292000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,216500000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q3,2010-06-28,2010-09-26,2011-11-10 16:51:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,159252000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,159252000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,51636000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,51636000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,107616000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,30969000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,51574000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7396000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,81000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,90020000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17596000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1170000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,7778000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,6608000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24204000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20192000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4012000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4012000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4012000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,231427000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.01
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,234787000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.01
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,224300000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2010.0,Q4,2010-09-27,2010-12-26,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,157434000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,157434000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,59161000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,59161000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98273000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32209000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,54499000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,11021000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,97729000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,544000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,924000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1354000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2278000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1734000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5923000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-7657000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7657000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-7657000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,234058000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,234058000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,255200000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q1,2010-12-27,2011-03-27,2012-05-10 17:29:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,171018000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,171018000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,52663000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,52663000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,118355000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29366000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,56421000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,11031000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,96818000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21537000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,571000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-506000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1077000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20460000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3725000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16735000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16735000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16735000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,234993000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,237506000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.07
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,239100000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q2,2011-03-28,2011-06-26,2012-08-09 16:02:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,173299000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,173299000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,52640000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,52640000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,120659000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29981000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,59669000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,11031000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,100681000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19978000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,477000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,33183000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,32706000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52684000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5428000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,47256000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,47256000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,47256000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,232590000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,233647000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,236300000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q3,2011-06-27,2011-10-02,2012-11-08 17:07:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,152553000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,152553000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,46726000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,46726000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105827000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27045000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,56517000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,11099000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,94661000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11166000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,295000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-958000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1253000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9913000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5179000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15092000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15092000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15092000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,233210000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,235184000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,238100000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2011.0,Q4,2011-10-03,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.06
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,132094000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,132094000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,41012000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,41012000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91082000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28971000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,59071000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,11287000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,99329000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-8247000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,179000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1116000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1295000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9542000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,57811000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-67353000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-67353000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-67353000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,232142000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.29
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,232142000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.29
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,164300000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q1,2012-01-01,2012-04-01,2013-05-08 17:15:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.41
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,137762000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,137762000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,41253000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,41253000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96509000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29290000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,56699000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,11626000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,97615000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1106000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,563000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2085000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1522000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,416000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,519000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-103000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-103000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-103000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,222316.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,222316.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,-900000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q2,2012-04-02,2012-07-01,2013-08-07 16:43:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,131723000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,131723000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,38990000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,38990000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,92733000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27786000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,55604000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,11624000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,274637000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,369651000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-276918000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,797000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2324000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3121000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-280039000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5515000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-274524000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-274524000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-274524000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,209512000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.31
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,209512000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.31
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,208000000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q3,2012-07-02,2012-09-30,2013-11-12 06:16:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.32
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,129418000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,129418000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37594000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37594000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91824000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26432000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,49553000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10784000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86769000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5055000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,47000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1199000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1152000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6207000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-15514000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21721000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21721000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21721000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,216593000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,216593000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,216400000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2012.0,Q4,2012-10-01,2012-12-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,125161000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,125161000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37387000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37387000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87774000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28342000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,54624000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10784000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,93750000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5976000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-264000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1349000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1613000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4363000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4164000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-8527000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8527000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8527000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,203307000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,203307000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,213200000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q1,2012-12-30,2013-03-30,2014-05-07 16:07:27+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.04
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,127584000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,127584000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37637000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37637000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,89947000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,30277000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,51681000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10776000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,92734000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-2787000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-330000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,30000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2213000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2573000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-214000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4602000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4816000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4816000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4816000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,240800000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,240800000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,203307000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q2,2013-03-31,2013-06-29,2014-08-06 17:25:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,128411000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,128411000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,36840000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,36840000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91571000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26383000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,50733000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,13138000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,90254000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1317000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-230000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-166000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,64000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1381000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4613000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3232000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3232000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3232000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,205377.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,205377.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,161600000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q3,2013-06-30,2013-09-28,2014-11-05 16:36:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,126872000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,126872000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37349000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37349000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,89523000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,27768000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,54009000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,13547000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95324000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5801000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-83000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-30000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2446000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2499000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3302000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12377000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-15679000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-15679000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-15679000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,203882000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.08
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,203882000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.08
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,201600000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2013.0,Q4,2013-09-29,2013-12-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.08
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,126468000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,126468000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37564000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37564000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88904000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29340000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,50148000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,12329000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91817000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-2913000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-9000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,29000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,481000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,519000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2394000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1847000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4241000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4241000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4241000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,195188.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,195188.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,212100000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q1,2013-12-29,2014-03-29,2015-05-07 16:35:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,126822000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,126822000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,36824000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,36824000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,89998000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28991000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,49388000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9948000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,88327000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1671000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-114000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,46000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-840000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-680000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,991000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4471000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3480000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3480000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3480000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,174000000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,174000000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,196114.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q2,2014-03-30,2014-06-28,2015-08-05 16:37:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,135462000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,135462000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40306000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40306000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,95156000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29265000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,48441000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9948000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,87654000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7502000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-198000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,12000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,848000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1058000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8560000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3087000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5473000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5473000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5473000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,197613.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,200744.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,182400000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q3,2014-06-29,2014-09-27,2015-11-03 17:15:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,136851000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,136851000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40702000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40702000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96149000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,29411000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,50942000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10994000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91347000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4802000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-2000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-87000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2620000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2535000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7337000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5007000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2330000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2330000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2330000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,196885000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.01
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,200145000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.01
+PMC-Sierra Inc ,PMCS,,0000767920,2014.0,Q4,2014-09-28,2014-12-27,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,133071000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,133071000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,39980000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,39980000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93091000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,30051000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,48866000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9317000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,88234000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4857000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-164000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,32000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2333000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2529000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7386000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2731000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4655000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4655000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4655000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,200249.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,205688.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,232800000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q1,2014-12-28,2015-03-28,2015-05-07 16:35:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,124767000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,124767000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,38434000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,38434000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,86333000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,30488000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,55833000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9269000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95590000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9257000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-137000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,25000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-999000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-837000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-10094000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1515000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-8579000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8579000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8579000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,214500000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,214500000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,195732.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q2,2015-03-29,2015-06-27,2015-08-05 16:37:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.04
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,133574000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,133574000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37999000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37999000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,95575000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28050000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,47277000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9172000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84499000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11076000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,62000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,70000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2361000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2369000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13445000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6727000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6718000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6718000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6718000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,194562.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,196865.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,223900000.0
+PMC-Sierra Inc ,PMCS,,0000767920,2015.0,Q3,2015-06-28,2015-09-26,2015-11-03 17:15:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03

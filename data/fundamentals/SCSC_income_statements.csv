@@ -1,0 +1,979 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,488423000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,488423000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,437005000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,437005000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,51418000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,33731000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,33731000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17687000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,366000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,263000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-116000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-219000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17468000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6533000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10935000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10935000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10935000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26567000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26821000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q1,2009-07-01,2009-09-30,2010-11-03 16:41:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,548112000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,548112000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,491816000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,491816000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,56296000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38167000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,38167000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18129000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,364000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,422000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,174000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,232000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18361000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6546000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11815000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11815000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11815000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26575000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26798000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26900000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q2,2009-10-01,2009-12-31,2011-02-04 10:09:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,496102000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,496102000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,441711000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,441711000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,54391000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35414000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,35414000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18977000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,377000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,474000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-156000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-59000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18918000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6904000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12014000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12014000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12014000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26608000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26884000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q3,2010-01-01,2010-03-31,2011-05-06 15:19:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,582342000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,582342000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,525520000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,525520000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,56822000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,35839000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,35839000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20983000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,365000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,228000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,148000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,11000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20994000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6946000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14048000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14048000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14048000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26605000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.53
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26869000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.52
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2010.0,Q4,2010-04-01,2010-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.53
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,634530000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,634530000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,571049000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,571049000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,63481000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,38633000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,38633000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24848000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,366000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-373000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-439000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24409000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8701000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15708000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15708000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15708000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26713000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26992000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.58
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26600000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q1,2010-07-01,2010-09-30,2011-11-04 14:00:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,683644000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,683644000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,613018000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,613018000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70626000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,37088000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,37088000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,33538000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,388000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,306000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,182000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,100000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,33638000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12017000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21621000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21621000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21621000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26786000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27160000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q2,2010-10-01,2010-12-31,2012-02-07 08:53:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,613466000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,613466000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,547637000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,547637000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,65829000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40349000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,40349000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25480000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,429000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,313000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-300000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-416000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25064000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8530000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16534000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16534000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16534000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26938000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.61
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27413000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.6
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27100000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q3,2011-01-01,2011-03-31,2012-05-09 12:56:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.61
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,734891000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,734891000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,660520000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,660520000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74371000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,45256000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-128000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45128000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,29243000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,540000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,293000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-221000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-468000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28775000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9115000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19660000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19660000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19660000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26872000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.73
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27246000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.72
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26800000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2011.0,Q4,2011-04-01,2011-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.73
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,770259000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,770259000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,691169000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,691169000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79090000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,46569000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,894000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47463000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31627000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,486000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,450000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3530000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3566000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28061000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9681000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18380000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18380000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18380000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27138000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.68
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27551000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27000000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q1,2011-07-01,2011-09-30,2012-11-02 16:22:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.68
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,782684000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,782684000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,702845000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,702845000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,79839000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,48474000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-722000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47752000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,32087000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,749000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1002000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,374000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,627000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,32714000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11347000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21367000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21367000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21367000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27244000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27674000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.77
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27400000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q2,2011-10-01,2011-12-31,2013-02-01 16:21:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,707883000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,707883000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,638615000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,638615000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,69268000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,46711000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1072000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47783000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21485000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,254000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,780000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-206000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,320000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21805000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7049000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14756000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14756000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14756000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27489000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.54
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27926000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.53
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27300000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q3,2012-01-01,2012-03-31,2013-05-02 08:28:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.54
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,754470000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,754470000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,680643000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,680643000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73827000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,46634000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-1244000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,120000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45510000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,28317000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,150000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,654000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-190000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,314000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28631000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8846000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19785000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19785000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19785000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27362000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.72
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27751000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.71
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2012.0,Q4,2012-04-01,2012-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-2.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,733605000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,733605000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,659565000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,659565000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74040000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47061000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,764000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47825000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,26215000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,124000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,633000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,15000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,524000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,26739000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9097000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,17642000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,17642000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,17642000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27618000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.64
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27901000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27600000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q1,2012-07-01,2012-09-30,2013-11-01 13:55:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.64
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,747716000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,747716000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,673365000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,673365000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,74351000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49393000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,533000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49926000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24425000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,130000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,532000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-53000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,349000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24774000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8417000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16357000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16357000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16357000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27713000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27958000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27700000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q2,2012-10-01,2012-12-31,2014-02-06 14:00:59+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,682965000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,682965000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,614133000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,614133000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68832000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47937000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,100000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48037000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20795000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,102000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,483000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,4000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,385000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21180000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7202000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13978000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13978000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13978000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27847000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28024000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.5
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28000000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q3,2013-01-01,2013-03-31,2014-05-07 11:12:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,712678000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,712678000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,637027000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,637027000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,75651000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,46825000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,48772000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,446000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,96043000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20392000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,419000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,590000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,554000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,725000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-19667000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6352000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13315000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13315000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-13315000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27774000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.48
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27994000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.48
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27700000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2013.0,Q4,2013-04-01,2013-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.48
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,731904000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,731904000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,655405000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,655405000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,76499000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47540000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,738000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48278000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,28221000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,247000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,574000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-109000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,218000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28439000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9002000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19437000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19437000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19437000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28034000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.69
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28257000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.69
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28200000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q1,2013-07-01,2013-09-30,2014-11-04 10:04:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.69
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,740618000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,740618000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,663362000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,663362000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77256000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49296000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,499000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49795000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27461000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,235000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,525000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,58000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,348000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27809000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9511000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18298000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18298000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18298000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28293000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.65
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28597000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.64
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28200000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q2,2013-10-01,2013-12-31,2015-02-03 16:00:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.65
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,682998000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,682998000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,609647000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,609647000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73351000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,46705000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,981000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47686000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25665000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,217000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,545000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-13000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,315000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25980000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9031000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16949000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16949000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16949000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28502000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28730000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q3,2014-01-01,2014-03-31,2015-05-05 16:39:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,758114000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,758114000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,684121000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,684121000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73993000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,48951000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-15490000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,93000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,33554000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,40439000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,32000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,720000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-248000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,440000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,40879000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13774000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,27105000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,27105000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,27105000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28337000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.96
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28602000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.94
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28300000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2014.0,Q4,2014-04-01,2014-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.55
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,791720000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,791720000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,714075000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,714075000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77645000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,48155000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,513000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48668000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,28977000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,190000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,835000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-386000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,259000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,29236000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10028000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19208000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19208000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19208000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28544000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.67
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28794000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q1,2014-07-01,2014-09-30,2015-11-04 10:40:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.67
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,807019000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,807019000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,728908000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,728908000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,78111000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,51658000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,463000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,52121000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25990000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,207000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,492000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-337000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-52000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25938000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9117000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16821000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16821000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16821000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28579000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28831000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.58
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28500000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q2,2014-10-01,2014-12-31,2016-02-09 16:22:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.59
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,763203000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,763203000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,683187000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,683187000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,80016000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58235000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,285000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,58520000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21496000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,891000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,731000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1515000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1675000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19821000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6878000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12943000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12943000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12943000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28646000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28855000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28800000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q3,2015-01-01,2015-03-31,2016-05-10 16:26:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,856684000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,856684000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,765366000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,765366000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91318000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,52937000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5356000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,6600000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1406000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66299000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24978000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,509000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,580000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-138000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-67000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24911000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8464000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16447000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16447000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16447000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28558000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.58
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28799000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.57
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2015.0,Q4,2015-04-01,2015-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.04
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,870829000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,870829000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,783277000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,783277000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87552000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61547000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1564000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63111000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24441000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,281000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,942000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-680000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-19000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24422000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8426000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15996000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15996000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15996000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27702000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.58
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27929000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.57
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27600000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q1,2015-07-01,2015-09-30,2016-11-07 16:42:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.58
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,993522000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,993522000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,892889000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,892889000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100633000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,66965000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1816000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,68781000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31852000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,709000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,767000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-278000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-220000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,31632000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10976000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20656000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20656000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20656000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26648000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26902000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.77
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q2,2015-10-01,2015-12-31,2017-02-07 16:10:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,798404000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,798404000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,713928000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,713928000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,84476000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61690000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1139000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,62829000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21647000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,694000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,800000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-400000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-294000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21353000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7311000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14042000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14042000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14042000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25863000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.54
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25967000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.54
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26000000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q3,2016-01-01,2016-03-31,2017-05-09 16:15:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.54
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,877471000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,877471000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,794692000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,794692000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,82779000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49913000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7326000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9800000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-3225000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63814000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18937000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,440000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,939000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-833000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-334000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18603000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5678000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12925000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12925000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12925000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26472000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26687000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.5
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2016.0,Q4,2016-04-01,2016-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,932566000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,932566000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,841032000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,841032000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91534000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63266000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2070000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3154000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,169000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,68659000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22875000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,589000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1015000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-577000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-151000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22724000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7908000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14816000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14816000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14816000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25523000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.58
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25762000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.58
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25500000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q1,2016-07-01,2016-09-30,2017-11-07 16:43:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.58
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,904792000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,904792000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,806258000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,806258000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98534000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,66880000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2423000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,4165000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1791000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75259000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23275000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,912000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,892000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,12526000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,12506000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,35781000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12745000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23036000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23036000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23036000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25146000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.92
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25285000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.91
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25000000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q2,2016-10-01,2016-12-31,2018-02-06 16:11:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.92
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,813538000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,813538000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,720867000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,720867000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,92671000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63853000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2663000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,4217000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1960000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72693000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19978000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,780000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1040000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-667000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-407000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19571000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7147000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12424000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12424000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12424000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25262000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25400000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25400000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q3,2017-01-01,2017-03-31,2018-05-08 16:13:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,917290000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,917290000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,816433000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,816433000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100857000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,71179000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2244000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3964000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1291000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,78678000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22111000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,934000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2382000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-140000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1308000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23419000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4449000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18970000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18970000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18970000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25318000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.75
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25515000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.73
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25300000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2017.0,Q4,2017-04-01,2017-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.75
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,924559000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,924559000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,818642000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,818642000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105917000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,73187000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3240000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5011000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,16881000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,98319000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7598000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1585000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,881000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-114000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-818000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6780000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2633000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4147000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4147000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4147000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25434000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25579000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25900000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q1,2017-07-01,2017-09-30,2018-11-06 16:18:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1032212000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1032212000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,919241000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,919241000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,112971000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,74763000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3467000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5487000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,6913000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,90630000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22341000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2285000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,580000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-326000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2031000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20310000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12341000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7969000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7969000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7969000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25506000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25648000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25700000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q2,2017-10-01,2017-12-31,2019-02-05 16:11:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,895637000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,895637000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,791749000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,791749000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,103888000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,72691000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3352000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5103000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,4801000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,85947000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17941000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2784000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,887000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-252000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2149000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15792000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5143000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10649000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10649000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10649000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25572000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25606000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25400000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q3,2018-01-01,2018-03-31,2019-05-09 16:12:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,993852000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,993852000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,880503000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,880503000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,113349000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,76834000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3241000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5099000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,8448000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,93622000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19759000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2495000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1365000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-586000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1716000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18043000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7655000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10388000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10388000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10388000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25522000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25624000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25500000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2018.0,Q4,2018-04-01,2018-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,972900000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,972900000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,860685000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,860685000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,112215000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,77931000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3265000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5000000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,4584000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,90780000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21432000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2627000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,451000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-32000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2208000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19224000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4902000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14322000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14322000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14322000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25599000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.56
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25755000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.56
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25600000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q1,2018-07-01,2018-09-30,2019-11-12 16:11:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.56
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1046021000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1046021000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,925543000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,925543000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,120478000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,80950000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3272000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,4700000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1850000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,90772000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,29706000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3119000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,264000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-201000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3056000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,26650000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6668000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,19982000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,19982000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,19982000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25640000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25750000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25600000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q2,2018-10-01,2018-12-31,2020-02-04 16:12:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,893357000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,893357000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,783342000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,783342000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,110015000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,77688000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3417000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5005000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,5101000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,91211000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18804000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3670000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,682000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-21000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3009000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15795000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4080000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11715000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11715000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11715000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25704000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25762000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25500000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q3,2019-01-01,2019-03-31,2020-05-11 16:28:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,960833000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,960833000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,850969000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,850969000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,109864000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,77952000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3246000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,4995000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,3665000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89858000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20022000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3966000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,446000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-263000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3783000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16239000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4661000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11578000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11578000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11578000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25642000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25734000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25600000.0
+ScanSource Inc,SCSC,7FHBAN017QDY4K2KP156,0000918965,2019.0,Q4,2019-04-01,2019-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.45
