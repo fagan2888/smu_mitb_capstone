@@ -1,0 +1,853 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,327700000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,327700000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,107000000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,107000000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,220700000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,173400000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,173400000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,47300000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24600000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1900000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26500000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20800000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4800000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,16000000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,400000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,16400000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,16400000.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,51894593.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52314596.0
+Revlon Inc,REV,,0000887921,2010.0,Q2,2010-04-01,2010-06-30,2011-07-28 08:39:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,319000000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,319000000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,110400000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,110400000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,208600000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,169300000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,169300000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,39300000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24700000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2600000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27300000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12000000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-600000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12600000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-100000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12500000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12500000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,51901810.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52311906.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52100000.0
+Revlon Inc,REV,,0000887921,2010.0,Q3,2010-07-01,2010-09-30,2011-10-28 15:11:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,333200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,333200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,113300000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,113300000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,219900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,175200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,175200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,44700000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26600000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18100000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7700000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52153722.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52282309.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52000000.0
+Revlon Inc,REV,,0000887921,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:31:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,351200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,351200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,121900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,121900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,229300000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,181500000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,181500000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,47800000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,34600000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4700000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39300000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8500000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2600000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,600000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6500000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6500000.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52175628.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52330097.0
+Revlon Inc,REV,,0000887921,2011.0,Q2,2011-04-01,2011-06-30,2011-07-28 08:39:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,337200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,337200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,123100000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,123100000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,214100000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,169300000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,169300000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,44800000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,22000000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-600000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22600000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,22100000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,100000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,100000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,100000.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52182848.0
+Revlon Inc,REV,,0000887921,2011.0,Q3,2011-07-01,2011-09-30,2011-10-28 15:11:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52345857.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,325900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,325900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,122900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,122900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,203000000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,134200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,134200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,68800000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21700000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3900000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25600000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,43200000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,38800000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,36400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,36400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52173906.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.7
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52331807.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.7
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52400000.0
+Revlon Inc,REV,,0000887921,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.82
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,330700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,330700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,115700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,115700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,215000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,170700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,170700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,44300000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21600000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3200000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24800000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52331343.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52356844.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:31:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,357100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,357100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,124400000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,124400000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,232700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,189900000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,189900000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42800000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21200000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1800000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19800000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,400000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52349583.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52357163.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52900000.0
+Revlon Inc,REV,,0000887921,2012.0,Q2,2012-04-01,2012-06-30,2012-07-31 08:46:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,347000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,347000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,127000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,127000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,220000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,179900000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,21000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,200900000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22600000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-15000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-15000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-15000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52356641.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.29
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52356641.0
+Revlon Inc,REV,,0000887921,2012.0,Q3,2012-07-01,2012-09-30,2012-10-25 08:33:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.29
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,361600000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,361600000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,126700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,126700000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,234900000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,142100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,141600000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,93300000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21300000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2900000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24200000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,69100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,57000000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-10500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,46500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46500000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52348636.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.9
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52356882.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.9
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52100000.0
+Revlon Inc,REV,,0000887921,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.61
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,331900000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,331900000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,116900000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,116900000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,215000000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,167500000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,200000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,167700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,47300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,48300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-53000000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1200000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6900000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6900000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6900000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.13
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.13
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q1,2013-01-01,2013-03-31,2013-04-25 08:22:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.13
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,350100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,350100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,124800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,124800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,225300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,163100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,166200000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,59100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,17400000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,41400000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17000000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,24400000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,24700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,24700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52600000.0
+Revlon Inc,REV,,0000887921,2013.0,Q2,2013-04-01,2013-06-30,2013-07-31 08:24:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,339400000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,339400000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,123800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,123800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,215600000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,175300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-1500000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,173800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,41800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,18100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2200000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21500000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12000000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9500000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,0.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9500000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9500000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q3,2013-07-01,2013-09-30,2013-10-24 08:32:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,473300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,473300000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,179600000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,179600000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,293700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,225800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,27100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,252900000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,40800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27400000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13400000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15800000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2400000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-30700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-33100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-33100000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.63
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52357729.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.63
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52700000.0
+Revlon Inc,REV,,0000887921,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.63
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,469800000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,469800000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,163500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,163500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,306300000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,246200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,17300000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,263500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42800000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2900000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27100000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7000000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-3200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52367944.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,50000000.0
+Revlon Inc,REV,,0000887921,2014.0,Q1,2014-01-01,2014-03-31,2014-04-30 08:33:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,497900000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,497900000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,167200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,167200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,330700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,263600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,268100000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,62600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21100000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-8600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-29700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,32900000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14400000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18100000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18100000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52386381.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q2,2014-04-01,2014-06-30,2015-07-29 08:45:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,472300000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,472300000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,164600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,164600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,307700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,251800000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,253500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31300000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22900000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,400000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52356798.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52414963.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52100000.0
+Revlon Inc,REV,,0000887921,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 08:21:27+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,501000000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,501000000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,173000000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,173000000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,328000000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,247900000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4200000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,252100000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,75900000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-9500000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30000000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,45900000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,43600000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2300000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,400000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2700000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52359897.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.05
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52423939.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.05
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52400000.0
+Revlon Inc,REV,,0000887921,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.05
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,438500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,438500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,142300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,142300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,296200000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,249300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1700000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,251000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,45200000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-17300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7900000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8700000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-800000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-100000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-900000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-900000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52386223.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52386223.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 08:21:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,482400000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,482400000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,161300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,161300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,321100000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,259300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1100000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,260400000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,60700000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,6300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14200000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,46500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,20500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,0.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,26000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,26000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52440580.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52609805.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q2,2015-04-01,2015-06-30,2016-07-29 08:03:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,471500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,471500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,167800000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,167800000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,303700000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,244100000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4600000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,248700000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,55000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1000000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-22500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,32500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24600000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7900000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1700000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6200000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6200000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52440580.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52603711.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,51700000.0
+Revlon Inc,REV,,0000887921,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 08:16:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,521900000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,521900000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,196400000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,196400000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,325500000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,249800000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,9700000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,11100000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,270600000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54900000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21300000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-9800000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31100000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23800000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2400000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26200000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1400000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,24800000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,24800000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52431193.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52591545.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.48
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52400000.0
+Revlon Inc,REV,,0000887921,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,439600000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,439600000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,153900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,153900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,285700000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,248100000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1800000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,249900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,35800000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,21000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1600000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-19400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5800000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10600000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52482413.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52649763.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 08:40:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,488900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,488900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,171500000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,171500000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,317400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,259000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,6000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,265000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,52400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10100000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10600000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10800000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2500000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8300000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8300000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52515869.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52592368.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,51900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 08:33:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,604800000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,604800000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,243400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,243400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,361400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,285700000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,34000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,319700000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,41700000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,44300000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2300000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-46600000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4500000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-200000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4700000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4700000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52498246.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.09
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52498246.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.09
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52200000.0
+Revlon Inc,REV,,0000887921,2016.0,Q3,2016-07-01,2016-09-30,2017-11-03 08:45:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.09
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,800700000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,800700000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,348300000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,348300000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,452400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,368200000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,23400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,35400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,427000000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,35900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-13900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-49800000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-24400000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9500000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-33900000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2600000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-36500000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-36500000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52504196.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.7
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52504196.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.7
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52100000.0
+Revlon Inc,REV,,0000887921,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.7
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,594900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,594900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,265500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,265500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,329400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,353800000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,18700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,372500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-43100000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,35000000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-33500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-76600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-38900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-37700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,300000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-37400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-37400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52529826.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.71
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52529826.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.71
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 08:30:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.71
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,645700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,645700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,268400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,268400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,377300000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,358400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,13700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,372100000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5200000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,6300000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25200000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-37100000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-36500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-36500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,53096935.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.7
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,53096935.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.7
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52100000.0
+Revlon Inc,REV,,0000887921,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 08:11:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.7
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,666500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,666500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,290500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,290500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,376000000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,362300000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,19100000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,381400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,38600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38200000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-43600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-10800000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-32800000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-32400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-32400000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52615412.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.61
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52615412.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.61
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53100000.0
+Revlon Inc,REV,,0000887921,2017.0,Q3,2017-07-01,2017-09-30,2018-11-09 08:23:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.61
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,786600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,786600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,327900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,327900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,458700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,393600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,10800000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,34800000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,439200000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39500000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-18100000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,59600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-77700000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,800000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-76900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-76900000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52597582.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.46
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52597582.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.46
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52600000.0
+Revlon Inc,REV,,0000887921,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.46
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,560700000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,560700000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,242600000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,242600000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,318100000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,371700000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,8100000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,379800000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-61700000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,39900000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,8300000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31600000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-93300000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1600000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-91700000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1400000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-90300000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-90300000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52673672.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.71
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52673672.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.71
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52800000.0
+Revlon Inc,REV,,0000887921,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 08:23:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.71
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,655400000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,655400000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,305000000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,305000000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,350400000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,340800000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,7300000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,348100000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2300000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46400000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5300000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-51700000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-49400000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-38700000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-10700000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-400000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-11100000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-11100000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52834879.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.21
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52834879.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.21
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52900000.0
+Revlon Inc,REV,,0000887921,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:04:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.21
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,553200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,553200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,237800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,237800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,315400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,332600000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,6100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,338700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-23300000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,47700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-52400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-75700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-75800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-75100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-75100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,52913388.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.42
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,52913388.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.42
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52900000.0
+Revlon Inc,REV,,0000887921,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:23:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.42
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,570200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,570200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,243900000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,243900000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,326300000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,332500000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,335700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,47800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-9300000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-57100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-66500000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-65300000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1600000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-63700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-63700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,53126700.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.2
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,53126700.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.2
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 08:11:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.2
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,596800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,596800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,269000000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,269000000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,327800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,308100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3000000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,311100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,50200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-13000000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-63200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-46500000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-44400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-300000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-44700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-44700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,53129004.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.84
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,53129004.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.84
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53200000.0
+Revlon Inc,REV,,0000887921,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:04:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.84
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,699400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,699400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,301500000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,301500000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,397900000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,343400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,347800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,50100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,50900000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,26600000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23700000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3400000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20300000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5500000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,25800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,25800000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,53081321.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,53081321.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,53100000.0
+Revlon Inc,REV,,0000887921,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49

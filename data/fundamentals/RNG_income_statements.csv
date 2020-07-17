@@ -1,0 +1,684 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,29588000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,29588000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,11232000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,11232000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18356000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7069000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,13781000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6544000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,27394000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9038000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,553000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,48000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-505000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9543000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,25000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-9568000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-9568000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-9568000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22300000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.43
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22300000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.43
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22372000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2012.0,Q3,2012-07-01,2012-09-30,2013-11-12 19:19:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.43
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,35525000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,35525000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,13737000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,13737000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21788000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6550000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,17142000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7504000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,31196000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9408000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,639000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-203000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-842000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-10250000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-10262000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-10262000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-10262000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.45
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.45
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22631000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q1,2013-01-01,2013-03-31,2014-05-02 16:57:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.45
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,37704000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,37704000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,14662000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,14662000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,23042000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11231000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,16324000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8606000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,36161000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-13119000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,588000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-44000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-632000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-13751000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-132000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13619000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13619000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-13619000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,22700000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.6
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,22700000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.6
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,22766000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q2,2013-04-01,2013-06-30,2014-08-01 18:41:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.6
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,41934000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,41934000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,15968000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,15968000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25966000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7078000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,18889000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8150000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,34117000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-8151000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,995000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,348000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-647000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-8798000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,54000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-8852000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8852000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8852000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,24600000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.36
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,24600000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.36
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24452000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q3,2013-07-01,2013-09-30,2014-11-03 17:04:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.36
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,45342000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,45342000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,17152000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,17152000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,28190000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9425000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,19981000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,9139000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,38545000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-10355000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3162000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,173000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2989000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-13344000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,21000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13365000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13365000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-13365000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,33200000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.02
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,33200000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,33155000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,48262000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,48262000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,17903000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,17903000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,30359000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8967000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,23957000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,9673000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,42597000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-12238000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,601000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-37000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-638000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-12876000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,28000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-12904000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-12904000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-12904000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,64500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.2
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,64500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.2
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,63800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q1,2014-01-01,2014-03-31,2015-05-04 16:52:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.2
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,52787000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,52787000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,19543000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,19543000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,33244000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9492000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,25688000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,10874000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,46054000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-12810000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,476000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,93000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-383000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-13193000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,137000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13330000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13330000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-13330000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,66700000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.2
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,66700000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.2
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,67295000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:51:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.2
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,56944000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,56944000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,19405000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,19405000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,37539000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9725000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,26697000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,11931000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48353000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-10814000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,505000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-648000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1153000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-11967000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,19000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-11986000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-11986000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-11986000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,66600000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.18
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,66600000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.18
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,67800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 20:16:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.18
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,42105000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,19789000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,61894000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,19922000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,19922000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,41972000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10726000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,28485000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,12104000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51315000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9343000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,425000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-439000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-864000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-10207000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-87000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-10120000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-10120000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-10120000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,67100000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.14
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,67100000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.14
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,66818000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.14
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,59951000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,5367000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,65318000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,20547000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,20547000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,44771000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10531000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,31969000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,11840000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,54340000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9569000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,403000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-556000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-959000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-10528000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,83000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-10611000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-10611000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-10611000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70700000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.15
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,70700000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.15
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,68764000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 17:12:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.15
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,64441000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,6250000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,70691000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21529000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21529000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,49162000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11778000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,34626000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,12297000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,58701000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9539000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,279000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,238000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9580000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1369000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-8211000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8211000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8211000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,68400000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.12
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,68400000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.12
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,69487000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 16:39:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.12
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,70321000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,6459000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,76780000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,22333000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,22333000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,54447000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11922000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,34878000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,13475000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,60275000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5828000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,245000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-319000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-564000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6392000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-56000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6336000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6336000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6336000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70400000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,70400000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,70580000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q3,2015-07-01,2015-09-30,2016-11-07 08:38:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,76532000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,6907000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,83439000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,22862000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,22862000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,60577000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12883000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,38378000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,15312000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66573000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5996000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,196000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-670000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-866000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6862000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,79000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6941000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6941000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6941000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,69800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.1
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,69800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.1
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,70069000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.1
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,79978000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,6560000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,86538000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21740000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21740000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,64798000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14024000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,41828000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,14926000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,70778000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5980000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,216000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-367000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-583000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6563000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,50000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6613000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6613000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6613000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,73500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,73500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,72114000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q1,2016-01-01,2016-03-31,2017-05-05 16:47:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,86067000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,5777000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,91844000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,22364000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,22364000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,69480000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13441000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,45662000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,16681000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75784000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-6304000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,193000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1217000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1410000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-7714000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,57000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-7771000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7771000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-7771000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70600000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,70600000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,72649000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:53:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,91853000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,4986000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,96839000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,23455000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,23455000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73384000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13649000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,50306000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,16490000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80445000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7061000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,176000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-696000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-872000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-7933000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,46000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-7979000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-7979000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-7979000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,72500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,72500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,73285000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q3,2016-07-01,2016-09-30,2017-11-08 20:33:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,122538000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,-17323000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,105215000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-67559000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-67559000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,172774000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14340000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,42329000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,17417000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,92211000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,166297000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6477000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,161000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-95000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-256000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6221000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,83000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6138000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6138000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6138000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,73800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,73800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,72994000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,104130000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,8104000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,112234000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,27306000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,27306000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,84928000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15805000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,54265000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,17087000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,87157000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-2229000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,79000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,122000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,43000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2186000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,51000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2237000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2237000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2237000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,74600000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,74600000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,74682000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 18:23:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,119919000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,119919000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,119919000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18007000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,56361000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,18617000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,29561000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,122546000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-2627000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,578000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,569000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2058000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,57000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2115000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2115000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2115000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,70500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,75867000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q2,2017-04-01,2017-06-30,2018-08-07 17:24:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,130279000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,130279000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,130279000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19073000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,61605000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,19082000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,30784000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130544000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-265000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,613000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,607000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,342000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,73000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,269000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,269000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,269000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,76915000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83109000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 16:37:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,149289000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,otherrevenue,Other Revenue,+,credit,usd,-8104000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,141185000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,93965000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,93965000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,47220000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19428000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,67992000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20362000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-60345000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47437000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-217000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,178000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,173000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-44000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,77000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-121000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-121000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-121000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,70100000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.07
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,70100000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.07
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,76281000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.07
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,150343000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,150343000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35674000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35674000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,114669000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21449000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,71920000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,22651000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,116020000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1351000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1411000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,73000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1338000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2689000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2716000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2716000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2716000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,90500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,90500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,78341000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 21:38:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,160832000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,160832000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,38066000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,38066000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,122766000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23583000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,79023000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,24814000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,127420000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-4654000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4836000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1338000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3498000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-8152000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,100000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-8252000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8291000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8291000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,82900000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.1
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,82900000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.1
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,79089000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q2,2018-04-01,2018-06-30,2019-08-08 16:30:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.1
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,173825000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,173825000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,39274000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,39274000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,134551000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28952000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,86279000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,26347000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,141578000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7027000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4916000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2533000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2383000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9410000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,108000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-9518000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-9518000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-9518000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,79300000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.12
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,79300000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.12
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,79903000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2018.0,Q3,2018-07-01,2018-09-30,2019-11-12 06:14:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.12
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,201489000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,201489000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,50835000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,50835000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,150654000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28779000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,99551000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,29787000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,158117000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7463000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5032000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3051000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1981000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9444000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3086000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6358000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6358000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6358000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,79500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.08
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,79500000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.08
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,81400000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 09:04:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.08
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,215152000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,215152000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,53630000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,53630000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,161522000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,32480000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,103590000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,32632000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,168702000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7180000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5088000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3141000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1947000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9127000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,100000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-9227000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-9243000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-9243000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,84000000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,84000000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,82339000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q2,2019-04-01,2019-06-30,2019-08-08 16:30:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,233352000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,233352000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,59705000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,59705000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,173647000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,39142000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,109882000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,35286000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,184310000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-10663000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5160000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2926000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2234000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-12897000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-148000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-12749000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-12749000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-12749000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,85000000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.15
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,85000000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.15
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83283000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q3,2019-07-01,2019-09-30,2019-11-12 06:14:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.15
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,252865000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,252865000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,66873000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,66873000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,185992000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,41626000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,126077000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,38658000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,206361000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20369000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5232000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,129000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5103000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25472000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-199000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-25273000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-25257000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-25257000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,83800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.3
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,83800000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.3
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,83130000.0
+RingCentral Inc,RNG,549300C8EH0H1614VE84,0001384905,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.3

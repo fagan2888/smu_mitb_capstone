@@ -1,0 +1,824 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,477546000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,477546000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,421564000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,421564000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,55982000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47501000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47501000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8481000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,95000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,35000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-60000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8421000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3398000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5023000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5023000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5023000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27116000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27156000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26400000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q2,2010-04-01,2010-06-30,2011-08-11 15:21:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,532827000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,532827000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,470856000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,470856000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,61971000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,47640000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,47640000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14331000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,111000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,49000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-62000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14269000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5643000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8626000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8626000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8626000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26939000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26977000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27000000.0
+PC Connection Inc,CNXN,,0001050377,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:09:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,461926000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,461926000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,403107000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,403107000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,58819000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,51290000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51290000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7529000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,65000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,24000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7553000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3059000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4494000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4494000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4494000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26901000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26986000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26400000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q1,2011-01-01,2011-03-31,2012-05-07 15:38:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.17
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,512561000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,512561000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,445667000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,445667000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,66894000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,54477000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,54477000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12417000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,87000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,32000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-55000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12362000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4882000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7480000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7480000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7480000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26852000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26923000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 16:02:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,575646000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,575646000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,505210000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,505210000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70436000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,54554000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,54554000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15882000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,93000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,32000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-61000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15821000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6435000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9386000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9386000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9386000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26615000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26692000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26800000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q3,2011-07-01,2011-09-30,2012-11-07 17:17:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,553162000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,553162000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,484427000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,484427000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68735000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,56952000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,56952000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11783000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,148000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,60000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-88000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11695000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4268000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7427000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7427000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7427000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26703000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26800000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+PC Connection Inc,CNXN,,0001050377,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,498763000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,498763000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,432152000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,432152000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,66611000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,56450000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1135000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,57585000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9026000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,46000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,46000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9072000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3597000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5475000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5475000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5475000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26439000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26586000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26100000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 11:12:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,542569000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,542569000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,470998000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,470998000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,71571000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,56903000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,56903000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14668000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,93000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-93000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14575000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5749000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8826000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8826000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8826000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26403000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26519000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q2,2012-04-01,2012-06-30,2013-08-02 12:23:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,561294000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,561294000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,489088000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,489088000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72206000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,55906000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,55906000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16300000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,63000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-63000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16237000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6336000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9901000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9901000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9901000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26470000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26660000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26800000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q3,2012-07-01,2012-09-30,2013-11-04 12:28:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,556247000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,556247000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,484546000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,484546000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,71701000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,57063000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,57063000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14638000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14623000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5754000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8869000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8869000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8869000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26431000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26586000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+PC Connection Inc,CNXN,,0001050377,2012.0,Q4,2012-10-01,2012-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.38
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,505423000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,505423000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,438585000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,438585000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,66838000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,56713000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,56713000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10125000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-50000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-50000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10075000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3977000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6098000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6098000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6098000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25998000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26272000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 16:17:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,557287000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,557287000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,483371000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,483371000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73916000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58533000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,58533000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15383000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-46000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-46000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15337000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6183000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9154000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9154000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9154000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26127000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26379000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26200000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q2,2013-04-01,2013-06-30,2014-08-05 16:16:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,580356000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,580356000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,503803000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,503803000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,76553000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,59043000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,59043000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17510000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-39000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17471000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6882000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10589000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10589000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10589000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26169000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26399000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q3,2013-07-01,2013-09-30,2014-10-31 16:10:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,578572000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,578572000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,502879000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,502879000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,75693000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,59315000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,59315000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16378000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,149000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,135000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16364000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6523000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9841000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9841000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9841000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26120000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26387000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26000000.0
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.62
+PC Connection Inc,CNXN,,0001050377,2013.0,Q4,2013-10-01,2013-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.4
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,559760000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,559760000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,486913000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,486913000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72847000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,61101000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,61101000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11746000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11736000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4605000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7131000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7131000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7131000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26202000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26485000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26400000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q1,2014-01-01,2014-03-31,2015-05-08 15:53:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,633244000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,633244000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,549478000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,549478000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83766000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,64564000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,64564000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19202000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-26000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19176000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7747000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11429000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11429000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11429000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26206000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26487000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.43
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26000000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q2,2014-04-01,2014-06-30,2015-08-07 11:46:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,639570000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,639570000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,555918000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,555918000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83652000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63235000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63235000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20417000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-36000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-36000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20381000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8204000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12177000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12177000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12177000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26266000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26524000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.46
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q3,2014-07-01,2014-09-30,2015-11-06 11:44:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,630765000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,630765000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,547641000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,547641000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,83124000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63035000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63035000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20089000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,86000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,72000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20075000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8131000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11944000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11944000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11944000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26246000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26512000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.45
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26200000.0
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+PC Connection Inc,CNXN,,0001050377,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.4
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,581259000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,581259000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,503646000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,503646000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77613000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63434000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63434000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14179000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14180000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5596000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8584000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8584000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8584000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26346000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26593000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q1,2015-01-01,2015-03-31,2016-05-06 11:54:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,627622000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,627622000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,544635000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,544635000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,82987000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,63364000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,63364000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19623000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-39000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19584000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7955000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11629000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11629000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11629000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26363000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26616000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26400000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q2,2015-04-01,2015-06-30,2016-08-05 09:06:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,680769000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,680769000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,592201000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,592201000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88568000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,66707000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,66707000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21861000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-29000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-29000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21832000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8831000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13001000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13001000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13001000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26423000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26622000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 15:32:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,684323000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,684323000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,592472000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,592472000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91851000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,68960000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,68960000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22891000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,87000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,67000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22871000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9258000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13613000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13613000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13613000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26398000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26616000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+PC Connection Inc,CNXN,,0001050377,2015.0,Q4,2015-10-01,2015-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.4
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,572394000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,572394000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,490201000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,490201000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,82193000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67029000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,67029000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15164000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15150000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6087000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9063000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9063000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9063000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26499000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26671000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q1,2016-01-01,2016-03-31,2017-05-08 16:16:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,676165000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,676165000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,582291000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,582291000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,93874000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,72864000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72864000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21010000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20998000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8540000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12458000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12458000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12458000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26501000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26691000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q2,2016-04-01,2016-06-30,2017-08-04 16:51:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,708485000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,708485000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,611518000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,611518000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96967000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,74522000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,74522000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22445000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,27000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22418000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8825000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13593000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13593000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13593000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26542000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26736000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 14:46:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,735548000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,735548000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,637425000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,637425000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,98123000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,72816000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3406000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,76222000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21901000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-53000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-67000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21887000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8890000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12997000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12997000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12997000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26528000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26719000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.48
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26600000.0
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+PC Connection Inc,CNXN,,0001050377,2016.0,Q4,2016-10-01,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.34
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,670594000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,670594000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,583861000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,583861000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,86733000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,75281000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,75281000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11452000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-19000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,19000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11471000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4039000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7432000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7432000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7432000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26697000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26866000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q1,2017-01-01,2017-03-31,2018-05-09 17:16:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,749792000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,749792000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,650122000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,650122000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,99670000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,77230000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,77230000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22440000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-9000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,9000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22449000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8864000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13585000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13585000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13585000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26761000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26893000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26600000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:08:27+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,729230000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,729230000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,633087000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,633087000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96143000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,74404000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,74404000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21739000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21731000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8614000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13117000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13117000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13117000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26802000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26899000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26800000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q3,2017-07-01,2017-09-30,2018-11-01 16:09:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,762267000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,762267000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,662737000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,662737000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,99530000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,73998000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3636000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,77634000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,21896000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,20000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,98000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,78000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21974000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1251000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20723000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20723000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20723000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26771000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.77
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26891000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.76
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26800000.0
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.77
+PC Connection Inc,CNXN,,0001050377,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.34
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,624895000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,624895000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,528523000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,528523000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96372000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,80900000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,0.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80900000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15472000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-116000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,116000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15588000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4288000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11300000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11300000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11300000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26835000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26916000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.42
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26900000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q1,2018-01-01,2018-03-31,2019-05-02 16:09:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,706570000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,706570000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,599102000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,599102000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,107468000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,82521000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,82521000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24947000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,182000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,182000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,25129000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6903000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,18226000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,18226000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,18226000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26685000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.68
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26820000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.68
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26800000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q2,2018-04-01,2018-06-30,2019-08-01 16:09:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.68
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,658504000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,658504000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,558060000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,558060000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100444000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,81494000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81494000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18950000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,114000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,114000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19064000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5298000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13766000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13766000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13766000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26716000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.52
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26902000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q3,2018-07-01,2018-09-30,2019-10-30 16:09:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.52
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,709520000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,709520000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,602718000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,602718000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,106802000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,79518000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,967000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80485000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,26317000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,116000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-296000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2978000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2566000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,28883000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7583000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21300000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21300000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21300000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26717000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.8
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26854000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.8
+PC Connection Inc,CNXN,,0001050377,2018.0,Q4,2018-10-01,2018-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,632921000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,632921000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,533574000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,533574000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,99347000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,81235000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,703000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81938000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17409000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,198000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,198000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17607000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4880000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12727000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12727000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12727000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26359000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.48
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26525000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.48
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q1,2019-01-01,2019-03-31,2020-04-30 16:13:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.48
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,741076000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,741076000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,624089000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,624089000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,116987000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,84664000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,84664000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,32323000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,184000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,184000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,32507000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8839000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23668000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23668000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23668000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26337000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.9
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26494000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.89
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26300000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q2,2019-04-01,2019-06-30,2019-08-01 16:09:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.9
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,729410000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,729410000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,610547000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,610547000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,118863000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,86226000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86226000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,32637000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,62000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,62000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,32699000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8949000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,23750000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,23750000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,23750000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26323000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.9
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26479000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.9
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26400000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q3,2019-07-01,2019-09-30,2019-10-30 16:09:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.9
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,716627000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,716627000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,600514000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,600514000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,116113000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,86510000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86510000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,29603000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-444000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,707000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,263000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,29866000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7900000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,21966000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,21966000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,21966000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26335000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.84
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26505000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.83
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26300000.0
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+PC Connection Inc,CNXN,,0001050377,2019.0,Q4,2019-10-01,2019-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.32

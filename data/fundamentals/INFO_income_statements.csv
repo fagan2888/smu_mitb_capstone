@@ -1,0 +1,480 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,557900000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,557900000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,209200000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,209200000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,348700000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,200100000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,54800000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,200000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2000000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,600000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,257700000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,91000000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,18200000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17900000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,73100000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,16300000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,56800000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,2300000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,59100000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,59100000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,243100000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,244800000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,246300000.0
+IHS Markit Ltd,INFO,,0001598014,2015.0,Q3,2015-06-01,2015-08-31,2016-10-07 16:34:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,548500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,548500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,210800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,210800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,337700000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,186500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,60500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,258000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,79700000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27900000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,51800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10400000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,41400000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,45200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,45200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,239700000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,242000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,237900000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q1,2015-12-01,2016-02-29,2017-03-28 16:06:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,587900000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,587900000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,212300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,212300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,375600000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,207000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,64300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,19100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,290600000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,85000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,27200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,400000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-26800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,58200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13400000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,44800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,50000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,50000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,240300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,241100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,238100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q2,2016-03-01,2016-05-31,2017-06-27 16:04:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,724600000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,724600000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,269100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,269100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,455500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,267600000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,91700000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,115100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,600000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,472200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-16700000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-36200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-52900000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-23100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-1200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-31000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-32000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-31700000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,340100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.09
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,340100000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.09
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,352200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q3,2016-06-01,2016-08-31,2017-09-26 16:11:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.09
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,873800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,873800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,345500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,345500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,528300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,246000000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,119200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,40300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,8600000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,415900000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,112400000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,27500000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-27200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,85200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-3300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,87700000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,88900000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-400000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,89300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,309200000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,316300000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,311800000.0
+IHS Markit Ltd,INFO,,0001598014,2016.0,Q4,2016-09-01,2016-11-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,844200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,844200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,327000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,327000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,517200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,268000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,120800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,31400000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,400000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,421500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,95700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-31300000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,64400000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-2000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,66000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,66000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,66000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,406200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,422200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,412500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q1,2016-12-01,2017-02-28,2018-03-27 16:41:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,906100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,906100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,337700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,337700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,568400000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,278500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,122800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,29900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,400000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,431600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,136800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,37700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,99700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-1900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,98800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,98800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,99300000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,399700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.25
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,415600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,397200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q2,2017-03-01,2017-05-31,2018-06-26 16:43:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.25
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,904700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,904700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,341600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,341600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,563100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,271900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,120800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,14800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,3100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,410600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,152500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41000000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,111500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-36700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-1100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,147100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,147100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,145900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,397600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,414200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,394300000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q3,2017-06-01,2017-08-31,2018-09-25 16:14:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,944700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,944700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,342100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,342100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,602600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,277600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,128100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,17800000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,36900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-3900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,456500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,146100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,43300000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-49600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,96500000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,105100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,105100000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-600000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,105700000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,400300000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,416200000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,400900000.0
+IHS Markit Ltd,INFO,,0001598014,2017.0,Q4,2017-09-01,2017-11-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,932100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,932100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,342900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,342900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,589200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,290300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,130600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1400000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,27000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,449300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,139900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-45800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,94100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-146600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,240700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,240700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,241300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,398000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.61
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,412100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.59
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,395600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q1,2017-12-01,2018-02-28,2019-03-26 16:38:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.61
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1008300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1008300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,368400000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,368400000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,639900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,299200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,131000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,3000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,25800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,459000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,180900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,55300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-54700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,126200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,12000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,0.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,114200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,114200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-500000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,114700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,391800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.29
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,403600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,395500000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q2,2018-03-01,2018-05-31,2019-06-26 09:16:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.29
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1001000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1001000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,375300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,375300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,625700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,287700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,134100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1500000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,42100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,465400000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,160300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,56700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,7100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-48700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,111600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,7900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,103500000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,103500000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,104500000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,393000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,405100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,401900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q3,2018-06-01,2018-08-31,2019-09-24 16:06:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1067800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1067800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,409100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,409100000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,658700000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,315600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,145500000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-4200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,41600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,498500000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,160200000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,67400000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-67800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,92400000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-300000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,80800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,80800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,81800000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,394400000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,406900000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,393000000.0
+IHS Markit Ltd,INFO,,0001598014,2018.0,Q4,2018-09-01,2018-11-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1046400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1046400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,399800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,399800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,646600000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,300300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,142300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-2000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,31000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,471600000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,175000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,66900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-66800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,108200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-100000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,109000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,109000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-700000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,109700000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,398000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,408000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,391800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q1,2018-12-01,2019-02-28,2020-03-24 17:13:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1135500000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1135500000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,428000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,428000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,707500000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,293300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,144000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,8400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,23100000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,468800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,238700000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,65800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-65400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,173300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,24200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,148900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,148900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,149800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,400500000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,409300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,404900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q2,2019-03-01,2019-05-31,2020-06-23 16:12:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1112300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1112300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,419700000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,419700000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,692600000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,295400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,144700000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-114800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,24500000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,349800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,342800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,63200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-62800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,280000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,240600000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,39200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,39200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,40100000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,401200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,410900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,401000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q3,2019-06-01,2019-08-31,2019-09-24 16:06:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1120400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1120400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,409500000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,409500000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,710900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,308900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,142100000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,3900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,463900000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,247000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,63800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2100000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-65600000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,181400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-21300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-400000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,202300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,202300000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-800000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,203100000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,399500000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,409200000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.49
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,399000000.0
+IHS Markit Ltd,INFO,,0001598014,2019.0,Q4,2019-09-01,2019-11-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
