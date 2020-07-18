@@ -1,0 +1,820 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,275955000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,275955000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,206851000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,206851000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,69104000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,70089000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-14462000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,55627000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13477000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-16000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,16000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13493000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2204000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11289000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11289000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11289000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42610000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43970000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43400000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q2,2010-05-02,2010-07-31,2011-09-07 13:33:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,267887000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,267887000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,199862000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,199862000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68025000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,70165000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-4699000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,65466000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2559000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-13000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,13000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2572000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1723000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4295000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4295000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4295000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42677000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43714000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43000000.0
+Stein Mart Inc,SMRT,,0000884940,2010.0,Q3,2010-08-01,2010-10-30,2011-12-22 17:07:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,309218000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,309218000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,214664000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,214664000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,94554000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,71507000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,71507000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23047000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,85000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-85000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22962000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9062000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13900000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13900000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13900000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43851000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,44186000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q1,2011-01-30,2011-04-30,2013-05-03 16:16:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,274549000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,274549000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,203632000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,203632000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70917000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,67744000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,67744000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3173000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,82000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-82000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3091000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1257000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1834000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1834000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1834000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,44095000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,44415000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,61100000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q2,2011-05-01,2011-07-30,2013-05-03 16:31:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,263232000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,263232000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,196579000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,196579000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,66653000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,69690000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,69690000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3037000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,84000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-84000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3121000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1425000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1696000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1696000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1696000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43248000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43248000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24200000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q3,2011-07-31,2011-10-29,2013-05-03 16:42:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.07
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,330952000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,330952000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,243460000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,243460000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87492000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,78243000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,78243000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9249000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-251000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-286000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-35000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9214000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3321000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5893000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5893000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5893000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43482000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.14
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43721000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,44300000.0
+Stein Mart Inc,SMRT,,0000884940,2011.0,Q4,2011-10-30,2012-01-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,309708000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,309708000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,217844000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,217844000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,91864000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,72907000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,72907000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18957000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,46000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-46000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18911000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8078000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10833000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10833000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10833000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42712000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.25
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42752000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43300000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q1,2012-01-29,2012-04-28,2013-06-06 11:16:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.25
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,280372000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,280372000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,206553000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,206553000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73819000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,69968000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,69968000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3851000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,43000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-43000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3808000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1502000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2306000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2306000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2306000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42586000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.05
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42715000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.05
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,46100000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q2,2012-04-29,2012-07-28,2013-09-04 16:17:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.05
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,273729000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,273729000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,203039000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,203039000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,70690000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,74431000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,74431000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3741000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-81000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-81000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3822000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2163000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1659000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1659000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1659000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42568000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42568000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,41500000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q3,2012-07-29,2012-10-27,2013-12-04 14:58:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.04
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,368557000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,368557000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,262300000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,262300000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,106257000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,89101000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89101000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17156000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-89000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-144000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-55000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17101000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3554000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13547000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13547000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13547000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42639000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42828000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43900000.0
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Stein Mart Inc,SMRT,,0000884940,2012.0,Q4,2012-10-28,2013-02-02,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,321364000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,321364000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,223419000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,223419000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,97945000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,73563000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,73563000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,24382000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-61000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-61000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,24321000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9629000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14692000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14692000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14692000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42814000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43262000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43200000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.34
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q1,2013-02-03,2013-05-04,2014-06-05 08:57:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,290969000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,290969000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,210653000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,210653000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,80316000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,74473000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,74473000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5843000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-67000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-67000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5776000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2362000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3414000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3414000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3414000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42931000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43707000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,42700000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q2,2013-05-05,2013-08-03,2014-09-04 13:39:53+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,290453000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,290453000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,212688000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,212688000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,77765000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,77873000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,77873000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-108000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-69000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-69000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-177000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-205000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43102000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43924000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q3,2013-08-04,2013-11-02,2014-12-04 11:59:46+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,360785000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,360785000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,249458000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,249458000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,111327000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,100611000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,100611000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10716000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-68000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-68000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10648000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3227000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7421000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7421000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7421000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43053000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43778000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,44100000.0
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Stein Mart Inc,SMRT,,0000884940,2013.0,Q4,2013-11-03,2014-02-01,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,328854000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,328854000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,224528000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,224528000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,104326000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,81229000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81229000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,23097000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-65000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-65000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23032000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8957000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14075000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14075000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14075000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43829000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,44456000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45400000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q1,2014-02-02,2014-05-03,2015-06-04 12:02:53+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.125
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,298157000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,298157000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,213913000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,213913000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,84244000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,81451000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81451000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2793000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-69000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-69000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2724000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,987000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1737000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1737000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1737000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43814000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,44704000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43400000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q2,2014-05-04,2014-08-02,2015-09-03 11:08:21+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,303667000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,303667000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,219106000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,219106000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,84561000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,86277000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86277000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1716000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-66000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-66000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1782000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-571000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1211000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1211000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1211000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43857000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,43857000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40400000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q3,2014-08-03,2014-11-01,2015-12-09 13:37:54+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,386999000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,386999000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,273394000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,273394000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,113605000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,93070000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,93070000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,20535000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-66000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-66000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,20469000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8164000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12305000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12305000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12305000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,43850000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,44749000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,44800000.0
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Stein Mart Inc,SMRT,,0000884940,2014.0,Q4,2014-11-02,2015-01-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,353521000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,353521000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,245141000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,245141000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,108380000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,85622000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,85622000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22758000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-686000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-686000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,22072000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8508000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13564000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13564000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13564000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,44612000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,45766000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45200000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q1,2015-02-01,2015-05-02,2016-06-07 09:10:56+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,5.075
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,311583000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,311583000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,222648000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,222648000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,88935000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,81545000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81545000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7390000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-807000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-807000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6583000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2489000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4094000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4094000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4094000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,44710000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,45926000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45500000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q2,2015-05-03,2015-08-01,2016-08-31 08:31:50+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,300665000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,300665000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,218497000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,218497000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,82168000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,81464000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,81464000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,704000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-891000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-891000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-187000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,10000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-197000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-197000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-197000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,44791000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.01
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,44791000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.01
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,19700000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q3,2015-08-02,2015-10-31,2016-12-01 17:10:49+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,394132000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,394132000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,288328000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,288328000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105804000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,95093000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95093000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10711000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-899000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-899000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9812000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3562000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6250000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6250000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6250000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,44754000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.14
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,45953000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.14
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45600000.0
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.14
+Stein Mart Inc,SMRT,,0000884940,2015.0,Q4,2015-11-01,2016-01-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,355712000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,355712000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,246820000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,246820000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,108892000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,86474000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86474000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,22418000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-966000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-966000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,21452000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,8141000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13311000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13311000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13311000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,45595000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.29
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46275000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45900000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.29
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:09:43+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,319761000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,319761000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,230322000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,230322000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,89439000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,83840000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,83840000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5599000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-883000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-883000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4716000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1709000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3007000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3007000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3007000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,45719000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46555000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43000000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q2,2016-05-01,2016-07-30,2017-09-01 16:08:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,299527000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,299527000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,226816000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,226816000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,72711000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,89034000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89034000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-16323000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-949000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-949000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-17272000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6262000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-11010000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-11010000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-11010000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,45845000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.24
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,45845000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.24
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45900000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.24
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q3,2016-07-31,2016-10-29,2017-11-29 16:23:48+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,385518000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,385518000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,297581000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,297581000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,87937000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,96065000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,96065000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-8128000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1086000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1086000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9214000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4307000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4907000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4907000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4907000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,45785000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46597000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.1
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,40100000.0
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11
+Stein Mart Inc,SMRT,,0000884940,2016.0,Q4,2016-10-30,2017-01-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,341049000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,341049000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,241779000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,241779000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,99270000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,89208000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89208000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10062000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1139000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1139000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8923000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5223000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3700000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3700000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3700000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46165000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46171000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,46300000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q1,2017-01-29,2017-04-29,2018-06-07 16:51:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.075
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,314534000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,314534000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,246368000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,246368000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,68166000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,89699000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,89699000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-21533000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1142000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1142000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-22675000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-9682000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-12993000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-12993000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-12993000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46264000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.28
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46264000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.28
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,46400000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q2,2017-04-30,2017-07-29,2018-08-31 16:02:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.28
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,288911000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,288911000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,217126000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,217126000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,71785000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,95674000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,95674000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-23889000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1156000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1156000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25045000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-10429000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-14616000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-14616000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-14616000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46447000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.31
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46447000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.31
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47100000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q3,2017-07-30,2017-10-28,2018-12-04 16:41:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.31
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,388075000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,388075000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,282419000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,282419000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,105656000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,101530000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,101530000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4126000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-1351000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1351000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2775000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3190000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-415000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-415000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-415000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46342000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.01
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46342000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.01
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,46800000.0
+Stein Mart Inc,SMRT,,0000884940,2017.0,Q4,2017-10-29,2018-02-03,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,330987000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,330987000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,230621000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,230621000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100366000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,90509000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,90509000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9857000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2463000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2463000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7394000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,60000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7334000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7334000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7334000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46610000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46659000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,45800000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q1,2018-02-04,2018-05-05,2019-06-18 16:31:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,314428000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,314428000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,231519000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,231519000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,82909000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,80936000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,80936000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1973000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2865000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2865000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-892000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,60000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-952000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-952000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-952000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46669000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.02
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46669000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.02
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47600000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q2,2018-05-06,2018-08-04,2019-09-09 16:31:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.02
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,282861000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,282861000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,209286000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,209286000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73575000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,86626000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86626000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-13051000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-3078000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3078000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-16129000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,171000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-16300000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-16300000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-16300000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46600000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.35
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46600000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.35
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,46743000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q3,2018-08-05,2018-11-03,2019-12-04 16:31:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.35
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,344456000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,344456000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,248384000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,248384000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,96072000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,90165000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,90165000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5907000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2476000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2476000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3431000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-316000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3747000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3747000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3747000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,46706000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,46706000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47500000.0
+Stein Mart Inc,SMRT,,0000884940,2018.0,Q4,2018-11-04,2019-02-02,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,319382000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,319382000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,226698000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,226698000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,92684000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,86136000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,86136000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6548000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2526000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2526000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4022000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,53000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3969000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3969000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3969000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,47111000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,47556000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,49600000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q1,2019-02-03,2019-05-04,2020-07-16 16:17:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,296332000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,296332000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,217703000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,217703000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,78629000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,78470000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,78470000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,159000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2192000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2192000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2033000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,52000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2085000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-2085000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-2085000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,47406000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.04
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,47406000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.04
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,52100000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q2,2019-05-05,2019-08-03,2019-09-09 16:31:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.04
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,280423000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,280423000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,206721000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,206721000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,73702000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,83285000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,83285000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9583000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2306000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2306000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-11889000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,203000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-12092000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-12092000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-12092000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,48400000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.25
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,48400000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.25
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47545000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q3,2019-08-04,2019-11-02,2019-12-04 16:31:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.25
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,340336000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,340336000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,249921000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,249921000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,90415000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,88243000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,88243000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2172000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-2087000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2087000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,85000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,340000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-255000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-255000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-255000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,47417000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.01
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,47417000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.01
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,47600000.0
+Stein Mart Inc,SMRT,,0000884940,2019.0,Q4,2019-11-03,2020-02-01,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01

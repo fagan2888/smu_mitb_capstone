@@ -1,0 +1,750 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,143034000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,143034000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,103326000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,103326000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,39708000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20276000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20276000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19432000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,321000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-11000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-332000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19100000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6971000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12129000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12129000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12129000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25840376.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.47
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25883449.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.47
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25800000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.47
+Ennis Inc,EBF,,0000033002,2011.0,Q2,2010-06-01,2010-08-31,2011-09-30 11:31:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.155
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,134817000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,134817000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,98298000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,98298000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,36519000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20971000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20971000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15548000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,214000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-148000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-362000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15186000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5543000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9643000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9643000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9643000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25857544.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25907168.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26100000.0
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2011.0,Q3,2010-09-01,2010-11-30,2011-12-29 11:10:50+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.155
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,130384000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,130384000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,96290000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,96290000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,34094000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18447000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-125000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18322000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15772000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,664000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,171000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-493000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15279000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5567000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9712000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9712000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9712000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25933902.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25961171.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26200000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2012.0,Q2,2011-06-01,2011-08-31,2012-10-05 14:36:46+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.155
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,121846000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,121846000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,91663000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,91663000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,30183000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19094000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-8000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19086000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11097000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,405000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,318000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-87000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11010000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4118000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6892000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6892000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6892000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25934972.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25954399.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25500000.0
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+Ennis Inc,EBF,,0000033002,2012.0,Q3,2011-09-01,2011-11-30,2013-01-04 12:32:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.155
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,142528000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,142528000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,114279000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,114279000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,28249000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22026000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-4000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22022000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6227000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,469000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,350000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-119000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6108000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2229000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3879000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3879000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3879000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25963369.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.15
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25983907.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.15
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25900000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.15
+Ennis Inc,EBF,,0000033002,2013.0,Q1,2012-03-01,2012-05-31,2013-07-02 14:34:21+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,138344000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,138344000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,104395000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,104395000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,33949000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21331000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-5000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,21326000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12623000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,402000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-265000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-667000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11956000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4364000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7592000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7592000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7592000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25992505.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.29
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26011143.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26200000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.29
+Ennis Inc,EBF,,0000033002,2013.0,Q2,2012-06-01,2012-08-31,2013-10-04 14:34:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,128996000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,128996000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,98385000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,98385000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,30611000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20591000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,3000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20594000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10017000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,335000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-182000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-517000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9500000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3330000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6170000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6170000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6170000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26025072.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26045883.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25700000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+Ennis Inc,EBF,,0000033002,2013.0,Q3,2012-09-01,2012-11-30,2014-01-03 15:38:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,123638000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,123638000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,92295000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,92295000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,31343000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19809000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,8000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19817000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11526000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,322000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-150000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-472000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11054000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3980000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7074000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7074000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7074000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26035571.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26053452.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26000000.0
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+Ennis Inc,EBF,,0000033002,2013.0,Q4,2012-12-01,2013-02-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.36
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,138466000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,138466000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,102671000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,102671000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,35795000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22205000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-7000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22198000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13597000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,251000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,157000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-94000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13503000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4997000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8506000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8506000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8506000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26038068.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26055869.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25800000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Ennis Inc,EBF,,0000033002,2014.0,Q1,2013-03-01,2013-05-31,2014-07-01 15:20:45+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,135288000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,135288000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,98629000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,98629000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,36659000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21083000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-248000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20835000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15824000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,216000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-53000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-269000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15555000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5754000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9801000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9801000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9801000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26102129.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.38
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26128655.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25800000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.38
+Ennis Inc,EBF,,0000033002,2014.0,Q2,2013-06-01,2013-08-31,2014-09-30 13:09:57+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,136550000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,136550000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,98791000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,98791000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,37759000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22340000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-15000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22325000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15434000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,342000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-253000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-595000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14839000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5490000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9349000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9349000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9349000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26126437.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26156861.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.36
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26000000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+Ennis Inc,EBF,,0000033002,2014.0,Q3,2013-09-01,2013-11-30,2015-01-09 12:57:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,132138000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,132138000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,98558000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,98558000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,33580000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21049000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,24226000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-4000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45271000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-11691000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,459000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,45000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-414000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-12105000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2362000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-14467000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-14467000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-14467000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26125348.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.57
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26146325.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.57
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26400000.0
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.57
+Ennis Inc,EBF,,0000033002,2014.0,Q4,2013-12-01,2014-02-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.18
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,141186000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,141186000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,105798000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,105798000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,35388000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21795000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,21794000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13594000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,502000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-343000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-845000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12749000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4717000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8032000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8032000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8032000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25973227.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25987377.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25900000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Ennis Inc,EBF,,0000033002,2015.0,Q1,2014-03-01,2014-05-31,2015-07-09 12:58:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,151841000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,151841000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,113653000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,113653000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,38188000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,21824000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-3000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,21821000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16367000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,525000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,57000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-468000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15899000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5883000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10016000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10016000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10016000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25990496.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26002701.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.39
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25700000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+Ennis Inc,EBF,,0000033002,2015.0,Q2,2014-06-01,2014-08-31,2015-09-29 12:40:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,146971000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,146971000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,110455000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,110455000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,36516000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,23817000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,93324000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-15000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,117126000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-80610000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,472000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,347000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-125000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-80735000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-9556000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-71179000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-71179000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-71179000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25753345.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-2.76
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25753345.0
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-2.76
+Ennis Inc,EBF,,0000033002,2015.0,Q3,2014-09-01,2014-11-30,2015-12-30 12:12:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-59619000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-59619000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-64598000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-64598000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,4979000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-6775000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,-93324000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-35000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-100134000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,105113000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-1491000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-62000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1429000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,106542000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,18941000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,87601000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-79003000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8598000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8598000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25864352.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.34
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25864352.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25900000.0
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-2.42
+Ennis Inc,EBF,,0000033002,2015.0,Q4,2014-12-01,2015-02-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,96769000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,96769000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,66805000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,66805000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29964000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16053000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-2000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16051000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13913000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13910000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5147000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8763000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,408000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9171000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9171000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25586596.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25599055.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.36
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25500000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+Ennis Inc,EBF,,0000033002,2016.0,Q1,2015-03-01,2015-05-31,2016-07-08 15:55:29+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,100455000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,100455000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,69092000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,69092000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,31363000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16116000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-8000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16108000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15255000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15255000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5644000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9611000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1435000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11046000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11046000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25662828.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.43
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25693256.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.43
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25700000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.43
+Ennis Inc,EBF,,0000033002,2016.0,Q2,2015-06-01,2015-08-31,2016-10-05 15:01:31+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,97516000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,97516000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,67797000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,67797000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29719000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16427000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-361000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16066000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13653000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13643000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5048000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8595000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,2079000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10674000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10674000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25684026.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.42
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25728144.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25400000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.42
+Ennis Inc,EBF,,0000033002,2016.0,Q3,2015-09-01,2015-11-30,2017-01-06 12:39:30+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,91206000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,91206000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,65942000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,65942000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25264000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,17147000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-108000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17039000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8225000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-9000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,8000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8233000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2944000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5289000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-444000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4845000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4845000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25688273.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25722367.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25700000.0
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+Ennis Inc,EBF,,0000033002,2016.0,Q4,2015-12-01,2016-02-29,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.17
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,90410000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,90410000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63716000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63716000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26694000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16071000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,6000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16077000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10617000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10608000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3925000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6683000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-23561000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-16878000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-16878000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25783770.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.65
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25810735.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.65
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26000000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.65
+Ennis Inc,EBF,,0000033002,2017.0,Q1,2016-03-01,2016-05-31,2017-07-07 12:45:57+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,91246000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,91246000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,64208000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,64208000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27038000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16057000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-4000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16053000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10985000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,231000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,11000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-220000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10765000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3981000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6784000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6784000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6784000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25893218.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25910375.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26100000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Ennis Inc,EBF,,0000033002,2017.0,Q2,2016-06-01,2016-08-31,2017-10-06 12:35:57+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.675
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,88660000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,88660000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63368000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63368000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25292000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15833000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,264000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16097000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9195000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,172000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,88000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-84000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9111000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3371000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5740000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5740000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5740000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25673824.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25683613.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26100000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+Ennis Inc,EBF,,0000033002,2017.0,Q3,2016-09-01,2016-11-30,2018-01-05 12:09:40+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,86572000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,86572000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,60866000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,60866000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25706000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14576000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,12000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,14588000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11118000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,208000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1361000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1569000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9549000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2339000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7210000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1076000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6134000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6134000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25734667.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25749185.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25400000.0
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+Ennis Inc,EBF,,0000033002,2017.0,Q4,2016-12-01,2017-02-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.18
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,94590000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,94590000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,64598000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,64598000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29992000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,17316000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,15000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17331000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12661000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,190000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-116000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-306000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12355000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4571000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7784000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7784000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7784000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25422856.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25436787.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25100000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Ennis Inc,EBF,,0000033002,2018.0,Q1,2017-03-01,2017-05-31,2018-07-06 11:55:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.175
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,93606000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,93606000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63650000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63650000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29956000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16642000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-4000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16638000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13318000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,163000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-21000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-184000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13134000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4860000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8274000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8274000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8274000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25360452.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25393482.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25100000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Ennis Inc,EBF,,0000033002,2018.0,Q3,2017-09-01,2017-11-30,2019-01-04 13:13:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,87088000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,87088000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,60693000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,60693000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26395000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18226000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,103000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18329000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8066000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,220000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,18000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-202000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7864000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-296000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8160000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,147000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8307000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8307000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25391998.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25417244.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25300000.0
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+Ennis Inc,EBF,,0000033002,2018.0,Q4,2017-12-01,2018-02-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.3
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,93419000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,93419000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63228000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63228000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,30191000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,17735000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-4000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17731000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12460000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,261000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,130000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-131000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12329000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3082000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9247000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9247000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9247000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25333673.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25363772.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.36
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25000000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2019.0,Q1,2018-03-01,2018-05-31,2019-07-03 12:25:41+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,98591000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,98591000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,68268000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,68268000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,30323000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,17567000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-2000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17565000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12758000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,287000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,285000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12756000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3189000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9567000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9567000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9567000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25671643.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25685514.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25900000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.37
+Ennis Inc,EBF,,0000033002,2019.0,Q2,2018-06-01,2018-08-31,2019-10-02 11:47:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.225
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,108070000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,108070000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,74315000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,74315000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,33755000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,19942000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-193000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19749000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14006000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,365000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,251000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-114000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13892000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3473000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10419000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10419000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10419000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26189917.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26202430.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26000000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+Ennis Inc,EBF,,0000033002,2019.0,Q3,2018-09-01,2018-11-30,2020-01-03 12:39:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.225
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,100702000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,100702000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,71611000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,71611000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29091000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18246000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-18000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18228000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10863000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,241000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,335000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,94000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10957000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2753000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8204000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8204000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8204000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,25829804.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,25842179.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.32
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,25800000.0
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Ennis Inc,EBF,,0000033002,2019.0,Q4,2018-12-01,2019-02-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.23

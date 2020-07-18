@@ -1,0 +1,910 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,156525000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,156525000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,137987000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,137987000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18538000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6937000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1712000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5225000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13313000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11375000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,78000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,115000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11182000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2131000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1624000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,507000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,507000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,507000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,114298319.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,115428649.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q2,2010-04-01,2010-06-30,2011-08-05 17:22:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,172029000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,172029000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,158586000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,158586000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,13443000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7064000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1176000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5888000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7555000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6391000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,46000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,68000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6277000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1278000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,786000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,492000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,492000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,492000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,114507431.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,116235867.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2010.0,Q3,2010-07-01,2010-09-30,2011-11-04 16:43:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,156179000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,156179000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,134975000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,134975000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21204000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6806000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1004000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5802000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15402000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5861000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,47000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,11000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5803000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9599000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4839000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4760000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4760000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-67000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4827000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,115119277.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,116322199.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,120700000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q1,2011-01-01,2011-03-31,2012-05-04 11:13:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,172812000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,172812000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,132015000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,132015000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,40797000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7948000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-366000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7582000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,33215000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5755000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,133000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-14000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5636000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27579000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13464000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,14115000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,14115000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-58000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,14173000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116144818.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117253588.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,118100000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q2,2011-04-01,2011-06-30,2012-08-03 13:20:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,176589000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,176589000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,126623000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,126623000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,49966000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8630000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-623000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8007000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,41959000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5591000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,29000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-706000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6268000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,35691000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15042000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20649000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20649000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-76000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20725000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116416011.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,117425764.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,115100000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q3,2011-07-01,2011-09-30,2012-11-02 17:21:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,180654000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,180654000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,135200000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,135200000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,45454000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8183000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,171350000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1666000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,177867000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-132413000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5387000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,47000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-528000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5868000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-138281000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-48112000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-90169000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-90169000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,7000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-90176000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116081590.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.77
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,116081590.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.77
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,117300000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.77
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,176569000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,176569000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,122551000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,122551000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,54018000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5497000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-492000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5005000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,49013000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8037000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,26000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-33000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8044000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,40969000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14643000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,26326000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,26326000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-66000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,26392000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,116848516.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118404491.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,114700000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q1,2012-01-01,2012-03-31,2013-05-03 16:43:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,178925000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,178925000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,132485000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,132485000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,46440000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7420000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1368000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6052000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,40388000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10574000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,53000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,58000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10463000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,29925000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9817000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,20108000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20108000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,25000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20083000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,117410212.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,118526879.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,118100000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q2,2012-04-01,2012-06-30,2013-08-06 17:55:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.17
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,165301000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,165301000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,131263000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,131263000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,34038000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8905000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-606000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8299000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,25739000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8288000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,30000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,45000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8213000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17526000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6695000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10831000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10831000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-105000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10936000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,118109214.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,119201019.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,121500000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q3,2012-07-01,2012-09-30,2013-11-07 15:16:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,156966000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,156966000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,139906000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,139906000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,17060000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24435000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,492000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,24927000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7867000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,8773000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,44000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-847000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9576000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-17443000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2724000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-20167000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-20167000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-69000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-20098000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,117721135.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.17
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,119093590.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.17
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,116600000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.17
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,167135000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,167135000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,146258000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,146258000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20877000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12845000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1148000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11697000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9180000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10006000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,59000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-165000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10112000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-932000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1504000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,572000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,572000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-20000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,592000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,118867678.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,120072574.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 14:32:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,225954000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,225954000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,175681000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,175681000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,50273000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22203000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-517000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,21686000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,28587000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10741000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2203000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-442000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-8980000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,19607000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11233000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8374000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8374000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,93000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8281000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119483780.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,121860011.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.07
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,118300000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q2,2013-04-01,2013-06-30,2014-08-06 20:27:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,237762000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,237762000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,189029000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,189029000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,48733000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14238000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1094000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13144000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,35589000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,18345000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,130000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-144000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-18359000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17230000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9112000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8118000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8118000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,148000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7970000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119990196.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,121674591.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.07
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,113900000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q3,2013-07-01,2013-09-30,2014-11-06 16:44:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,243321000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,243321000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,194757000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,194757000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,48564000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18739000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,2544000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1235000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20048000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,28516000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,13946000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,58000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2254000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11634000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16882000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6767000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10115000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10115000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-57000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10172000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,119284468.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,121224550.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,117500000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,229225000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,229225000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,200362000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,200362000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,28863000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8964000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,129000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9093000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,19770000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,41712000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,32000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,895000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-40785000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-21015000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8623000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-12392000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-12392000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,157000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-12549000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,120368650.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.1
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,120368650.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.1
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125500000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q1,2014-01-01,2014-03-31,2015-05-06 16:59:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.1
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,254234000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,254234000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,210749000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,210749000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,43485000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7007000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1019000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5988000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,37497000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11078000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,88000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1032000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9958000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,27539000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11702000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15837000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15837000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,156000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15681000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,121078359.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,122764247.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,120600000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 12:24:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,242012000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,242012000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,196946000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,196946000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,45066000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9370000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,457000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9827000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,35239000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10848000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,36000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-536000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11348000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,23891000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,11014000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,12877000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,12877000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,311000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,12566000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,121523674.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123177753.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125700000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 15:53:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,243213000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,243213000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,206445000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,206445000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,36768000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9675000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-621000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9054000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,27714000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10779000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,39000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1148000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9592000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18122000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,9983000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8139000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8139000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,386000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7753000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,121186464.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.06
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123076648.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123400000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.06
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,204076000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,204076000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,179809000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,179809000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24267000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10837000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-2441000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8396000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15871000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11078000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,183000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1380000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12275000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3596000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-182000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3778000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3778000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,556000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3222000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,121887072.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123708623.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,107400000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q1,2015-01-01,2015-03-31,2016-05-04 17:36:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,185941000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,185941000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,181920000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,181920000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,4021000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9511000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,2316000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,138000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11965000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7944000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11396000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,19000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1529000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12906000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-20850000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6916000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13934000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13934000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,95000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-14029000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,122481425.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,122481425.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,127500000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q2,2015-04-01,2015-06-30,2016-08-03 16:57:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,173418000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,173418000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,168547000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,168547000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,4871000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8895000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,906000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-383000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9418000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-4547000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11293000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,7000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-719000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12005000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-16552000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,31930000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-48482000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-48482000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,138000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-48620000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,122933518.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.4
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,122933518.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.4
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,121600000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q3,2015-07-01,2015-09-30,2016-10-31 09:02:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.4
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,148748000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,148748000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,152208000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,152208000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-3460000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6947000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,9268000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1043000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17258000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20718000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11388000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,60000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6119000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17447000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-38165000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2519000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-35646000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-35646000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-35646000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,122562187.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.29
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,122562187.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.29
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,121900000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.29
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,130503000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,130503000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,143931000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,143931000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-13428000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9781000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,60000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9841000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-23269000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11562000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,7000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2485000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-9070000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-32339000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,63496000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-95835000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-95835000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-95835000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123090238.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.78
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123090238.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.78
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,122900000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 15:32:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.78
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,105287000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,105287000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,125512000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,125512000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-20225000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7995000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,2000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7997000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-28222000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12187000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,32000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-358000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12513000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-40735000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-913000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-39822000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-39822000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-39822000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124101349.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.32
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124101349.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.32
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124400000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q2,2016-04-01,2016-06-30,2017-08-03 16:29:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.32
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,97189000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,97189000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,119154000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,119154000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-21965000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7424000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,187000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7611000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-29576000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11015000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,9000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-351000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11357000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-40933000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5295000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-46228000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-46228000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-46228000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124486848.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.37
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124486848.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.37
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124900000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q3,2016-07-01,2016-09-30,2017-11-02 16:31:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.37
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,94025000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,94025000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,113719000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,113719000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-19694000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9132000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1364000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10496000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-30190000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11048000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,10000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1409000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12447000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-42637000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6292000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-48929000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-48929000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-48929000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8275334.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-5.91
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8275334.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-5.91
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,8300000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-5.91
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,98271000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,98271000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,118016000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,118016000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-19745000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7040000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,352000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7392000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-27137000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10870000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,10000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,530000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10330000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-37467000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2300000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-39767000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-39809000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-39809000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,130142527.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.31
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,130142527.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.31
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,128400000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q1,2017-01-01,2017-03-31,2018-05-02 17:31:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.31
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,109607000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,109607000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,120623000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,120623000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-11016000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6503000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,113000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6616000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-17632000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11095000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,22000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,560000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10513000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-28145000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1700000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-29845000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-29888000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,1239000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-31127000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9188888.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-3.39
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9188888.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-3.39
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9200000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q2,2017-04-01,2017-06-30,2018-08-02 16:51:38+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-3.39
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,118308000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,118308000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,118187000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,118187000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,121000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7033000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-97000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6936000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-6815000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11067000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,128000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-638000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11577000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-18392000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1919000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-20311000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-20311000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,906000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-21217000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9220001.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-2.3
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9220001.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-2.3
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9200000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q3,2017-07-01,2017-09-30,2018-11-06 16:40:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-2.3
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,116334000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,116334000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,121034000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,121034000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-4700000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5100000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1938000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,2483000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9521000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-14221000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11194000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,84000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-326000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11436000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25657000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3121000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-28778000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-28693000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,906000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-29599000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9084456.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-3.26
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9084456.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-3.26
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9100000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-3.26
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.1
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,109675000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,109675000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,120083000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,120083000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-10408000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6201000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-343000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5858000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-16266000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11240000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,23000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,291000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-10926000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-27192000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1600000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-28792000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-28796000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,906000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-29702000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9251066.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-3.21
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9251066.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-3.21
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q1,2018-01-01,2018-03-31,2019-05-09 16:01:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-3.21
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,118603000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,118603000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,118770000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,118770000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-167000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8288000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,478000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8766000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-8933000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11197000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,30000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1191000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12358000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-21291000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1586000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-22877000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-22877000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,907000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-23784000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9292224.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-2.56
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9292224.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-2.56
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q2,2018-04-01,2018-06-30,2019-08-06 14:45:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-2.56
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,123395000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,123395000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,121463000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,121463000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1932000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14495000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,43990000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-9000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,58476000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-56544000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11350000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,23000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-709000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12036000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-68580000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2371000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-70951000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-70951000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,906000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-71857000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9334390.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-7.7
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9334390.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-7.7
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2018.0,Q3,2018-07-01,2018-09-30,2019-11-06 16:24:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-7.7
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,157397000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,157397000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,145973000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,145973000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,11424000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8147000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,92977000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-384000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,100740000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-89316000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,274000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,8000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-276000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-89592000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,656000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-90248000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-90248000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-90248000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9368322.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-9.63
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9368322.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-9.63
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9400000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q1,2019-01-01,2019-03-31,2019-08-06 14:45:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-9.63
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,156031000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,156031000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,133040000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,133040000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,22991000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5610000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,962000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,53000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6625000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,16366000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7663000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,374000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-644000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7933000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8433000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3792000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4641000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4641000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4641000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,15044739.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,15044739.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,15000000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q2,2019-04-01,2019-06-30,2019-08-06 14:45:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,160083000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,160083000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,137815000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,137815000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,22268000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5983000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,211000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,92000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6286000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15982000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7118000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,362000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-258000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7014000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8968000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4979000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3989000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3989000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3989000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,15044739.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,15044739.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,14800000.0
+Parker Drilling Co,PKD,5493003B4WZ1YZYFR583,0000076321,2019.0,Q3,2019-07-01,2019-09-30,2019-11-06 16:24:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27

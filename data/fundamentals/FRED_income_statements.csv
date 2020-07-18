@@ -1,0 +1,769 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,449467000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,449467000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,323531000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,323531000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,125936000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,110473000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7227000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,117700000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8236000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,117000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,60000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-57000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8179000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3221000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4958000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4958000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4958000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,39179000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,39240000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,38100000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Fred's Inc,FRED,,0000724571,2010.0,Q2,2010-05-02,2010-07-31,2011-09-08 17:29:34+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,435008000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,435008000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,305261000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,305261000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,129747000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,110588000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7502000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,118090000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11657000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,106000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,58000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-48000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11609000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3791000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7818000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7818000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7818000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,39061000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,39114000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,39100000.0
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+Fred's Inc,FRED,,0000724571,2010.0,Q3,2010-08-01,2010-10-30,2011-12-08 17:05:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,484399000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,484399000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,346457000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,346457000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,137942000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,115046000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7773000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,122819000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15123000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,127000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,57000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-70000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15053000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5539000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9514000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9514000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9514000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,39149000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,39246000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,39600000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+Fred's Inc,FRED,,0000724571,2011.0,Q1,2011-01-30,2011-04-30,2012-06-07 16:58:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,452690000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,452690000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,325759000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,325759000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,126931000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,110587000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8076000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,118663000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8268000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,151000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,58000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-93000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8175000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3089000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5086000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5086000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5086000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,39134000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,39247000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,39100000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Fred's Inc,FRED,,0000724571,2011.0,Q2,2011-05-01,2011-07-30,2012-09-06 17:04:42+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,444378000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,444378000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,308412000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,308412000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,135966000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,113944000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8463000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,122407000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13559000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,134000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,34000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-100000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13459000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4427000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9032000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9032000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9032000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37618000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37669000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37600000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24
+Fred's Inc,FRED,,0000724571,2011.0,Q3,2011-07-31,2011-10-29,2012-12-06 17:27:14+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,497592000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,497592000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,359891000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,359891000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,137701000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,113618000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9878000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,123496000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14205000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,141000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,7000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-134000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14071000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4275000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9796000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9796000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9796000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,38176000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,38268000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,38000000.0
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+Fred's Inc,FRED,,0000724571,2011.0,Q4,2011-10-30,2012-01-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,500505000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,500505000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,352663000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,352663000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,147842000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,121377000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9364000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130741000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17101000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,137000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-137000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16964000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6506000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10458000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10458000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10458000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36977000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37110000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37400000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+Fred's Inc,FRED,,0000724571,2012.0,Q1,2012-01-29,2012-04-28,2013-06-13 17:22:24+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,470816000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,470816000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,339058000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,339058000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,131758000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,118918000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9474000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,128392000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3366000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,136000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-136000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3230000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-2824000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6054000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6054000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6054000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36493000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36621000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,35600000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.17
+Fred's Inc,FRED,,0000724571,2012.0,Q2,2012-04-29,2012-07-28,2013-09-12 16:40:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,450574000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,450574000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,312441000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,312441000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,138133000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,118133000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9880000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,128013000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10120000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,129000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-129000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9991000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3430000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6561000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6561000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6561000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36443000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36583000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36500000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+Fred's Inc,FRED,,0000724571,2012.0,Q3,2012-07-29,2012-10-27,2013-12-12 15:36:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,533380000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,533380000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,384781000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,384781000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,148599000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,129285000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10823000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,140108000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8491000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,147000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-147000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8344000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1788000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6556000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6556000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6556000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36584000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36711000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36600000.0
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+Fred's Inc,FRED,,0000724571,2012.0,Q4,2012-10-28,2013-02-02,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,501495000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,501495000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,350476000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,350476000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,151019000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,122934000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10301000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,133235000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17784000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,135000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-135000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17649000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6238000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11411000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11411000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11411000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36507000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36621000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36800000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Fred's Inc,FRED,,0000724571,2013.0,Q1,2013-02-03,2013-05-04,2014-06-12 16:08:49+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,482176000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,482176000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,346191000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,346191000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,135985000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,120245000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10527000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,130772000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5213000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,129000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-129000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5084000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1754000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3330000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3330000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3330000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36521000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36685000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37000000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+Fred's Inc,FRED,,0000724571,2013.0,Q2,2013-05-05,2013-08-03,2014-09-11 16:38:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,460542000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,460542000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,320305000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,320305000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,140237000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,118970000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10631000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,129601000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10636000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,113000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-113000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10523000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3215000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7308000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7308000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7308000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36558000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.2
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36723000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36500000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.2
+Fred's Inc,FRED,,0000724571,2013.0,Q3,2013-08-04,2013-11-02,2014-12-11 16:46:36+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,495033000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,495033000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,361433000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,361433000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,133600000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,118447000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9588000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,128035000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5565000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,110000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-110000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5455000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1489000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3966000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3966000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3966000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36558000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36720000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36600000.0
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+Fred's Inc,FRED,,0000724571,2013.0,Q4,2013-11-03,2014-02-01,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,498264000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,498264000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,355790000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,355790000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,142474000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,122606000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9839000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,132445000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10029000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,135000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-135000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9894000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3776000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6118000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6118000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6118000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36606000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36834000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36000000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.17
+Fred's Inc,FRED,,0000724571,2014.0,Q1,2014-02-02,2014-05-03,2015-06-11 16:47:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,491185000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,491185000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,377516000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,377516000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,113669000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,129600000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10210000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,139810000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-26141000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,163000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-163000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-26304000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-9870000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-16434000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-16434000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-16434000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36635000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.45
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36635000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.45
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36500000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.45
+Fred's Inc,FRED,,0000724571,2014.0,Q2,2014-05-04,2014-08-02,2015-09-10 15:48:49+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,476175000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,476175000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,352686000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,352686000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,123489000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,129809000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10259000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,140068000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-16579000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,107000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-107000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-16686000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6252000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-10434000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-10434000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-10434000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36691000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.28
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36691000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.28
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37300000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.28
+Fred's Inc,FRED,,0000724571,2014.0,Q3,2014-08-03,2014-11-01,2015-12-10 16:31:04+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,504425000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,504425000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,380264000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,380264000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,124161000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,129127000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10755000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,139882000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-15721000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,99000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-99000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-15820000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-7666000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-8154000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8154000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8154000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36313000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.24
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36313000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.24
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36100000.0
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.24
+Fred's Inc,FRED,,0000724571,2014.0,Q4,2014-11-02,2015-01-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,509047000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,509047000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,371956000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,371956000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,137091000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,126134000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10882000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,137016000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,75000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,262000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-262000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-187000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-158000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-29000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-29000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-29000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36497.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36497.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.0
+Fred's Inc,FRED,,0000724571,2015.0,Q1,2015-02-01,2015-05-02,2016-06-09 16:45:26+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,546083000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,546083000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,414166000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,414166000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,131917000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,128187000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11508000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,139695000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7778000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,449000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-449000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-8227000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-3350000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4877000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4877000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4877000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36676000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.13
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36676000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.13
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37500000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.13
+Fred's Inc,FRED,,0000724571,2015.0,Q2,2015-05-03,2015-08-01,2016-09-08 16:08:35+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,540996000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,540996000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,398733000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,398733000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,142263000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,128457000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11397000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,139854000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2409000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,352000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-352000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2057000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,621000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1436000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1436000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1436000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37108000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37111000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,35900000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Fred's Inc,FRED,,0000724571,2015.0,Q3,2015-08-02,2015-10-31,2016-12-08 16:23:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,554577000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,554577000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,421698000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,421698000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,132879000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,126119000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11865000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,137984000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5105000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,368000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-368000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5473000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1572000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3901000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3901000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3901000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36675000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.11
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36675000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.11
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36900000.0
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.11
+Fred's Inc,FRED,,0000724571,2015.0,Q4,2015-11-01,2016-01-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,549548000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,549548000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,408226000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,408226000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,141322000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,127331000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11563000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,138894000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2428000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,515000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-515000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1913000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,657000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1256000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1256000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1256000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37073.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.03
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37093.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.03
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,41900000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.03
+Fred's Inc,FRED,,0000724571,2016.0,Q1,2016-01-31,2016-04-30,2017-06-08 16:55:51+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,529503000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,529503000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,401365000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,401365000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,128138000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,127285000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11761000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,139046000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-10908000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,610000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-610000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-11518000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4590000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6928000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6928000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6928000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36760000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.18
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36760000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.18
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,38500000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.18
+Fred's Inc,FRED,,0000724571,2016.0,Q2,2016-05-01,2016-07-30,2017-09-07 16:46:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,516645000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,516645000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,405439000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,405439000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,111206000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,143266000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,12002000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,155268000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-44062000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,560000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-560000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-44622000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6229000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-38393000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-38393000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-38393000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36810000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.05
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36810000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.05
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36600000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.05
+Fred's Inc,FRED,,0000724571,2016.0,Q3,2016-07-31,2016-10-29,2017-12-07 16:51:19+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,290545000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,290545000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,175530000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,175530000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,115015000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,131446000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8688000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,140134000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-25119000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,633000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-633000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-25752000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1692000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-24060000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1594000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-22466000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-22466000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36876000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.6
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36876000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.6
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37000000.0
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.6
+Fred's Inc,FRED,,0000724571,2016.0,Q4,2016-10-30,2017-01-28,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,532320000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,532320000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,399408000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,399408000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,132912000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,155458000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11626000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,167084000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-34172000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1287000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1287000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-35459000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1002000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-36461000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-36461000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-36461000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37355000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.98
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37355000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.98
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37200000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.98
+Fred's Inc,FRED,,0000724571,2017.0,Q1,2017-01-29,2017-04-29,2017-06-08 16:55:51+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,507837000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,507837000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,381838000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,381838000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,125999000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,142806000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11296000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,154102000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-28103000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1437000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1437000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-29540000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-23000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-29517000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-29517000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-29517000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37461000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.78
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37461000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.78
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37800000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.78
+Fred's Inc,FRED,,0000724571,2017.0,Q2,2017-04-30,2017-07-29,2017-09-07 16:46:13+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,493585000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,493585000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,398967000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,398967000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,94618000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,133401000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,10970000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,144371000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-49753000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1647000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1647000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-51400000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,415000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-51815000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-51815000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-51815000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,37626000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.38
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,37626000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.38
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37500000.0
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.38
+Fred's Inc,FRED,,0000724571,2017.0,Q3,2017-07-30,2017-10-28,2017-12-07 16:51:19+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,336399000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,336399000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,247329000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,247329000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,89070000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,100941000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8300000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,109241000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20171000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1988000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1988000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-22159000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-196000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-21963000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-48000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-22011000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-22011000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36485000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.6
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36485000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.6
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36700000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q1,2018-02-04,2018-05-05,2019-06-18 17:26:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.6
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,419658000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,419658000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,319193000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,319193000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,100465000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,112086000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,9812000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,121898000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-21433000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1720000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1720000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-23153000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-229000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-22924000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-9380000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-32304000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-32304000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36687000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.88
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36687000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.88
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36700000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q2,2018-05-06,2018-08-04,2018-09-18 17:21:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.88
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,306413000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,306413000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,229446000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,229446000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,76967000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,98008000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7632000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,105640000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-28673000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2073000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2073000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-30746000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,71000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-30817000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3438000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-27379000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-27379000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36962000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.74
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36962000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.74
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,37000000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q3,2018-08-05,2018-11-03,2018-12-14 14:03:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.74
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,209276000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,209276000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,152809000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,152809000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,56467000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,76968000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5529000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,33243000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,115740000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-59273000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1800000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1800000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-61073000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,406000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-61479000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,130206000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,68727000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,68727000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,36510000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.86
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,36510000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.86
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,36000000.0
+Fred's Inc,FRED,,0000724571,2019.0,Q4,2018-11-04,2019-02-02,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.86

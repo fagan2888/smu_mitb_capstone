@@ -1,0 +1,512 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,682000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3499000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,4181000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-4181000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,128000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,290000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,162000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4019000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4019000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4019000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4019000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-30.23
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-30.23
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,132969.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q1,2013-01-01,2013-03-31,2014-05-14 16:29:56+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-30.23
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,656000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3326000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,3982000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3982000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,327000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,327000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3655000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3655000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3655000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3655000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,100000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-24.74
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,100000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-24.74
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,147713.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q2,2013-04-01,2013-06-30,2014-08-12 16:16:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-24.74
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,685000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4576000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5261000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5261000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,252000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,252000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5009000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5009000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5009000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-5009000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,250745.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-19.98
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,250745.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-19.98
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,250745.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q3,2013-07-01,2013-09-30,2014-11-07 14:31:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-19.98
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2405000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3454000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5859000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5859000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,44000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,45000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5814000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5814000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5814000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5009000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-10823000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,500000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,33.85
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,500000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,33.85
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,450000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,33.85
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2714000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,4869000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7583000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7583000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-11843000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11843000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-19426000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19426000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-19426000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,25559000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-44985000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,2800000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-16.13
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,2800000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-16.13
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,2788000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q1,2014-01-01,2014-03-31,2015-05-11 16:17:31+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-16.13
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2877000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,5622000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8499000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-8499000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,40000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-141000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-101000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-8600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-8600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,23900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.36
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,23900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.36
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24195000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q2,2014-04-01,2014-06-30,2015-08-05 16:16:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.36
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,3577000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,10515000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,14092000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-14092000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,50000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,208000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,258000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-13834000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13834000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13834000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,netincometocommon,preferreddividends,Preferred Stock Dividends Declared,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-13834000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,24300000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.57
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,24300000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.57
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,24195000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q3,2014-07-01,2014-09-30,2015-11-04 16:30:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.57
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,4337000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,11602000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,15939000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-15939000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,42000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,244000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,286000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-15653000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-15653000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-15653000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-15653000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,12.67
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,12.67
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18922000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,12.67
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5181000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,17100000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22281000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-22281000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,49000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,226000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,275000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-22006000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-22006000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-22006000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-22006000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.79
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.79
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27810000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q1,2015-01-01,2015-03-31,2016-05-03 19:08:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.79
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7556000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,11940000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19496000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-19496000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,65000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-236000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-171000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-19667000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19667000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-19667000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-19667000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29400000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.67
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,29400000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.67
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29293000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q2,2015-04-01,2015-06-30,2016-08-02 20:38:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.67
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5124000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,15400000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20524000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20524000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,54000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,91000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,145000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-20379000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-20379000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-20379000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-20379000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29500000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.69
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,29500000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.69
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29354000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 17:17:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.69
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,4622000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,15585000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20207000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-20207000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,50000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,32000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,82000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-20125000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-20125000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-20125000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-20125000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.69
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.69
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28964000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.69
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5915000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,18191000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,24106000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-24106000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,105000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-230000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-125000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-24231000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-24231000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-24231000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-24231000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.82
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,29600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.82
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29422000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q1,2016-01-01,2016-03-31,2017-05-10 11:35:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.82
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5909000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,16397000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22306000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-22306000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,129000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,59000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,188000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-22118000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-22118000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-22118000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-22118000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29500000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.75
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,29500000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.75
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29489000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q2,2016-04-01,2016-06-30,2017-08-07 16:31:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.75
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6752000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,20664000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,27416000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-27416000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,120000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-39000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,81000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-27335000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-27335000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-27335000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-27335000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,29700000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.92
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,29700000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.92
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29574000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 16:01:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.92
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5760000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,16732000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22492000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-22492000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,160000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,446000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,606000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-21886000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,247000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-22133000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-22133000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-22133000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,2.49
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.49
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,30784000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.62
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7656000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,22004000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,29660000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-29660000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,199000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-261000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-62000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-29722000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-29722000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-29722000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-29722000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,35000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.85
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,35000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.85
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,35004000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q1,2017-01-01,2017-03-31,2017-05-10 11:35:50+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.85
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7572000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,28618000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,36190000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-36190000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,242000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-521000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-279000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-36469000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,128000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-36597000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-36597000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-36597000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,35200000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.04
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,35200000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.04
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,35316000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q2,2017-04-01,2017-06-30,2017-08-07 16:31:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.04
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7073000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,42673000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49746000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-49746000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,220000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-262000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-42000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-49788000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-49788000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-49788000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-49788000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,35600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.4
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,35600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.4
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,35680000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q3,2017-07-01,2017-09-30,2017-11-09 16:01:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.4
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,40000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,40000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,40000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7569000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,1317000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8886000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,31114000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,528000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,186000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-19000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-361000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,30753000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-375000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,31128000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,31128000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,31128000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,5900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-11.18
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,5900000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-11.18
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,5871000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-11.18
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,4917000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8517000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-8517000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,193000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-657000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-464000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-8981000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-8981000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-8981000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-8981000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,6000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.5
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.5
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,6003000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q1,2018-01-01,2018-03-31,2019-05-08 16:31:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.5
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6003000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3438000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9441000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-9441000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,249000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-656000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-407000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-9848000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-9848000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-9848000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-9848000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,6000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.64
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6000000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.64
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,6023000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q2,2018-04-01,2018-06-30,2019-08-07 16:16:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.64
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5191000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,1027000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6218000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-6218000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,261000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-593000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-332000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6550000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6550000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6550000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6550000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,6100000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.08
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,6100000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.08
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,6040000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q3,2018-07-01,2018-09-30,2019-11-07 16:28:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.08
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1371000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1371000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1371000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11284000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,41323000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,52607000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-51236000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2429000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,286000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2425000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,282000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-50954000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-50954000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-50954000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-50954000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,7200000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-6.42
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,7200000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-6.42
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,7171000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-6.42
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1699000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1699000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1699000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,4590000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,2848000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7438000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5739000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,346000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,689000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1035000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4704000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4704000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4704000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4704000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,11200000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.42
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,11200000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.42
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,11273000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q1,2019-01-01,2019-03-31,2020-05-06 16:16:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.42
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3054000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3054000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,3054000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,3291000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3637000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6928000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3874000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,233000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,597000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,830000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3044000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3044000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3044000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3044000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,11300000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.27
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,11300000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.27
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,11280000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q2,2019-04-01,2019-06-30,2019-08-07 16:16:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.27
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,0.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,3158000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,3840000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6998000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-6998000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,232000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,624000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,856000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6142000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6142000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6142000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6142000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,11400000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.54
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,11400000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.54
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,11285000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q3,2019-07-01,2019-09-30,2019-11-07 16:28:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.54
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2652000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,2511000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5163000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5163000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,211000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,624000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,835000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4328000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4328000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-4328000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-4328000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,11600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.34
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,11600000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.34
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,11589000.0
+Versartis Inc,VSAR,5493002Z0KHRW71RNC19,0001513818,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.34

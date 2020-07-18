@@ -1,0 +1,720 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,84875000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,84875000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,55382000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,55382000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29493000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10422000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7012000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1923000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,47000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19404000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10089000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,420000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,73000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2780000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2433000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12522000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5996000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6526000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6526000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6526000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31332000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31701000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31100000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q1,2010-04-01,2010-06-30,2011-08-05 06:52:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,89910000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,89910000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,58102000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,58102000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,31808000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10454000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6597000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1923000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18978000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12830000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,395000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,78000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1961000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2278000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10552000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3671000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6881000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6881000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6881000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31149000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.22
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31623000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.22
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31300000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q2,2010-07-01,2010-09-30,2011-11-04 15:47:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.22
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,91727000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,91727000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,62647000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,62647000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29080000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10595000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6684000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1630000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,515000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19424000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9656000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,389000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,67000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,625000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,303000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9959000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2653000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7306000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7306000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7306000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31096000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32071000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31800000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q3,2010-10-01,2010-12-31,2012-02-03 14:40:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,96761000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,96761000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,65395000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,65395000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,31366000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10409000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7884000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1461000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,702000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,193000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20649000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10717000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,309000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,67000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-608000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-850000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9867000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-6067000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,15934000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,15934000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,15934000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31235000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32008000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.48
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31300000.0
+IXYS Corp,IXYS,,0000945699,2011.0,Q4,2011-01-01,2011-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+IXYS Corp,IXYS,,0000945699,2012.0,Q1,2011-04-01,2011-06-30,2012-08-03 09:21:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,101778000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q1,2011-04-01,2011-06-30,2012-08-03 09:21:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,66743000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q1,2011-04-01,2011-06-30,2012-08-03 09:21:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18704000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q1,2011-04-01,2011-06-30,2012-08-03 09:21:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-609000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q1,2011-04-01,2011-06-30,2012-08-03 09:21:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9976000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q1,2011-04-01,2011-06-30,2012-08-03 09:21:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9976000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q2,2011-07-01,2011-09-30,2012-11-02 13:52:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,99004000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q2,2011-07-01,2011-09-30,2012-11-02 13:52:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,67526000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q2,2011-07-01,2011-09-30,2012-11-02 13:52:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17293000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q2,2011-07-01,2011-09-30,2012-11-02 13:52:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1460000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q2,2011-07-01,2011-09-30,2012-11-02 13:52:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10947000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q2,2011-07-01,2011-09-30,2012-11-02 13:52:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10947000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q3,2011-10-01,2011-12-31,2013-02-01 09:01:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,80041000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q3,2011-10-01,2011-12-31,2013-02-01 09:01:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,56889000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q3,2011-10-01,2011-12-31,2013-02-01 09:01:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17835000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q3,2011-10-01,2011-12-31,2013-02-01 09:01:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,665000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q3,2011-10-01,2011-12-31,2013-02-01 09:01:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5671000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q3,2011-10-01,2011-12-31,2013-02-01 09:01:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5671000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,87181000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,87181000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,57602000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,57602000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29579000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9921000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,9042000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,639000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,6448000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,26050000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3529000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,270000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,121000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-188000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-337000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3192000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-520000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3712000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3712000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3712000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31344000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32496000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31200000.0
+IXYS Corp,IXYS,,0000945699,2012.0,Q4,2012-01-01,2012-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.97
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,80857000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,80857000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,53784000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,53784000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27073000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10790000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6930000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,640000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18360000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8713000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,257000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,84000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,701000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,528000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9241000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3234000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6007000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6007000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6007000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31351000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.19
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32378000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.19
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31600000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.19
+IXYS Corp,IXYS,,0000945699,2013.0,Q1,2012-04-01,2012-06-30,2013-08-09 16:16:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,68461000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,68461000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,48057000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,48057000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20404000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9508000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7035000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,484000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17027000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3377000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,234000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,84000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,206000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,56000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3433000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1076000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2357000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2357000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2357000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31310000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31975000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.07
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29500000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+IXYS Corp,IXYS,,0000945699,2013.0,Q2,2012-07-01,2012-09-30,2013-11-04 15:29:23+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,63812000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,63812000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,44841000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,44841000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18971000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9150000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6784000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,559000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,16493000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2478000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,228000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,113000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-392000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-507000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1971000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,782000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1189000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1189000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1189000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31005000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31487000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,29700000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+IXYS Corp,IXYS,,0000945699,2013.0,Q3,2012-10-01,2012-12-31,2014-02-06 17:23:18+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.03
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,66884000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,66884000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,48452000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,48452000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18432000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9839000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7273000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,561000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17673000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,759000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,219000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,53000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-556000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-722000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,37000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1942000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1905000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1905000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1905000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31025000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.06
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31695000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,30600000.0
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.06
+IXYS Corp,IXYS,,0000945699,2013.0,Q4,2013-01-01,2013-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.03
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,71186000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,71186000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,50049000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,50049000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21137000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10043000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7687000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,246000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17976000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3161000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,212000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,39000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-83000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-256000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2905000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,926000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1979000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1979000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1979000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,30948000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.06
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31635000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,33000000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.06
+IXYS Corp,IXYS,,0000945699,2014.0,Q1,2013-04-01,2013-06-30,2014-08-08 06:06:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.03
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,85901000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,85901000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,58000000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,58000000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27901000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10583000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7453000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3425000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,21461000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6440000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,480000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,36000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1252000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1696000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4744000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1361000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3383000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3383000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3383000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31127000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31849000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,30800000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2014.0,Q2,2013-07-01,2013-09-30,2014-11-07 20:23:39+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.03
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,89348000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,89348000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63565000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63565000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25783000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10028000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7894000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3425000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,21347000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4436000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,458000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,40000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-801000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1219000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3217000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2665000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,552000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,552000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,552000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31192000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.02
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32032000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.02
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27600000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.02
+IXYS Corp,IXYS,,0000945699,2014.0,Q3,2013-10-01,2013-12-31,2015-02-04 16:07:33+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.03
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,89895000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,89895000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,64506000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,64506000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25389000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11329000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7850000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,3425000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22604000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2785000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,429000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,42000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,195000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-192000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2593000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2461000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,132000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,132000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,132000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31146000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31916000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31800000.0
+IXYS Corp,IXYS,,0000945699,2014.0,Q4,2014-01-01,2014-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.03
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,88080000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,88080000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,63080000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,63080000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25000000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10764000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7250000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1707000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19721000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5279000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,410000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,47000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,208000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-155000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5124000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1549000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3575000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3575000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3575000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31379000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32075000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,32500000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2015.0,Q1,2014-04-01,2014-06-30,2015-08-04 11:11:33+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.03
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,86435000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,86435000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,60265000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,60265000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26170000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10713000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6948000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1419000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19080000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7090000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,322000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,49000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2165000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1892000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8982000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3235000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5747000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5747000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5747000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31499000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32235000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31900000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+IXYS Corp,IXYS,,0000945699,2015.0,Q2,2014-07-01,2014-09-30,2015-11-04 06:32:12+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.035
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,81326000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,81326000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,55811000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,55811000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25515000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10191000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6289000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1419000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17899000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7616000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,392000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,57000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,108000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-227000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7389000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,767000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6622000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6622000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6622000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31585000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32231000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.21
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31500000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+IXYS Corp,IXYS,,0000945699,2015.0,Q3,2014-10-01,2014-12-31,2016-02-04 16:12:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.035
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,82926000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,82926000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,57646000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,57646000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25280000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10142000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6180000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1433000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17755000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7525000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,273000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,87000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1596000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1410000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8935000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1139000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7796000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7796000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7796000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31531000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.25
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32239000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.24
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31700000.0
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.25
+IXYS Corp,IXYS,,0000945699,2015.0,Q4,2015-01-01,2015-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,82047000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,82047000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,56445000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,56445000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25602000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10636000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7683000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1579000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19898000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5704000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,314000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,47000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-790000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1057000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4647000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1662000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2985000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2985000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2985000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31746000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.09
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32733000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,33200000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.09
+IXYS Corp,IXYS,,0000945699,2016.0,Q1,2015-04-01,2015-06-30,2016-08-02 17:13:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.035
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,80257000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,80257000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,54245000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,54245000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26012000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9801000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7804000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1374000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18979000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7033000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,284000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,39000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1010000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1255000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5778000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2505000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3273000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3273000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3273000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31651000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32380000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,32700000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+IXYS Corp,IXYS,,0000945699,2016.0,Q2,2015-07-01,2015-09-30,2016-11-03 15:57:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,75133000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,75133000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,51104000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,51104000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24029000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9158000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7280000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1329000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17767000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6262000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,432000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,54000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,290000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-88000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6174000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3888000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2286000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2286000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2286000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31487000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.07
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32343000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.07
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,32700000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.07
+IXYS Corp,IXYS,,0000945699,2016.0,Q3,2015-10-01,2015-12-31,2017-02-07 06:11:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,79772000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,79772000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,55657000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,55657000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24115000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8789000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7219000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1273000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17281000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6834000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,611000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,72000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,595000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,56000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6890000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,693000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6197000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6197000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6197000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31579000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.21
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32381000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.2
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31400000.0
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.21
+IXYS Corp,IXYS,,0000945699,2016.0,Q4,2016-01-01,2016-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,80638000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,80638000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,56644000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,56644000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,23994000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10038000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7910000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,1017000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18965000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5029000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,635000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,62000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,815000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,242000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5271000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2252000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3019000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3019000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3019000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31401000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.1
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32001000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,30200000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.1
+IXYS Corp,IXYS,,0000945699,2017.0,Q1,2016-04-01,2016-06-30,2017-08-04 10:29:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.04
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,78629000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,78629000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,53174000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,53174000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25455000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10140000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7848000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,696000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18684000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6771000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,615000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,53000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,586000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,24000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6795000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2860000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3935000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3935000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3935000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31490000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.12
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32145000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.12
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,32800000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.12
+IXYS Corp,IXYS,,0000945699,2017.0,Q2,2016-07-01,2016-09-30,2017-11-03 06:23:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,79484000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,79484000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,52545000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,52545000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26939000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10276000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,6703000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,750000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,1391000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19120000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7819000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,646000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,81000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-110000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-675000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7144000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2044000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5100000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5100000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5100000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31558000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32209000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31900000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+IXYS Corp,IXYS,,0000945699,2017.0,Q3,2016-10-01,2016-12-31,2017-02-07 06:11:06+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,83372000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,83372000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,54178000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,54178000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29194000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11279000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8077000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,605000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19961000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9233000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,649000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,69000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1037000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,457000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9690000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,396000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,9294000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,9294000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,9294000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31544000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,32248000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31400000.0
+IXYS Corp,IXYS,,0000945699,2017.0,Q4,2017-01-01,2017-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,83542000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,83542000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,56996000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,56996000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26546000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10006000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,7573000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,596000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,18175000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8371000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,694000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,79000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-515000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1130000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7241000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1747000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5494000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5494000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5494000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,32086000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,33044000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,32300000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.17
+IXYS Corp,IXYS,,0000945699,2018.0,Q1,2017-04-01,2017-06-30,2017-08-04 10:29:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,87684000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,87684000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,60897000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,60897000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26787000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12891000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,8231000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,597000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,21719000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5068000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,434000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,89000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-190000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-535000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4533000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1070000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3463000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3463000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3463000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,32642000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,34099000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.1
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31500000.0
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
+IXYS Corp,IXYS,,0000945699,2018.0,Q2,2017-07-01,2017-09-30,2017-11-03 06:23:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0

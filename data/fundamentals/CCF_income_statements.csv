@@ -1,0 +1,806 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,31267000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,31267000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,20060000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,20060000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,11207000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6588000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6588000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4619000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,93000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,116000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,23000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4642000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1717000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2925000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2925000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2925000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8696727.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8754086.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,8900000.0
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Chase Corp,CCF,,0000830524,2011.0,Q1,2010-09-01,2010-11-30,2012-01-09 16:47:20+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.35
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,26261000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,26261000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,17441000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,17441000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,8820000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6594000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6594000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2226000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,87000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,8000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-79000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2147000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,727000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1420000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1420000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1420000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8718893.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8757070.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,8900000.0
+Chase Corp,CCF,,0000830524,2011.0,Q2,2010-12-01,2011-02-28,2012-04-09 15:25:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,32626000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,32626000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21230000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21230000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,11396000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7209000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7209000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4187000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,45000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,48000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4190000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1224000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2966000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2966000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2966000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8733336.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8778884.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9000000.0
+Chase Corp,CCF,,0000830524,2011.0,Q3,2011-03-01,2011-05-31,2012-07-10 16:45:48+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,32886000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,32886000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21586000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21586000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,11300000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6389000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6389000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4911000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,-29000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,254000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,283000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5194000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1574000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3620000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3620000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3620000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8721452.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8763808.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9000000.0
+Chase Corp,CCF,,0000830524,2011.0,Q4,2011-06-01,2011-08-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,32130000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,32130000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21999000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21999000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,10131000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6992000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6992000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3139000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,477000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,441000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3580000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1253000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2327000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2327000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2327000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8754020.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8761058.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9000000.0
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+Chase Corp,CCF,,0000830524,2012.0,Q1,2011-09-01,2011-11-30,2013-01-09 12:49:04+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.35
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,29421000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,29421000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,21022000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,21022000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,8399000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,6513000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,6513000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1886000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,36000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-8000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-44000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1842000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,645000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1197000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1197000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1197000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8758063.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.13
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8791052.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.13
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9200000.0
+Chase Corp,CCF,,0000830524,2012.0,Q2,2011-12-01,2012-02-29,2013-04-09 15:48:07+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.13
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,35139000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,35139000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,22210000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,22210000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,12929000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7603000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7603000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5326000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,31000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-266000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-297000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5029000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1656000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3373000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3373000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3373000.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8766112.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.37
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8798269.0
+Chase Corp,CCF,,0000830524,2012.0,Q3,2012-03-01,2012-05-31,2013-07-10 16:14:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.37
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,53400000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,53400000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37271000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37271000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,16129000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10539000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10539000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5590000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,362000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,69000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-293000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5297000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1820000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3477000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3477000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-63000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3540000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8851314.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8927970.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.39
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9100000.0
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+Chase Corp,CCF,,0000830524,2013.0,Q1,2012-09-01,2012-11-30,2014-01-09 17:12:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.4
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,48372000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,48372000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,33468000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,33468000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,14904000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10917000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10917000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3987000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,314000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,215000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-99000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3888000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1395000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2493000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2493000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-151000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2644000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8854801.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.29
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8952938.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9100000.0
+Chase Corp,CCF,,0000830524,2013.0,Q2,2012-12-01,2013-02-28,2014-04-09 14:21:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.29
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,55732000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,55732000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,36833000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,36833000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18899000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10784000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10784000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8115000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,312000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-314000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7801000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2730000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5071000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5071000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-63000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5134000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8864047.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.57
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8966756.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.56
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9000000.0
+Chase Corp,CCF,,0000830524,2013.0,Q3,2013-03-01,2013-05-31,2014-07-10 16:18:12+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.57
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,58558000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,58558000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,38463000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,38463000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20095000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10996000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10996000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9099000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,306000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,31000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-275000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8824000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3125000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5699000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5699000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-197000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5896000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8860972.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.65
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,8978438.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9100000.0
+Chase Corp,CCF,,0000830524,2013.0,Q4,2013-06-01,2013-08-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.65
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,54183000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,54183000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35478000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35478000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18705000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10439000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10439000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8266000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,303000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5601000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,5298000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13564000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4747000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8817000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8817000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,42000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8775000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8938149.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.96
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9149677.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.94
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9100000.0
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.96
+Chase Corp,CCF,,0000830524,2014.0,Q1,2013-09-01,2013-11-30,2015-01-09 13:32:15+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.45
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,51191000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,51191000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,33951000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,33951000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,17240000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9930000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,9930000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7310000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,285000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-125000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-410000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6900000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2415000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4485000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4485000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-35000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4520000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8942045.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9166370.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.48
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9000000.0
+Chase Corp,CCF,,0000830524,2014.0,Q2,2013-12-01,2014-02-28,2015-04-09 16:35:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,57598000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,57598000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37067000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37067000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20531000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10518000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10518000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10013000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,278000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-288000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,9725000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3404000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6321000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6321000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-3000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6324000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8950763.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.69
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9165482.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.68
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9200000.0
+Chase Corp,CCF,,0000830524,2014.0,Q3,2014-03-01,2014-05-31,2015-07-10 16:04:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.69
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,61034000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,61034000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,38697000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,38697000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,22337000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11753000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11753000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10584000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,277000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-283000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10301000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3401000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6900000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6900000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-112000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7012000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,8952026.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.77
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9165666.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.76
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9100000.0
+Chase Corp,CCF,,0000830524,2014.0,Q4,2014-06-01,2014-08-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.77
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,55933000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,55933000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,34480000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,34480000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21453000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10795000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10795000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10658000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,274000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,385000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,111000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10769000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3769000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7000000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7000000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,95000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6905000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9050048.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.76
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9221796.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.74
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9100000.0
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.76
+Chase Corp,CCF,,0000830524,2015.0,Q1,2014-09-01,2014-11-30,2016-01-11 16:29:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.6
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,52304000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,52304000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,34235000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,34235000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18069000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11340000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,584000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11924000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6145000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,270000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,381000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,111000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6256000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2190000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4066000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4066000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4066000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9065511.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.45
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9224985.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9000000.0
+Chase Corp,CCF,,0000830524,2015.0,Q2,2014-12-01,2015-02-28,2016-04-08 16:21:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.45
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,64898000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,64898000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40144000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40144000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24754000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12125000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12125000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12629000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,266000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-500000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-766000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11863000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4697000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7166000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7166000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7166000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9093602.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9245953.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.77
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9200000.0
+Chase Corp,CCF,,0000830524,2015.0,Q3,2015-03-01,2015-05-31,2016-07-08 16:02:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,64911000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,64911000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40343000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40343000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24568000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11755000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11755000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12813000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,253000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-222000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-475000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12338000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4157000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8181000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8181000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8181000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9086043.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.88
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9254054.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.87
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9200000.0
+Chase Corp,CCF,,0000830524,2015.0,Q4,2015-06-01,2015-08-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.88
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,57478000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,57478000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,34717000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,34717000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,22761000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11510000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,365000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11875000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10886000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,250000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,750000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11636000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4187000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7449000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7449000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7449000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9141620.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9282670.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9200000.0
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+Chase Corp,CCF,,0000830524,2016.0,Q1,2015-09-01,2015-11-30,2017-01-06 17:29:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.65
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,54924000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,54924000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,34895000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,34895000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20029000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10226000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,209000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10435000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9594000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,260000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1419000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1159000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10753000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3781000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6972000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6972000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6972000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9155365.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.75
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9292224.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.74
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Chase Corp,CCF,,0000830524,2016.0,Q2,2015-12-01,2016-02-29,2017-04-07 16:31:47+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.75
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,64236000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,64236000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,38542000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,38542000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25694000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11770000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,662000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12432000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13262000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,284000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-512000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-796000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12466000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4935000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7531000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7531000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7531000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9173252.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.81
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9311798.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.8
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Chase Corp,CCF,,0000830524,2016.0,Q3,2016-03-01,2016-05-31,2017-07-07 16:37:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.81
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,61456000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,61456000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,36284000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,36284000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25172000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11068000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,64000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11132000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,14040000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,260000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1475000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1215000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,15255000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4400000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10855000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10855000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10855000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9167333.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.18
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9294077.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.16
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9200000.0
+Chase Corp,CCF,,0000830524,2016.0,Q4,2016-06-01,2016-08-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.18
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,61357000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,61357000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35289000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35289000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26068000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11752000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,611000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12363000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13705000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,246000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1191000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,945000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14650000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4287000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10363000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10363000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10363000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9228338.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.11
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9321002.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.1
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.11
+Chase Corp,CCF,,0000830524,2017.0,Q1,2016-09-01,2016-11-30,2018-01-09 16:13:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.7
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,57308000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,57308000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,32858000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,32858000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24450000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11518000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,23000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11541000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12909000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,307000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,41000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-266000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12643000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4260000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8383000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8383000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8383000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9246021.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.9
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9360398.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.89
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Chase Corp,CCF,,0000830524,2017.0,Q2,2016-12-01,2017-02-28,2018-04-09 16:44:14+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.9
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,64901000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,64901000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,37511000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,37511000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,27390000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12297000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12297000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15093000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,158000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2177000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2019000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,17112000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5257000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11855000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11855000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11855000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9258219.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.27
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9336725.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.26
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Chase Corp,CCF,,0000830524,2017.0,Q3,2017-03-01,2017-05-31,2018-07-06 16:53:54+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.27
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,68994000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,68994000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,40378000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,40378000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,28616000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11104000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,20000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11124000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17492000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,128000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-877000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1005000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16487000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5074000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11413000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11413000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11413000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9249343.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.21
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9357414.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.19
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9400000.0
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.21
+Chase Corp,CCF,,0000830524,2017.0,Q4,2017-06-01,2017-08-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.7
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,61917000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,61917000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,36895000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,36895000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25022000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11896000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11896000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13126000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,45000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-482000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-527000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12599000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4284000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8315000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8315000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8315000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9281877.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.89
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9384426.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.88
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9300000.0
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.89
+Chase Corp,CCF,,0000830524,2018.0,Q1,2017-09-01,2017-11-30,2019-01-08 16:18:21+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.8
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,65875000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,65875000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,41991000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,41991000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,23884000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11975000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,393000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12368000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11516000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,440000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,664000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,224000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11740000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1618000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10122000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10122000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10122000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9289372.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.08
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9329308.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.07
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9400000.0
+Chase Corp,CCF,,0000830524,2018.0,Q2,2017-12-01,2018-02-28,2019-04-09 17:12:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.08
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,78918000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,78918000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,48252000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,48252000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,30666000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13542000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13542000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17124000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,389000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1917000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1528000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,18652000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5109000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,13543000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,13543000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,13543000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9306498.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.44
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9373183.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.43
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9400000.0
+Chase Corp,CCF,,0000830524,2018.0,Q3,2018-03-01,2018-05-31,2019-07-09 17:04:42+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.44
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,77478000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,77478000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,47998000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,47998000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29480000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14230000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1272000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,15502000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13978000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,298000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,294000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-4000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,13974000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2811000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11163000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11163000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11163000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9296648.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.19
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9366071.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.18
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9400000.0
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.19
+Chase Corp,CCF,,0000830524,2018.0,Q4,2018-06-01,2018-08-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.8
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,72503000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,72503000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,46575000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,46575000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25928000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13362000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,260000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13622000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12306000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,204000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-294000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-498000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,11808000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2985000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8823000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8823000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8823000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9329570.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.94
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9381303.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.93
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9400000.0
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.94
+Chase Corp,CCF,,0000830524,2019.0,Q1,2018-09-01,2018-11-30,2020-01-08 16:58:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.8
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,66631000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,66631000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,43213000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,43213000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,23418000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13086000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,2410000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,15496000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7922000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,162000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-828000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-990000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6932000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1659000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5273000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5273000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5273000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9332288.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.56
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9373030.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.56
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,-527300000.0
+Chase Corp,CCF,,0000830524,2019.0,Q2,2018-12-01,2019-02-28,2019-04-09 17:12:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.01
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,72112000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,72112000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,46406000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,46406000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25706000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13251000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,193000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13444000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12262000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,91000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,17000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-74000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12188000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,3647000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8541000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8541000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8541000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9337436.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.91
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9378910.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.9
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9400000.0
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.91
+Chase Corp,CCF,,0000830524,2019.0,Q3,2019-03-01,2019-05-31,2020-07-08 16:50:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,70105000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,70105000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,43969000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,43969000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26136000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13029000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,533000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13562000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12574000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,62000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,113000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,51000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,12625000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2551000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,10074000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,10074000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,10074000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,9334232.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.07
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,9379207.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.07
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,9400000.0
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.64
+Chase Corp,CCF,,0000830524,2019.0,Q4,2019-06-01,2019-08-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.8

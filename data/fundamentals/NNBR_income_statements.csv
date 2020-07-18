@@ -1,0 +1,982 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,92693000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,92693000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,73423000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,73423000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,19270000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7150000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4842000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,667000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,2000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12661000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6609000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1755000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1789000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,34000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6643000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1520000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5123000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5123000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5123000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,16522000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,16633000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q2,2010-04-01,2010-06-30,2011-08-09 06:08:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,90996000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,90996000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,75066000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,75066000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,15930000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7316000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4189000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,823000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,676000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13004000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2926000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1775000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1407000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3182000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-256000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,752000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1008000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1008000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1008000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,16526000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,16526000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,16800000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2010.0,Q3,2010-07-01,2010-09-30,2011-11-08 17:01:41+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,111307000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,111307000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,90299000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,90299000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21008000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7966000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4035000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-209000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-1000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11791000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9217000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1224000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1036000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2260000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6957000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1450000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5507000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5507000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5507000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,16664000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,16910000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q1,2011-01-01,2011-03-31,2012-05-08 11:10:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,115922000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,115922000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,94657000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,94657000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21265000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7720000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4291000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,3000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12014000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9251000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1220000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-155000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1375000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7876000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2049000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5827000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5827000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5827000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,16864000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17119000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,16600000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q2,2011-04-01,2011-06-30,2012-08-08 15:32:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,101143000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,101143000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,83575000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,83575000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,17568000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7498000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4298000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-23000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11773000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5795000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1169000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1462000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,293000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6088000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1386000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4702000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4702000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4702000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,16949000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17061000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,16800000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q3,2011-07-01,2011-09-30,2012-11-08 12:36:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,96319000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,96319000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,79091000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,79091000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,17228000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7473000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4392000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,209000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-15000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12059000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5169000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1102000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1117000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,15000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,5184000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,283000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4901000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4901000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4901000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,16817000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,16953000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,16900000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.61
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,104519000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,104519000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,82969000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,82969000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21550000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8068000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4457000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-8000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12517000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,9033000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1211000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-438000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1649000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7384000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1475000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5909000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5909000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5909000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,16961000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17075000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.35
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,16900000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q1,2012-01-01,2012-03-31,2013-05-10 09:28:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,98824000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,98824000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,77848000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,77848000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20976000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8312000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4389000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12701000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8275000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1116000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1239000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,123000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,8398000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1360000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7038000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7038000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7038000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17026000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17139000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17200000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q2,2012-04-01,2012-06-30,2013-08-08 10:22:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,86586000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,86586000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,68426000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,68426000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18160000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7886000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4357000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12243000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5917000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,1061000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-765000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1826000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4091000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,976000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3115000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3115000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3115000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17044000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17150000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17300000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q3,2012-07-01,2012-09-30,2013-11-08 13:23:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,80155000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,80155000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,65616000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,65616000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,14539000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7295000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4440000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,967000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-9000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12693000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1846000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,490000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-888000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1378000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,468000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-7738000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,8206000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,8206000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,8206000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17009000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.49
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17114000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.48
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17000000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2012.0,Q4,2012-10-01,2012-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.49
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,93797000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,93797000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,74517000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,74517000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,19280000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9106000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4531000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,4000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13641000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5639000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,785000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-579000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1364000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4275000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1404000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2871000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2871000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2871000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17055000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17162000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,16900000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.17
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q1,2013-01-01,2013-03-31,2014-05-09 08:31:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,96305000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,96305000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,75751000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,75751000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20554000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8339000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4294000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,1000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12634000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7920000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,709000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,214000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-495000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7425000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2655000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4770000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4770000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4770000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17136000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.28
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17172000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.28
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17000000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.28
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q2,2013-04-01,2013-06-30,2014-08-08 12:06:55+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,93023000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,93023000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,73020000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,73020000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20003000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8099000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4110000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12209000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7794000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,655000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,281000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-374000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7420000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2368000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5052000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5052000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5052000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17302000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.29
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17450000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17400000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.29
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q3,2013-07-01,2013-09-30,2014-11-10 06:12:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,90081000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,90081000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,71848000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,71848000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,18233000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7737000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4022000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11759000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6474000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,225000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-191000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-416000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6058000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1573000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4485000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4485000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4485000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17176000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17260000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.26
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17200000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2013.0,Q4,2013-10-01,2013-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,102528000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,102528000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,80283000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,80283000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,22245000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10030000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3877000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,13907000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8338000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,564000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-83000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-647000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7691000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2453000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5238000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5238000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5238000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17656000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17962000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17500000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q1,2014-01-01,2014-03-31,2015-05-07 10:04:11+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,106680000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,106680000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,84285000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,84285000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,22395000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10074000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,4084000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,14158000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8237000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,551000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-129000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-680000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7557000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2357000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5200000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5200000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5200000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17779000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.29
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18172000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.29
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17900000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.29
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q2,2014-04-01,2014-06-30,2015-08-06 10:04:57+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,125632000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,125632000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,100441000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,100441000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25191000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11124000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,5864000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,5651000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22639000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2552000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5622000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1557000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7179000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-4627000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-562000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,225000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3840000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-3840000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-3840000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17979000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.21
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,17979000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.21
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18300000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.21
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q3,2014-07-01,2014-09-30,2015-11-05 10:11:09+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,153761000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,153761000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,119880000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,119880000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,33881000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12528000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8321000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4472000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,25321000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8560000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5556000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-453000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6009000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2551000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1538000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,606000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1619000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1619000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1619000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,17887000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,18253000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,17900000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2014.0,Q4,2014-10-01,2014-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,163746000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,163746000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,129317000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,129317000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,34429000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,12001000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8494000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20495000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13934000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5938000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1400000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-7338000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6596000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1456000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,861000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6001000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6001000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6001000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,18996000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19380000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,18800000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q1,2015-01-01,2015-03-31,2016-05-05 10:06:37+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,164856000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,164856000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,128708000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,128708000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,36148000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,13962000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8597000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22559000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13589000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6021000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-19000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-6040000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7549000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1617000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1021000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6953000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6953000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6953000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,19215000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.36
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,19582000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.36
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,19300000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.36
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q2,2015-04-01,2015-06-30,2016-08-04 15:52:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,154824000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,154824000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,120195000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,120195000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,34629000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11949000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,8610000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,3948000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,24507000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,10122000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4584000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-593000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5177000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4945000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,936000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,621000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4630000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4630000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4630000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26839000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.17
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27167000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.17
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27200000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.17
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q3,2015-07-01,2015-09-30,2016-11-04 11:53:03+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,-77983000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,-77983000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,-57588000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,-57588000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-20395000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,-3039000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,7272000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-24000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,12983000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,17192000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-37587000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,32212000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1491000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30721000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-68308000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-23851000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,2498000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-41959000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,17889000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-24070000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-24070000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,21181000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-1.16
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,21181000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-1.15
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,20900000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-1.16
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2015.0,Q4,2015-10-01,2015-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,212226000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,212226000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,159754000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,159754000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,52472000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20712000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,17348000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2538000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,40598000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,11874000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16422000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1129000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15293000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3419000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-720000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1400000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1299000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-1299000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-1299000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,26869000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.05
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,26869000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.05
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26000000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.05
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q1,2016-01-01,2016-03-31,2017-05-04 11:46:58+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,214272000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,214272000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,156794000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,156794000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,57478000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,20993000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,15136000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4047000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,40176000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,17302000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16631000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,824000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15807000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1495000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,719000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1343000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2119000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2119000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2119000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27024000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.08
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27187000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.08
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26500000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.08
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q2,2016-04-01,2016-06-30,2017-08-14 16:12:35+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,146714000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,146714000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,107185000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,107185000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,39529000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,14201000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,11737000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,606000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,26544000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12985000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,18390000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3476000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-21866000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-8881000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-8246000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1427000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,792000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3663000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4455000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4455000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27159000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.16
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27322000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.16
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27800000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.16
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q3,2016-07-01,2016-09-30,2017-11-09 17:17:11+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,11742000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,11742000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,5110000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,5110000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,6632000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8238000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,6500000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,809000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-1533000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,14014000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-7382000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14016000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1337000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-12679000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-20061000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-7191000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1768000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-11102000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,12490000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1388000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1388000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27016000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27016000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,26700000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.06
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2016.0,Q4,2016-10-01,2016-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,157555000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,157555000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,114480000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,114480000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,43075000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16641000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,12571000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,11000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,29223000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,13852000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14839000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,810000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14029000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-177000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-377000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1693000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1893000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5518000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7411000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7411000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27303000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27634000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27400000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q1,2017-01-01,2017-03-31,2018-05-10 16:23:09+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,157947000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,157947000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,114514000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,114514000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,43433000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,18004000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,13051000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-270000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,6000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,30791000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,12642000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,51977000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-386000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-52363000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-39721000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-12103000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1244000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-26374000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5236000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-21138000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-21138000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27468000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.77
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27468000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.77
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27100000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.78
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q2,2017-04-01,2017-06-30,2018-08-09 16:00:02+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,148156000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,148156000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,111272000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,111272000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,36884000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,16985000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,13384000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,964000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,31333000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5551000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,12739000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,782000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11957000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-6406000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1724000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1202000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-3480000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,129441000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,125961000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,netincometocommon,otheradjustmentstonetincometocommon,Other Adjustments to Net Income / (Loss) Attributable to Common Shareholders),-,debit,usd,-9243000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,135204000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27544000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,4.57
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27544000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.57
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28100000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,4.82
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q3,2017-07-01,2017-09-30,2018-11-08 17:24:46+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,156135000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,156135000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,120148000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,120148000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,35987000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22482000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,13400000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,621000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-251000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,36252000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-265000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14617000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,979000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-13638000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-13903000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-65341000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1072000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,52510000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-2507000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,50003000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,otheradjustmentstonetincometocommon,Other Adjustments to Net Income / (Loss) Attributable to Common Shareholders),-,debit,usd,9243000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,40760000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27433000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.84
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27755000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.78
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27300000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.63
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,169148000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,169148000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,126444000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,126444000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,42704000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22177000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,14281000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,22000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2531000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,39011000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3693000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,11996000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,313000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-11683000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-7990000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1176000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,831000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5983000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5983000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-5983000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27597000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.22
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27597000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.22
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27200000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.22
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q1,2018-01-01,2018-03-31,2019-05-10 12:20:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,196349000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,196349000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,148640000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,148640000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,47709000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26641000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,16258000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,74000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,5028000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,48001000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-292000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28926000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1887000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30813000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-31105000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5947000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,647000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-24511000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-24511000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-24511000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,27696000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.89
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,27696000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.89
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,27500000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.89
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q2,2018-04-01,2018-06-30,2019-08-09 12:29:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,205683000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,205683000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,156408000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,156408000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,49275000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22480000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,21259000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-733000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,388000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,43394000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5881000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25232000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-308000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25540000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-19659000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-5609000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,266000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-13784000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-13784000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-13784000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,28688000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.48
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,28688000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.48
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,28700000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.48
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q3,2018-07-01,2018-09-30,2019-11-08 08:57:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,199477000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,199477000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,157689000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,157689000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,41788000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,22285000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,19330000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,6726000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,182542000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,51000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,230934000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-189146000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14651000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,541000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14110000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-203256000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-681000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-16134000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-218709000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-218709000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-218709000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,31678000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-6.71
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,31678000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-6.71
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,31500000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-6.76
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2018.0,Q4,2018-10-01,2018-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,213256000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,213256000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,162187000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,162187000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,51069000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,28125000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,23425000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-152000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totaloperatingexpenses,impairmentexpense,Impairment Charge,+,debit,usd,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-12000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,51386000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-317000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,16500000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-729000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-17229000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-17546000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2241000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,269000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-19518000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-19518000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-19518000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,41972000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.47
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,41972000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.47
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,44400000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.44
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 14:59:29+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,221666000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,221666000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,163513000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,163513000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,58153000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,26743000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,22924000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,388000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,50055000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8098000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,13958000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-57000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14015000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5917000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,577000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,-203000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-6697000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-6697000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-6697000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42028000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.16
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42028000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.16
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,41900000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.16
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q2,2019-04-01,2019-06-30,2019-08-09 12:29:32+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,213897000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,213897000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,160816000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,160816000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,53081000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24043000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,22621000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-1255000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,0.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,45409000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,7672000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,14733000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-98000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-14831000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-7159000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1283000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,279000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-5597000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-5597000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-5597000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42038000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.13
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42038000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.13
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,43100000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.13
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q3,2019-07-01,2019-09-30,2019-11-08 08:57:17+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.07
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,198632000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,198632000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,155123000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,155123000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,43509000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,24312000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,22876000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,1885000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,49073000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-5564000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,15257000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-256000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-15513000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-21077000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-4812000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,netincomecontinuing,othergains,"Other Gains / (Losses), net",+,credit,usd,1336000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-14929000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-14929000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-14929000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,42030000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.37
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,42030000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.37
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,41400000.0
+NN Inc,NNBR,549300SU3TUM6VH84645,0000918541,2019.0,Q4,2019-10-01,2019-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.4
