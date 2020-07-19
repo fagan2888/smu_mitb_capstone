@@ -195,11 +195,14 @@ class DataGetter:
         res = []
         for f in obj.fundamentals:
             (details, _) = self.getFundamentalsDetails(f.id)
-            key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
-            (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
-            ret.append(info)
-            res.append(code)
-            sleep(0.5)
+            if details is not None:
+                key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
+                (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
+                ret.append(info)
+                res.append(code)
+                sleep(0.5)
+            else:
+                print(f"Fundamentals not found: {f.id}")
 
         return (ret, res)
     
@@ -213,11 +216,14 @@ class DataGetter:
 
         for f in obj.fundamentals:
             (details, _) = self.getFundamentalsDetails(f.id)
-            key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
-            (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
-            ret.append(info)
-            res.append(code)
-            sleep(0.5)
+            if details is not None:
+                key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
+                (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
+                ret.append(info)
+                res.append(code)
+                sleep(0.5)
+            else:
+                print(f"Fundamentals not found: {f.id}")
 
         return (ret, res)
 
@@ -231,11 +237,14 @@ class DataGetter:
 
         for f in obj.fundamentals:
             (details, _) = self.getFundamentalsDetails(f.id)
-            key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
-            (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
-            ret.append(info)
-            res.append(code)
-            sleep(0.5)
+            if details is not None:
+                key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
+                (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
+                ret.append(info)
+                res.append(code)
+                sleep(0.5)
+            else:
+                print(f"Fundamentals not found: {f.id}")
 
         return (ret, res)
 
