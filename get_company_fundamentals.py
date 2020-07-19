@@ -27,7 +27,7 @@ def getCompanyfundamentals(id, outfolder, get_income_statements=True, get_balanc
     call = (get_income_statements or get_balance_sheets or get_cashflows)
 
     if call:
-        for y in range(START_DATE.year, END_DATE.year):
+        for y in range(START_DATE.year, END_DATE.year+1):
             start_time = time()
             if get_income_statements:
                 (i, _) = data_getter.getIncomeStatementByCompanyFiscalYear(id, y)
