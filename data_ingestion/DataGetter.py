@@ -168,11 +168,11 @@ class DataGetter:
 
     
     @classmethod
-    def _getFundementalsKey(cls, company_id, statement_type, year, quater):
-        return '-'.join([company_id, statement_type, str(year), 'Q%d' %quater])
+    def _getFundementalsKey(cls, company_id, statement_type, year, period):
+        return '-'.join([company_id, statement_type, str(year), period])
 
 
-    def _getFundementalsByCompanyPeriod(self, key, with_http_info=False):
+    def _getFundamentalsByCompanyPeriod(self, key, with_http_info=False):
         obj = None
         response = None
         try:
@@ -187,19 +187,57 @@ class DataGetter:
         return (obj, response)
 
 
-    def getIncomeStatementByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
-        key = DataGetter._getFundementalsKey(company_id, DataGetter.TAG_INCOME_STATEMENT, year, quater)
-        return self._getFundementalsByCompanyPeriod(key, with_http_info)
+    def getIncomeStatementByCompanyFiscalYear(self, company_id, year, with_http_info=False):
+        (obj, _) = self.getFundamentalsByCompany(company_id, year=year, statement_type=DataGetter.TAG_INCOME_STATEMENT)
+        sleep(0.5)
+
+        ret = []
+        res = []
+        for f in obj.fundamentals:
+            (details, _) = self.getFundamentalsDetails(f.id)
+            key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
+            (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
+            ret.append(info)
+            res.append(code)
+            sleep(0.5)
+
+        return (ret, res)
     
 
-    def getCashflowByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
-        key = DataGetter._getFundementalsKey(company_id, DataGetter.TAG_CASHFLOW_STATEMENT, year, quater)
-        return self._getFundementalsByCompanyPeriod(key, with_http_info)
+    def getCashflowByCompanyFiscalYear(self, company_id, year, with_http_info=False):
+        (obj, _) = self.getFundamentalsByCompany(company_id, year=year, statement_type=DataGetter.TAG_CASHFLOW_STATEMENT)
+        sleep(0.5)
+
+        ret = []
+        res = []
+
+        for f in obj.fundamentals:
+            (details, _) = self.getFundamentalsDetails(f.id)
+            key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
+            (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
+            ret.append(info)
+            res.append(code)
+            sleep(0.5)
+
+        return (ret, res)
 
 
-    def getBalanceSheetByCompanyPeriod(self, company_id, year, quater, with_http_info=False):
-        key = DataGetter._getFundementalsKey(company_id, DataGetter.TAG_BALANCE_SHEET, year, quater)
-        return self._getFundementalsByCompanyPeriod(key, with_http_info)
+    def getBalanceSheetByCompanyFiscalYear(self, company_id, year, with_http_info=False):
+        (obj, _) = self.getFundamentalsByCompany(company_id, year=year, statement_type=DataGetter.TAG_BALANCE_SHEET)
+        sleep(0.5)
+
+        ret = []
+        res = []
+
+        for f in obj.fundamentals:
+            (details, _) = self.getFundamentalsDetails(f.id)
+            key = self._getFundementalsKey(obj.company.ticker, details.statement_code, str(int(details.fiscal_year)), details.fiscal_period)
+            (info, code) = self._getFundamentalsByCompanyPeriod(key, with_http_info)
+            ret.append(info)
+            res.append(code)
+            sleep(0.5)
+
+        return (ret, res)
 
 
     def _getDistinctDataTags(self, type='', statement_code='', fs_template='', with_http_info=False):
@@ -267,16 +305,16 @@ class DataGetter:
         return (df, response)
 
 
-    def getFundementalsByCompany(self, company_id, year, with_http_info=False):
+    def getFundamentalsByCompany(self, company_id, year='', statement_type='', with_http_info=False):
         if with_http_info:
             it = self._callAPI(
                 self._company_api.get_company_fundamentals_with_http_info,
-                company_id, fiscal_year=year
+                company_id, fiscal_year=year, statement_code=statement_type, page_size=1000
             )
         else:
             it = self._callAPI(
                 self._company_api.get_company_fundamentals,
-                company_id, fiscal_year=year
+                company_id, fiscal_year=year, statement_code=statement_type, page_size=1000
             )
         
         response = []
@@ -288,3 +326,17 @@ class DataGetter:
             response.append(res)
 
         return (ret, response)
+
+
+    def getFundamentalsDetails(self, fundamental_id, with_http_info=False):
+        obj = None
+        response = None
+        try:
+            if with_http_info:
+                (obj, response, _) = self._fundementals_api.get_fundamental_by_id_with_http_info(fundamental_id)
+            else:
+                obj = self._fundementals_api.get_fundamental_by_id(fundamental_id)
+        except ApiException as e:
+            print(DataGetter.MSG_EXCEPTION % (__name__, e))
+        
+        return (obj, response)

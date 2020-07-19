@@ -2,15 +2,16 @@ from data_ingestion import DataGetter
 from data_ingestion import DataParser
 from pprint import pprint
 from datetime import datetime
-from os import path
-from time import sleep
+from os import path, makedirs
+from time import sleep, time
 import pandas as pd
 
 BASE_DIR = './data/fundamentals'
 START_DATE = datetime(2007,1,1)
 END_DATE = datetime.today()
-API_KEY = 'OmE3ODc4NGMzNDY3NzgzYjRiYzczN2ZhMGY4OWQwNGE5'
-data_getter = DataGetter(API_KEY)
+PRD_KEY = 'OmE3ODc4NGMzNDY3NzgzYjRiYzczN2ZhMGY4OWQwNGE5'
+SBX_KEY = 'OmRkZWJjNmI4MGMxM2NmMmU1Yjg5NTY0ODMyMzFkY2Ey'
+data_getter = DataGetter(PRD_KEY)
 data_parser = DataParser()
 
 
@@ -19,29 +20,38 @@ def getAllCompanies():
     return obj.companies
 
 
-def getCompanyfundamentals(id, get_income_statements=True, get_balance_sheets=True, get_cashflows=True):
-    income_statements = {}
-    balance_sheets = {}
-    cashflows = {}
+def getCompanyfundamentals(id, outfolder, get_income_statements=True, get_balance_sheets=True, get_cashflows=True):
+    income_statements = []
+    balance_sheets = []
+    cashflows = []
     call = (get_income_statements or get_balance_sheets or get_cashflows)
 
     if call:
         for y in range(START_DATE.year, END_DATE.year):
-            for q in range(4):
-                if get_income_statements:
-                    (income_statements[f"{y}_{q+1}"], _) = data_getter.getIncomeStatementByCompanyPeriod(id, y, q+1)
-                if get_balance_sheets:
-                    (balance_sheets[f"{y}_{q+1}"], _) = data_getter.getBalanceSheetByCompanyPeriod(id, y, q+1)
-                if get_cashflows:
-                    (cashflows[f"{y}_{q+1}"], _) = data_getter.getCashflowByCompanyPeriod(id, y, q+1)
-                sleep(1.5)
+            start_time = time()
+            if get_income_statements:
+                (i, _) = data_getter.getIncomeStatementByCompanyFiscalYear(id, y)
+                income_statements.extend(i)
+                sleep(1)
+            
+            if get_balance_sheets:
+                (b, _) = data_getter.getBalanceSheetByCompanyFiscalYear(id, y)
+                balance_sheets.extend(b)
+                sleep(1)
+            
+            if get_cashflows:
+                (c, _) = data_getter.getCashflowByCompanyFiscalYear(id, y)
+                cashflows.extend(c)
+                sleep(1)
+            end_time = time()
+            print(f"{id}-{y}: {end_time-start_time}")
     
     return income_statements, balance_sheets, cashflows
 
 
 def processCompanyFundementals(statements):
     df = pd.DataFrame()
-    for _, data in statements.items():
+    for data in statements:
         if data is None:
             continue
 
@@ -61,9 +71,6 @@ if __name__ == '__main__':
 
     sleep(60)
 
-    income_statements = {}
-    balance_sheets = {}
-    cashflows = {}
     count = len(company_list)
     j = 1
     for company in company_list:
@@ -71,24 +78,36 @@ if __name__ == '__main__':
             continue
 
         print(f"{j}/{count} - Company ID: {company.ticker}")
-        i_outfile = path.join(BASE_DIR, f'{company.ticker}_income_statements.csv')
-        b_outfile = path.join(BASE_DIR, f'{company.ticker}_balanace_sheets.csv')
-        c_outfile = path.join(BASE_DIR, f'{company.ticker}_cashflows.csv')
+        outfolder = path.join(BASE_DIR, f'{company.ticker}')
+        if not path.isdir(outfolder):
+            makedirs(outfolder)
+
+        i_outfile = path.join(outfolder, f'{company.ticker}_income_statements.csv')
+        b_outfile = path.join(outfolder, f'{company.ticker}_balanace_sheets.csv')
+        c_outfile = path.join(outfolder, f'{company.ticker}_cashflows.csv')
+        get_income = not path.isfile(i_outfile)
+        get_balance = not path.isfile(b_outfile)
+        get_cashflow = not path.isfile(c_outfile)
 
         (i, b, c) = getCompanyfundamentals(
             company.ticker,
-            not path.isfile(i_outfile),
-            not path.isfile(b_outfile),
-            not path.isfile(c_outfile)
+            outfolder,
+            get_income,
+            get_balance,
+            get_cashflow
         )
-        income_statements_df = processCompanyFundementals(i)
-        income_statements_df.to_csv(i_outfile, index=False)
 
-        balance_sheets_df = processCompanyFundementals(b)
-        balance_sheets_df.to_csv(b_outfile, index=False)
+        if get_income:
+            income_statements_df = processCompanyFundementals(i)
+            income_statements_df.to_csv(i_outfile, index=False)
 
-        cashflows_df = processCompanyFundementals(c)
-        cashflows_df.to_csv(c_outfile, index=False)
+        if get_balance:
+            balance_sheets_df = processCompanyFundementals(b)
+            balance_sheets_df.to_csv(b_outfile, index=False)
+
+        if get_cashflow:
+            cashflows_df = processCompanyFundementals(c)
+            cashflows_df.to_csv(c_outfile, index=False)
 
         j+=1
 

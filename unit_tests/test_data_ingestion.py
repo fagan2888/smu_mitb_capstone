@@ -76,50 +76,63 @@ class TestDataIngestion(TestCase):
         sleep(0.5)
     
 
-    def test_DataGetter_getIncomeStatementByCompanyPeriod(self):
-        print("test_DataGetter_getIncomeStatementByCompanyPeriod")
-        (obj, response) = self.data_getter.getIncomeStatementByCompanyPeriod(TestDataIngestion.TEST_COMPANY, 2020, 1, with_http_info=True)
+    def test_DataGetter_getIncomeStatementByCompanyFiscalYear(self):
+        print("test_DataGetter_getIncomeStatementByCompanyFiscalYear")
+        (obj, response) = self.data_getter.getIncomeStatementByCompanyFiscalYear(TestDataIngestion.TEST_COMPANY, 2019, with_http_info=True)
 
         #pprint(obj)
 
-        assert(response == HTTPStatus.OK)
+        assert(all(_ == HTTPStatus.OK for _ in response))
         sleep(0.5)
 
 
-    def test_DataGetter_getCashflowByCompanyPeriod(self):
-        print("test_DataGetter_getCashflowByCompanyPeriod")
-        (obj, response) = self.data_getter.getCashflowByCompanyPeriod(TestDataIngestion.TEST_COMPANY, 2020, 1, with_http_info=True)
+    def test_DataGetter_getCashflowByCompanyFiscalYear(self):
+        print("test_DataGetter_getCashflowByCompanyFiscalYear")
+        (obj, response) = self.data_getter.getCashflowByCompanyFiscalYear(TestDataIngestion.TEST_COMPANY, 2019, with_http_info=True)
 
         #pprint(obj)
 
-        assert(response == HTTPStatus.OK)
+        assert(all(_ == HTTPStatus.OK for _ in response))
         sleep(0.5)
 
 
-    def test_DataGetter_getBalanceSheetByCompanyPeriod(self):
-        print("test_DataGetter_getBalanceSheetByCompanyPeriod")
-        (obj, response) = self.data_getter.getBalanceSheetByCompanyPeriod(TestDataIngestion.TEST_COMPANY, 2020, 1, with_http_info=True)
+    def test_DataGetter_getBalanceSheetByCompanyFiscalYear(self):
+        print("test_DataGetter_getBalanceSheetByCompanyFiscalYear")
+        (obj, response) = self.data_getter.getBalanceSheetByCompanyFiscalYear(TestDataIngestion.TEST_COMPANY, 2019, with_http_info=True)
 
         #pprint(obj)
 
-        assert(response == HTTPStatus.OK)
+        assert(all(_ == HTTPStatus.OK for _ in response))
         sleep(0.5)
 
-
+    """
     def test_DataGetter_getHistoricalIncomeStatementByCompany(self):
         print("test_DataGetter_getHistoricalIncomeStatementByCompany")
-        (obj, response) = self.data_getter.getHistoricalIncomeStatementByCompany(TestDataIngestion.TEST_COMPANY, '2007-01-01', '2020-01-01', with_http_info=True)
+        (obj, response) = self.data_getter.getHistoricalIncomeStatementByCompany(TestDataIngestion.TEST_COMPANY, '2019-01-01', '2020-01-01', with_http_info=True)
 
         print(obj)
 
         assert(all(_ == HTTPStatus.OK for _ in response))
         sleep(0.5)
+    """
 
-
-    def test_DataGetter_getFundementalsByCompany(self):
-        print("test_DataGetter_getFundementalsByCompany")
-        (obj, response) = self.data_getter.getFundementalsByCompany(TestDataIngestion.TEST_COMPANY, 2019, with_http_info=True)
+    def test_DataGetter_getFundamentalsByCompany(self):
+        print("test_DataGetter_getFundamentalsByCompany")
+        (obj, response) = self.data_getter.getFundamentalsByCompany(TestDataIngestion.TEST_COMPANY, 2019, with_http_info=True)
 
         #print(obj)
         assert(all(_ == HTTPStatus.OK for _ in response))
+        sleep(0.5)
+
+
+    def test_DataGetter_getFundamentalsDetails(self):
+        print("test_DataGetter_getFundamentalsDetails")
+        (obj, _) = self.data_getter.getFundamentalsByCompany(TestDataIngestion.TEST_COMPANY, 2019, DataGetter.TAG_BALANCE_SHEET)
+
+        fun = obj.fundamentals[0]
+        key = '-'.join([obj.company.ticker, fun.statement_code, str(int(fun.fiscal_year)), fun.fiscal_period])
+        (obj, response) = self.data_getter._getFundamentalsByCompanyPeriod(key, with_http_info=True)
+
+        #print(obj)
+        assert(response == HTTPStatus.OK)
         sleep(0.5)
