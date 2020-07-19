@@ -68,13 +68,18 @@ def processCompanyFundementals(statements):
 
 if __name__ == '__main__':
     company_list = getAllCompanies()
+    sp500 = pd.read_csv('s&p500_list.csv')
+    #print(sp500.head())
 
     sleep(60)
 
-    count = len(company_list)
+    count = sp500.shape[0] #len(sp500.Symbol)
     j = 1
     for company in company_list:
         if company is None or company.ticker is None:
+            continue
+
+        if company.ticker not in set(sp500.Symbol):
             continue
 
         print(f"{j}/{count} - Company ID: {company.ticker}")
