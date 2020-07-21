@@ -1,0 +1,898 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,31746000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,31746000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,25400000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,25400000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,6346000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,4575000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,4575000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1771000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2413000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-231000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,300000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2344000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-573000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-463000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-110000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,0.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-110000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,51000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-161000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,2300000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.07
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,2300000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.07
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,2300000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 14:06:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.07
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,162944000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,162944000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,139152000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,1892000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,141044000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21900000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,15828000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,3261000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,6568000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,25657000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-3757000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,10426000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,10660000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,5214000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,5448000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1691000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-143000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1834000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1839000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1831000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3216100000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3437900000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.38
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3216100000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q3YTD,2009-01-01,2009-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,102400000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,102400000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,89518000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,1642000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,91160000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,11240000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10867000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,2399000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,2208000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,15474000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-4234000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,7200000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,10122000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1891000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,4813000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,579000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-242000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,821000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,5000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,826000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-8000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,834000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3014700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.15
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3276800000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.09
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3014700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2009.0,Q2YTD,2009-01-01,2009-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.15
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,130393000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,130393000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,129698000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-416000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,129282000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1111000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,9758000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,1580000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-15408000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-4070000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5181000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,9612000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1440000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,9860000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1688000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6869000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,500000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,6369000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6369000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-2000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6371000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3442900000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.87
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3923300000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.54
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3442900000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q3YTD,2010-01-01,2010-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.87
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,98199000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,98199000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,105465000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-344000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,105121000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,-6922000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,7733000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,1154000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-19656000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,-10769000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3847000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,6674000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1028000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,6781000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1135000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4982000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,301000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4681000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4681000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-3000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4684000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3419700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.38
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4260700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.11
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3419700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2010.0,Q2YTD,2010-01-01,2010-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.38
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,143042000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,143042000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,113611000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-36000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,113575000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,29467000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10884000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10884000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,18583000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4431000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1591000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,375000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2465000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,16118000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-11541000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,27659000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,0.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,20222000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,9000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,20213000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3792300000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,5.33
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4091700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.94
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3792300000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,5.33
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2011.0,FY,2011-01-01,2011-12-31,2014-02-18 14:09:05+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.05
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,133559000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,133559000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,113039000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,83000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,113122000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,20437000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11529000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11529000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,8908000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3828000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2187000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,365000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1276000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,7632000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2026000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5606000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5606000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5613000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3818400000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.47
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3980900000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.41
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3818400000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.47
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2012.0,FY,2012-01-01,2012-12-31,2015-02-13 07:03:25+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,146917000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,146917000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,120190000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,210000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,120400000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26517000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10850000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10850000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,15667000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3689000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,2043000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,348000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1298000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,14369000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2425000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,11944000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,11944000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-7000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,11953000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3931900000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,3.04
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4065600000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.94
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3931900000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,3.04
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2013.0,FY,2013-01-01,2013-12-31,2016-02-11 08:13:33+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.4
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,144077000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,144077000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,131903000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,131903000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,12174000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11842000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,11842000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,332000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,797000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1275000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,424000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,902000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1234000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,4000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1230000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1230000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-1000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1231000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3971000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.31
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3971000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3971000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.31
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2014.0,FY,2014-01-01,2014-12-31,2017-02-09 08:44:28+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,149558000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,149558000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,131814000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,131814000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,17744000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10763000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10763000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,6981000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,773000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1818000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2226000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,3271000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,10252000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2881000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,7371000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7371000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,-2000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7373000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3964000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.86
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4007100000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.84
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3964000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.86
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2015.0,FY,2015-01-01,2015-12-31,2018-02-08 11:41:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.6
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,151800000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,151800000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,126195000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,126195000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25605000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,10972000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,8847000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,19819000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5786000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,951000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1780000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,169000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,998000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6784000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,2184000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4600000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,4600000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,11000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,4589000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3956000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.16
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3990400000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.15
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3956000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.16
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2016.0,FY,2016-01-01,2016-12-31,2019-02-21 16:10:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.85
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,156776000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,156776000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,131321000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,131321000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25455000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11527000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,9047000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20574000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4881000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4364000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1201000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3267000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,104000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4985000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,402000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4583000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3174000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7757000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,26000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7731000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3975000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.94
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3998000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.93
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3985100000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.94
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,FY,2017-01-01,2017-12-31,2020-02-05 12:01:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.65
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,41326000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,41326000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,28324000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,28324000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,13002000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,3088000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,9047000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12135000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,867000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3482000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,266000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1047000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2169000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1302000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-652000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-650000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3174000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2524000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2520000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3975000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.63
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3998000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.63
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3985100000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.63
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q4,2017-10-01,2017-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,-0.5
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,36451000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,36451000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,32534000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,32534000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,3917000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2919000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,2919000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,998000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,298000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,316000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,754000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,772000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1770000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,191000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1579000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1579000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,7000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1572000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3930000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4030800000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.39
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3930000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3,2017-07-01,2017-09-30,2018-10-24 19:14:10+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,115450000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,115450000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,102997000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,102997000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,12453000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8439000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,8439000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4014000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,882000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,935000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2220000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2273000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,6287000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,1054000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,5233000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,5233000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,22000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,5211000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3930000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.31
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4030800000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.3
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3930000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.31
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q3YTD,2017-01-01,2017-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,39853000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,39853000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35545000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35545000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,4308000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2756000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,2756000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1552000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,291000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,273000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,732000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,714000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2266000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,211000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2055000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2055000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2047000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4013700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.51
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4013700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.51
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4013700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.51
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2,2017-04-01,2017-06-30,2018-07-25 19:41:30+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,78999000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,78999000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,70463000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,70463000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,8536000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5520000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5520000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3016000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,584000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,619000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1466000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1501000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4517000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,863000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3654000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3654000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,15000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3639000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,4013700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.91
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4013700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.91
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4013700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.91
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q2YTD,2017-01-01,2017-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.35
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,39146000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,39146000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,34918000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,34918000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,4228000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2764000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,2764000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1464000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,293000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,346000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,734000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,787000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,2251000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,652000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1599000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1599000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,7000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1592000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3980000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.4
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3980000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.4
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3980000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.4
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2017.0,Q1,2017-01-01,2017-03-31,2018-04-25 19:38:26+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.2
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,160338000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,160338000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,136269000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,136269000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24069000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11403000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,9463000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20866000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3203000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5157000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,123000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2247000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2787000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,416000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,650000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-234000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3929000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3695000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,18000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3677000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3974000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.93
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3998000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.92
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3953800000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.93
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,FY,2018-01-01,2018-12-31,2020-02-05 12:01:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.73
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,44131000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,44131000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35754000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35754000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,8377000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2996000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,4450362000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10107000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,-1730000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4865638000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-129000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2781000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2216000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-3946000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,95000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4041000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3929000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,-112000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,-116000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3974000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,-0.03
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3998000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,-0.03
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3953800000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,-0.03
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q4,2018-10-01,2018-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.45
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,116207000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,116207000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,100515000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,100515000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,15692000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8407000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,5012638000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,10759000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4933000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,291362000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,252000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-534000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-571000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4362000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,555000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3807000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3807000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,14000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3793000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3976000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.96
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4000000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.95
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3964000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.96
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3YTD,2018-01-01,2018-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.28
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,157533000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,157533000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,128839000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,128839000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,28694000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11495000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,14059638000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22894000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5800000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,3773362000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,518000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,513000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2740000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3060000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-97000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3157000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3174000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6331000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,18000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6313000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3976000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.59
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4000000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.58
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3964000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.59
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q3TTM,2017-10-01,2018-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.43
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,38920000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,38920000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,33194000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,0.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,33194000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,5726000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2778000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,2660638000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,2778000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2948000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2362000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,60000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1659000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1599000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1349000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,280000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1069000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1069000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1066000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3977000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.27
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3999000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.27
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3948100000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2,2018-04-01,2018-06-30,2019-07-24 19:05:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.27
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,78541000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,78541000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,68947000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,68947000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,9594000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5525000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,2660638000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,5525000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4069000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,291362000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,284000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-796000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-801000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3268000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,454000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,2814000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2814000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,12000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2802000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3977000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.71
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3999000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.7
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3948100000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.71
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2YTD,2018-01-01,2018-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.28
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,156318000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,156318000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,129805000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,129805000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26513000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11532000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,11707638000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20579000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,5934000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4071362000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,866000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1005000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2198000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,3736000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-7000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,3743000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3174000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,6917000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,23000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,6894000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3977000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.74
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3999000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.72
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3948100000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.74
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q2TTM,2017-07-01,2018-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.58
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,39621000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,39621000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,35753000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,35753000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,3868000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2747000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,2747000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1121000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,289000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,224000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,863000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,798000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1919000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,174000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1745000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1745000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,9000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1736000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3945500000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4037200000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.43
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3945500000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1,2018-01-01,2018-03-31,2019-04-25 20:29:16+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.28
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,157251000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,157251000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,132156000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,132156000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,25095000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11510000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,9047000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20557000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,4538000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4360000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1079000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,3396000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,115000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,4653000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-76000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,4729000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3174000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,7903000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,28000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,7875000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3945500000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.98
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4037200000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.96
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3945500000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.98
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2018.0,Q1TTM,2017-04-01,2018-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.73
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,155900000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,155900000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,134693000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,134693000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,21207000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11161000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,9472000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,20633000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,574000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,5409000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,32000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-226000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-5603000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-5029000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-724000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-4305000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,4389000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,84000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,37000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,47000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3972000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.01
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4004000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.01
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,4700000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.01
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,FY,2019-01-01,2019-12-31,2020-02-05 12:01:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.6
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,116185000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,116185000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,99881000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-40000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,99881000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,16304000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,8169000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,7385619000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,12892000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3412000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2381000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,96000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1712000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1616000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1796000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,40000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1756000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1756000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,37000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1719000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3970000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.44
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4007000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.44
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3863600000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.44
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3YTD,2019-01-01,2019-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,160316000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,160316000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,135635000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-40000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,135635000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,24681000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11165000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,11835981000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,22999000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1682000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4868019000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-33000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1069000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3832000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-2150000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,135000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-2285000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3929000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1644000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,41000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1603000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3970000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.41
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4007000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.41
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3863600000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.41
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q3TTM,2018-10-01,2019-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.6
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,38853000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,38853000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,33657000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-40000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,33657000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,5196000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,2725000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,2662619000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,2725000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2471000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2381000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,87000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-2353000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-2266000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,205000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,55000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,150000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,150000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,148000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3984000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.04
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4013000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.04
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2,2019-04-01,2019-06-30,2019-07-24 19:05:43+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.04
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,79195000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,79195000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,67599000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-40000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,67599000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,11596000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,5568000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,5017619000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,7923000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3673000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,2381000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,112000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1970000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-1858000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1815000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,482000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,1333000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,1333000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,39000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,1294000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3984000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.33
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4013000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.33
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.33
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2YTD,2019-01-01,2019-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.15
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,160992000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,160992000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,134921000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalcostofrevenue,othercostofrevenue,Other Cost of Revenue,+,debit,usd,-40000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,134921000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26071000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11446000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,11819981000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,23264000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,2807000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4868019000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-49000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1073000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3844000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,-1037000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,678000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-1715000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3929000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,2214000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,45000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,2169000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3984000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.55
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,4013000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.55
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3700000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.55
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q2TTM,2018-07-01,2019-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.6
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,161059000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,161059000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,134458000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,134458000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,26601000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,11499000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,11818000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,23317000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,3284000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,4868000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-76000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1767000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-3177000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,107000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,903000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,-796000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,netincome,otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),+,credit,usd,3929000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,3133000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,46000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,3087000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,3973000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.78
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,3997000000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,3951700000.0
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.78
+Ford Motor Co,F,20S05OYHG0MQM4VUIC57,0000037996,2019.0,Q1TTM,2018-04-01,2019-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.6

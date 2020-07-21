@@ -1,0 +1,53 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,4323000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,4323000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3097000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3097000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1226000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,684000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,97000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,-15000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-40000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,726000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,500000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,4000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,39000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,43000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,543000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,140000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,403000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,403000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,400000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,866000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.46
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,866000000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.46
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,869600000.0
+Carrier Global Corp,CARR,,0001783180,2019.0,Q1,2019-01-01,2019-03-31,2020-05-11 07:31:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.46
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3888000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3888000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2766000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2766000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1122000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,692000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,98000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totaloperatingexpenses,otheroperatingexpenses,Other Operating Expenses / (Income),+,debit,usd,46000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totaloperatingexpenses,otherspecialcharges,Other Special Charges / (Income),+,debit,usd,-29000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,807000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,315000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-37000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,17000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-20000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,295000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,193000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,102000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,102000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,6000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,96000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,866000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.11
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,866000000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.11
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,872700000.0
+Carrier Global Corp,CARR,,0001783180,2020.0,Q1,2020-01-01,2020-03-31,2020-05-11 07:31:44+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.11
