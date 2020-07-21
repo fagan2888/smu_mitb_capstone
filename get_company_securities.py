@@ -10,8 +10,9 @@ BASE_DIR = './data'
 PRICE_DIR = path.join(BASE_DIR, 'daily_price')
 START_YEAR = 1968
 END_YEAR = 2020
-API_KEY = 'OmE3ODc4NGMzNDY3NzgzYjRiYzczN2ZhMGY4OWQwNGE5'
-data_getter = DataGetter(API_KEY)
+PRD_KEY = 'OmE3ODc4NGMzNDY3NzgzYjRiYzczN2ZhMGY4OWQwNGE5'
+SBX_KEY = 'OmRkZWJjNmI4MGMxM2NmMmU1Yjg5NTY0ODMyMzFkY2Ey'
+data_getter = DataGetter(PRD_KEY)
 data_parser = DataParser()
 
 
@@ -28,26 +29,39 @@ def getCompanySecurities(id):
 def getSecuritiesHistoricalPrices(id, start_year, end_year):
     daily_prices = []
     for y in range(start_year, end_year+1, 1):
+        sleep(1)
         print(y)
         start_date = datetime(y, 1, 1)
         end_date = datetime(y, 12, 31)
         (obj, _) = data_getter.getSecuritiesPriceVolume(id, start_date, end_date)
         daily_prices.extend(obj.stock_prices_dict)
-        sleep(30)
+        
     return daily_prices
 
 
 if __name__ == '__main__':
+    sp500 = pd.read_csv('s&p500_list.csv')
+
     securities_df = pd.DataFrame([])
     securities_csv = path.join(BASE_DIR, 'securities_list.csv')
+
     if not path.isfile(securities_csv):
         company_list = getAllCompanies()
+
+        sleep(60)
 
         # Securities List
         securities_list = []
         for company in company_list:
+            if company is None or company.ticker is None:
+                continue
+
+            if company.ticker not in set(sp500.Symbol):
+                continue
+
             identifer = company.id
             securities_list.extend(getCompanySecurities(identifer))
+            sleep(0.1)
         
         securities_list_dict = []
         for sec in securities_list:
@@ -72,3 +86,4 @@ if __name__ == '__main__':
             print(df.head())
             print(df.shape)
             df.to_csv(out_file, index=False)
+            sleep(1)
