@@ -167,6 +167,20 @@ class DataGetter:
         return (ret, response)
 
     
+    def getCompanyInfo(self, company_id, with_http_info=False):
+        obj = None
+        response = None
+        try:
+            if with_http_info:
+                (obj, response, _) = self._company_api.get_company_with_http_info(company_id)
+            else:
+                obj = self._company_api.get_company(company_id)
+        except ApiException as e:
+            print(DataGetter.MSG_EXCEPTION % (__name__, e))
+        
+        return (obj, response)
+
+    
     @classmethod
     def _getFundementalsKey(cls, company_id, statement_type, year, period):
         return '-'.join([company_id, statement_type, str(year), period])

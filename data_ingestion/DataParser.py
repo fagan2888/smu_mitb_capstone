@@ -2,6 +2,16 @@ import pandas as pd
 
 class DataParser():
 
+
+    @classmethod
+    def parseCompanyInfo(cls, data, as_dataframe=False):
+        df = []
+        for entry in data:
+            df.append(entry.to_dict())
+
+        return pd.DataFrame(df) if as_dataframe else df
+
+
     @classmethod
     def parseFundamentals(cls, data, as_dataframe=False):
         df = []

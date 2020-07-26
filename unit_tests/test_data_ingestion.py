@@ -76,6 +76,16 @@ class TestDataIngestion(TestCase):
         sleep(0.5)
     
 
+    def test_DataGetter_getCompanyInfo(self):
+        print("test_DataGetter_getCompanyInfo")
+        (obj, response) = self.data_getter.getCompanyInfo(TestDataIngestion.TEST_COMPANY, with_http_info=True)
+
+        print(obj)
+
+        assert(response == HTTPStatus.OK)
+        sleep(0.5)
+
+
     def test_DataGetter_getIncomeStatementByCompanyFiscalYear(self):
         print("test_DataGetter_getIncomeStatementByCompanyFiscalYear")
         (obj, response) = self.data_getter.getIncomeStatementByCompanyFiscalYear(TestDataIngestion.TEST_COMPANY, 2019, with_http_info=True)

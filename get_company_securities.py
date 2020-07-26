@@ -77,11 +77,13 @@ if __name__ == '__main__':
     else:
         securities_df = pd.read_csv(securities_csv)
 
-    for ticker in securities_df.composite_ticker:
-        out_file = path.join(PRICE_DIR, f"{ticker.replace(':', '_')}_daily_price.csv")
+    for index, row in securities_df.iterrows():
+        ticker = row['composite_ticker']
+        identifier = row['id']
+        out_file = path.join(PRICE_DIR, f"{ticker.replace(':', '_')}_{identifier}_daily_price.csv")
         if not path.isfile(out_file):
             print(ticker)
-            price = getSecuritiesHistoricalPrices(ticker, START_YEAR, END_YEAR)
+            price = getSecuritiesHistoricalPrices(identifier, START_YEAR, END_YEAR)
             df = pd.DataFrame(price)
             print(df.head())
             print(df.shape)
