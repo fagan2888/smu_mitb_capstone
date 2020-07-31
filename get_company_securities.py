@@ -40,7 +40,7 @@ def getSecuritiesHistoricalPrices(id, start_year, end_year):
 
 
 if __name__ == '__main__':
-    sp500 = pd.read_csv('s&p500_list.csv')
+    sp500 = pd.read_csv('./data/s&p500_historical_constituents.csv')
 
     securities_df = pd.DataFrame([])
     securities_csv = path.join(BASE_DIR, 'securities_list.csv')
@@ -56,7 +56,7 @@ if __name__ == '__main__':
             if company is None or company.ticker is None:
                 continue
 
-            if company.ticker not in set(sp500.Symbol):
+            if company.ticker not in set(sp500.Ticker):
                 continue
 
             identifer = company.id
