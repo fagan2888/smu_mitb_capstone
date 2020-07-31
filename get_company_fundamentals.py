@@ -68,7 +68,7 @@ def processCompanyFundementals(statements):
 
 if __name__ == '__main__':
     company_list = getAllCompanies()
-    sp500 = pd.read_csv('s&p500_list.csv')
+    sp500 = pd.read_csv('./data/s&p500_historical_constituents.csv')
     #print(sp500.head())
 
     sleep(60)
@@ -79,7 +79,7 @@ if __name__ == '__main__':
         if company is None or company.ticker is None:
             continue
 
-        if company.ticker not in set(sp500.Symbol):
+        if company.ticker not in set(sp500.Ticker):
             continue
 
         print(f"{j}/{count} - Company ID: {company.ticker}")
@@ -88,7 +88,7 @@ if __name__ == '__main__':
             makedirs(outfolder)
 
         i_outfile = path.join(outfolder, f'{company.ticker}_income_statements.csv')
-        b_outfile = path.join(outfolder, f'{company.ticker}_balanace_sheets.csv')
+        b_outfile = path.join(outfolder, f'{company.ticker}_balance_sheets.csv')
         c_outfile = path.join(outfolder, f'{company.ticker}_cashflows.csv')
         get_income = not path.isfile(i_outfile)
         get_balance = not path.isfile(b_outfile)

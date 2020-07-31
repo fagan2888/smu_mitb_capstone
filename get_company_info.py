@@ -19,16 +19,17 @@ def getAllCompanies():
 
 if __name__ == '__main__':
     company_list = getAllCompanies()
-    sp500 = pd.read_csv('s&p500_list.csv')
+    sp500 = pd.read_csv('./data/s&p500_historical_constituents.csv')
+    #sp500 = pd.read_csv('s&p500_list.csv')
 
-    count = sp500.shape[0] #len(sp500.Symbol)
+    count = sp500.shape[0]
     j = 1
     companies_info = []
     for company in company_list:
         if company is None or company.ticker is None:
             continue
 
-        if company.ticker not in set(sp500.Symbol):
+        if company.ticker not in set(sp500.Ticker):
             continue
 
         print(f"{j}/{count} - Company ID: {company.ticker}")
