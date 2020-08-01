@@ -1,0 +1,96 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,839000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,839000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,562000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,562000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,277000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,83000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,46000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,129000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,148000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,23000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,125000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,80000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,15000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,95000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,94000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,131972681.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.72
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,133193283.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.7
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,130600000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q3,2009-07-01,2009-09-30,2010-11-08 18:32:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.72
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,901000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,901000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,601000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,601000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,300000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,101000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,46000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,147000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,153000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,24000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-23000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,130000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,49000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,81000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-1000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,80000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,80000000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,131931203.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.6
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,132472333.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.6
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,133300000.0
+PACTIV LLC,PTV,,0001089976,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 20:51:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.6
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,944000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,944000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,696000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,696000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,248000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,82000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,49000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,131000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,117000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-24000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,93000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,80000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,2000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,82000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,81000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,132998767.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.6
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,134366631.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.6
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,135000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q3,2010-07-01,2010-09-30,2010-11-08 18:32:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.6
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,973000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,973000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,699000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,699000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,274000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,83000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totaloperatingexpenses,depreciationexpense,Depreciation Expense,+,debit,usd,50000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,133000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,141000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,25000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-25000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,116000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,41000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,75000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,75000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,75000000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,132913791.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.57
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,134083053.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.56
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,131600000.0
+PACTIV LLC,PTV,,0001089976,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 20:51:30+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.57

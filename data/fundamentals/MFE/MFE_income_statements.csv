@@ -1,0 +1,547 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1308220000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1308220000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,305744000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,305744000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1002476000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,204748000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,397629000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,217934000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,13583000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,8769000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,842663000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,159813000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1104000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,68287000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,69391000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,229204000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,62224000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,166980000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,166980000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,166980000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,159819000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.04
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,164126000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.02
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,160600000.0
+"McAfee, Inc.",MFE,,0000890801,2007.0,FY,2007-01-01,2007-12-31,2010-02-26 17:30:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.04
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1600065000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1600065000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,383528000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,383528000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1216537000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,193784000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,536944000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,271520000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,26470000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-1752000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1026966000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,189571000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-13052000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,45687000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,32635000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,222206000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,49997000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,172209000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,172209000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,172209000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,156205000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.1
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,159406000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.08
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,156600000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,FY,2008-01-01,2008-12-31,2011-02-25 19:28:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.1
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,409679000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,409679000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,98509000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,98509000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,311170000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,49888000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,139264000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,64478000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5502000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2675000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,261807000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,49363000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-11693000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,16242000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,4549000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,53912000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,5104000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,48808000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,48808000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,48808000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,152347000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.32
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,155006000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.31
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,152500000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q3,2008-07-01,2008-09-30,2009-11-06 16:54:20+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.32
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,396758000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,396758000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,89733000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,89733000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,307025000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,55518000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,131690000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,61998000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,5636000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,-2214000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,252628000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,54397000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,218000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,10252000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,10470000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,64867000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17041000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,47826000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,47826000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,47826000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,158770000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,161553000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,159400000.0
+"McAfee, Inc.",MFE,,0000890801,2008.0,Q2,2008-04-01,2008-06-30,2009-08-06 21:36:37+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,525666000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,525666000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,131339000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,131339000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,394327000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,48337000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,176844000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,83961000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10118000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,2911000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,322171000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,72156000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,157000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-780000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-623000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,71533000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,17011000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,54522000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,54522000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,54522000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,156144000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,158988000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,156200000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q4,2009-10-01,2009-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1927332000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1927332000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,486387000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,486387000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1440945000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,197696000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,642026000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,324368000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,40718000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,13830000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1218638000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,222307000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-286000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2202000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1916000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,224223000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,50803000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,173420000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,173420000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,173420000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,156144000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.11
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,158988000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.09
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,156200000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,FY,2009-01-01,2009-12-31,2011-02-25 19:28:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.11
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1401666000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1401666000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,355048000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,355048000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1046618000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,149359000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,465182000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,240407000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,30600000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,10919000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,896467000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,150151000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-443000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2982000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2539000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,152690000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,33792000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,118898000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,118898000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,118898000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,157186000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.76
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,159925000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.75
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,160000000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3YTD,2009-01-01,2009-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.76
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,485271000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,485271000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,126770000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,126770000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,358501000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,65948000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,155594000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,82248000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10492000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1714000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,315996000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,42505000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,41000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1028000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1069000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,43574000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,6785000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,36789000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,36789000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,36789000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,157186000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.23
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,159925000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,160000000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q3,2009-07-01,2009-09-30,2010-11-05 17:25:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.23
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,916395000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,916395000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,228278000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,228278000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,688117000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,83411000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,309588000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,158159000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,20108000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9205000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,580471000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,107646000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-484000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,1954000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1470000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,109116000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,27007000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,82109000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,82109000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,82109000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,155763000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.53
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,158336000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.52
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,159200000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2YTD,2009-01-01,2009-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.53
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,468686000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,468686000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,115222000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,115222000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,353464000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,43251000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,160824000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,79255000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,10113000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,4145000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,297588000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,55876000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,60000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-857000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-797000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,55079000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,26426000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,28653000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,28653000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,28653000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,155763000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.18
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,158336000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.18
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,159200000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q2,2009-04-01,2009-06-30,2010-08-06 16:14:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.18
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,447709000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,447709000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,113056000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,113056000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,334653000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,40160000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,148764000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,78904000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,9995000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,5060000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,282883000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,51770000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-544000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,2811000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,2267000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,54037000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,581000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,53456000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,53456000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,53456000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,153721000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.35
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,156169000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.34
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,152700000.0
+"McAfee, Inc.",MFE,,0000890801,2009.0,Q1,2009-01-01,2009-03-31,2010-05-07 16:30:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.35
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,549564000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,549564000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,152089000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,152089000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,397475000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,51354000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,172233000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,92604000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7152000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,15404000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,338747000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,58728000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-50000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,426000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,376000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,59104000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,-1468000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,60572000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,60572000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,60572000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,154936000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.39
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,157385000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.39
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,154700000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q4,2010-10-01,2010-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.39
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2064807000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2064807000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,557548000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,557548000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1507259000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,203682000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,656646000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,346083000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,29743000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,41683000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1277837000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,229422000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,150000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,68000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,218000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,229640000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45528000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,184112000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,184112000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,184112000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,154936000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.19
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,157385000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.17
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,154700000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,FY,2010-01-01,2010-12-31,2011-02-25 19:28:28+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.19
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1515243000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1515243000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,405459000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,405459000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1109784000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,152328000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,484413000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,253479000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,22591000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,26279000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,939090000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,170694000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,200000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-358000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-158000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,170536000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,46996000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,123540000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,123540000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,123540000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,152788000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.8
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,154988000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.78
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,155200000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3YTD,2010-01-01,2010-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.8
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2040909000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2040909000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,536798000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,536798000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1504111000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,200665000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,661257000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,337440000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,32709000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,29190000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1261261000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,242850000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,357000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-1138000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-781000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,242069000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,64007000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,178062000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,178062000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,178062000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,152788000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.15
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,154988000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.12
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,155200000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3TTM,2009-10-01,2010-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.15
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,523259000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,523259000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,142083000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,142083000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,381176000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,58633000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,162697000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,86952000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7446000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,1398000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,317126000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,64050000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,63000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-872000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-809000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,63241000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,16681000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,46560000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,46560000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,46560000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,152788000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.3
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,154988000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.3
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,155200000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q3,2010-07-01,2010-09-30,2010-11-05 17:25:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.3
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,991984000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,991984000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,263376000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,263376000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,728608000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,93695000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,321716000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,166527000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,15145000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,24881000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,621964000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,106644000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,137000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,514000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,651000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,107295000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,30315000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,76980000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,76980000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,76980000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,154456000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.5
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,156151000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.48
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,151600000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2YTD,2010-01-01,2010-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.5
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2002921000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2002921000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,521485000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,521485000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1481436000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,207980000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,654154000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,332736000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,35755000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,29506000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1260131000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,221305000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,335000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,762000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,1097000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,222402000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,54111000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,168291000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,168291000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,168291000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,154456000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.08
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,156151000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.05
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,151600000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2TTM,2009-07-01,2010-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.08
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,489239000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,489239000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,130801000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,130801000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,358438000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,48844000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,155471000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,82403000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7503000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,9127000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,303348000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,55090000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,178000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-56000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,122000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,55212000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,15808000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,39404000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,39404000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,39404000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,154456000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.26
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,156151000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.25
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,151600000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q2,2010-04-01,2010-06-30,2010-08-06 16:14:06+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.26
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1982368000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1982368000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,505906000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,505906000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1476462000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,202387000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,659507000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,329588000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,38365000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,24524000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1254371000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,222091000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,217000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-39000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,178000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,222269000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,64729000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,157540000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,157540000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,157540000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,157738000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,160567000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.98
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,156600000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1TTM,2009-04-01,2010-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,502745000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,502745000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,132575000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,132575000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,370170000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,44851000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,marketingexpense,Marketing Expense,+,debit,usd,166245000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,rdexpense,Research & Development Expense,+,debit,usd,84124000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,amortizationexpense,Amortization Expense,+,debit,usd,7642000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totaloperatingexpenses,restructuringcharge,Restructuring Charge,+,debit,usd,15754000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,318616000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,51554000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,-41000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,570000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,529000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,52083000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,14507000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,37576000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,37576000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,37576000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,157738000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.24
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,160567000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.23
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,156600000.0
+"McAfee, Inc.",MFE,,0000890801,2010.0,Q1,2010-01-01,2010-03-31,2010-05-07 16:30:11+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.24

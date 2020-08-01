@@ -1,0 +1,854 @@
+company_name,company_ticker,company_lei,company_cik,year,quarter,start_date,end_date,filing_date,parent,tag,financial_name,factor,balance,unit,value
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6392200000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6392200000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4483300000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4483300000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1908900000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1027600000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1027600000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,881300000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,124900000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,9200000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-28200000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-143900000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,737400000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,220900000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,516500000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-13400000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,503100000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,20500000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,482600000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,127000000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,3.8
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,128700000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,3.75
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,127000000.0
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,3.8
+GOODRICH CORP,GR,,0000042542,2007.0,FY,2007-01-01,2007-12-31,2010-02-16 16:10:01+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.825
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,7061700000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,7061700000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4906200000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4906200000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2155500000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1054600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1054600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1100900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,112400000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,5700000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-9600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-116300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,984600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,293000000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,691600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,7600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,699200000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,18000000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,681200000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124400000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,5.4
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124400000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,5.35
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124400000.0
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,5.4
+GOODRICH CORP,GR,,0000042542,2008.0,FY,2008-01-01,2008-12-31,2011-02-15 13:05:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.925
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1772300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1772300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1214900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1214900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,557400000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,260600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,260600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,296800000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,26700000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1400000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,265900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,94100000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,171800000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,200000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,172000000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4000000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,168000000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,126300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.33
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,127300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.32
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,126300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.33
+GOODRICH CORP,GR,,0000042542,2008.0,Q3,2008-07-01,2008-09-30,2009-10-22 12:07:51+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.225
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1849300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1849300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1286900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1286900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,562400000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,273900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,273900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,288500000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,27700000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3000000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-30100000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,258400000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,69500000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,188900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3000000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,191900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5300000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,186600000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,126900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.47
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,128700000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.45
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,126900000.0
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.47
+GOODRICH CORP,GR,,0000042542,2008.0,Q2,2008-04-01,2008-06-30,2009-07-23 13:07:34+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.225
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1642300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1642300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1170900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1170900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,471400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,280300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,280300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,191100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,153900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,108500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,108000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,105000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,0.84
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.81
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.84
+GOODRICH CORP,GR,,0000042542,2009.0,Q4,2009-10-01,2009-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.27
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6685600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6685600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4724100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4724100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1961500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1032300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1032300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,929200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,121000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-25200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-145100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,784100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,207800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,576300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,34500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,610800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,13500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,597300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,4.75
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.7
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,4.75
+GOODRICH CORP,GR,,0000042542,2009.0,FY,2009-01-01,2009-12-31,2012-02-23 14:40:25+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.02
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5043300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5043300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3553200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3553200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1490100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,752000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,752000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,738100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,90200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-18700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-107900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,630200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,162400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,467800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,35000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,502800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,10500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,492300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,3.91
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,3.89
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,3.91
+GOODRICH CORP,GR,,0000042542,2009.0,Q3YTD,2009-01-01,2009-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.75
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1647700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1647700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1169200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1169200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,478500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,249600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,249600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,228900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-7900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,190600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,45700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,144900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,3300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,148200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,145400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.15
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.14
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.15
+GOODRICH CORP,GR,,0000042542,2009.0,Q3,2009-07-01,2009-09-30,2010-10-21 11:08:15+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3395600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3395600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2384000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2384000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1011600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,502400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,502400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,509200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,59500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-69600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,439600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,116700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,322900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,31700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,354600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,7700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,346900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,2.76
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.75
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.76
+GOODRICH CORP,GR,,0000042542,2009.0,Q2YTD,2009-01-01,2009-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.5
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1699700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1699700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1203900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1203900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,495800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,254400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,254400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,241400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,30700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,204400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,54800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,149600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,31200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,180800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3700000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,177100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,123900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.41
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,123900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.4
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,123900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.41
+GOODRICH CORP,GR,,0000042542,2009.0,Q2,2009-04-01,2009-06-30,2010-07-29 15:06:22+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1695900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1695900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1180100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1180100000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,515800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,248000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,248000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,267800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,28800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4400000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-32600000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,235200000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,61900000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,173300000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,500000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,173800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,4000000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,169800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.35
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.35
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.35
+GOODRICH CORP,GR,,0000042542,2009.0,Q1,2009-01-01,2009-03-31,2010-04-22 12:56:08+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.25
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1806200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1806200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1259800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1259800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,546400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,305500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,305500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,240900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,35500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-42700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-77800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,163100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,13900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,149200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,150000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,148300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.17
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.15
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.17
+GOODRICH CORP,GR,,0000042542,2010.0,Q4,2010-10-01,2010-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6966900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6966900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4843900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4843900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2123000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1124700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1124700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,998300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,137500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-57100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-193400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,804900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,220500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,584400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,2200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,586600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,7900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,578700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,4.56
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.51
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,4.56
+GOODRICH CORP,GR,,0000042542,2010.0,FY,2010-01-01,2010-12-31,2012-02-23 14:40:25+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.1
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5160700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5160700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,3584100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,3584100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1576600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,819200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,819200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,757400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,102000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-14400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-115600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,641800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,206600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,435200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,436600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,6200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,430400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,3.39
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,3.36
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,3.39
+GOODRICH CORP,GR,,0000042542,2010.0,Q3YTD,2010-01-01,2010-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.81
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6803000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6803000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4755000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4755000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2048000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1099500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1099500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,948500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,132800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-20900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-152800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,795700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,252000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,543700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,544600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,9200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,535400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,4.23
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.17
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,4.23
+GOODRICH CORP,GR,,0000042542,2010.0,Q3TTM,2009-10-01,2010-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.08
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1748000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1748000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1206900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1206900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,541100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,280000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,280000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,261100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,34900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-3600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,223000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,61700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,161300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,161400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,160200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.26
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.25
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.26
+GOODRICH CORP,GR,,0000042542,2010.0,Q3,2010-07-01,2010-09-30,2011-10-27 08:29:36+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.27
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3412700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3412700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2377200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2377200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1035500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,539200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,539200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,496300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,67100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-77500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,418800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,144900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,273900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,275200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,270200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,2.13
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.11
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.13
+GOODRICH CORP,GR,,0000042542,2010.0,Q2YTD,2010-01-01,2010-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.54
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6702700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6702700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4717300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4717300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1985400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1069100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1069100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,916300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,128600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-25200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-153000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,763300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,236000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,527300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,4100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,531400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,10800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,520600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,4.12
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.06
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,4.12
+GOODRICH CORP,GR,,0000042542,2010.0,Q2TTM,2009-07-01,2010-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.06
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1717500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1717500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1172900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1172900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,544600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,269300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,269300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,275300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,33600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-37700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,237600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,76300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,161300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,161400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,159000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.25
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.24
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.25
+GOODRICH CORP,GR,,0000042542,2010.0,Q2,2010-04-01,2010-06-30,2011-07-22 15:41:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.27
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,6684900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,6684900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4748300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4748300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1936600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1054200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1054200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,882400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,125700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-27200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-152300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,730100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,214500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,515600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,35200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,550800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,12100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,538700000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,4.28
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.22
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,4.28
+GOODRICH CORP,GR,,0000042542,2010.0,Q1TTM,2009-04-01,2010-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.04
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1695200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1695200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1204300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1204300000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,490900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,269900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,269900000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,221000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,33500000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,100000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6400000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-39800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,181200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,68600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,112600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,113800000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2600000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,111200000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,0.88
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,0.87
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125000000.0
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,0.88
+GOODRICH CORP,GR,,0000042542,2010.0,Q1,2010-01-01,2010-03-31,2011-04-21 11:22:35+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.27
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2145000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2145000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1435600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1435600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,709400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,328300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,328300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,381100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,34600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-6800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-41300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,339800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,99500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,240300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,240600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,237900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,1.88
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.86
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.88
+GOODRICH CORP,GR,,0000042542,2011.0,Q4,2011-10-01,2011-12-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,8074900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,8074900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,5502800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,5502800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2572100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1236300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1236300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1335800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,138700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-33500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-171300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1164500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,346000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,818500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,818800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,810400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,6.39
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,6.33
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,6.39
+GOODRICH CORP,GR,,0000042542,2011.0,FY,2011-01-01,2011-12-31,2012-02-23 14:40:25+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.16
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,5929900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,5929900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4067200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4067200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1862700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,908000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,908000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,954700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,104100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-26700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-130000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,824700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,246500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,578200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,578200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,5700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,572500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,4.51
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,4.47
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,4.51
+GOODRICH CORP,GR,,0000042542,2011.0,Q3YTD,2011-01-01,2011-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.87
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,7736100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,7736100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,5327000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,5327000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2409100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1213500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1213500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1195600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,139600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-69400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-207800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,987800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,260400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,727400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,728200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,7400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,720800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,5.68
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,5.62
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,5.68
+GOODRICH CORP,GR,,0000042542,2011.0,Q3TTM,2010-10-01,2011-09-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.16
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2032600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2032600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1372500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1372500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,660100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,308600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,308600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,351500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,35000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-16700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-51500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,300000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,96700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,203300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,203300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,2200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,201100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.59
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.57
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.59
+GOODRICH CORP,GR,,0000042542,2011.0,Q3,2011-07-01,2011-09-30,2011-10-27 08:29:36+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,3897300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,3897300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,2694700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,2694700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,1202600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,599400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,599400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,603200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,69100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-10000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-78500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,524700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,149800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,374900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,374900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,3500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,371400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,2.92
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,2.9
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,2.92
+GOODRICH CORP,GR,,0000042542,2011.0,Q2YTD,2011-01-01,2011-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.58
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,7451500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,7451500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,5161400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,5161400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2290100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1184900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1184900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1105200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,139500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-56300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-194400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,910800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,225400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,685400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,686300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,6400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,679900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,,basiceps,Basic Earnings per Share,=,,usdpershare,5.35
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,5.3
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,5.35
+GOODRICH CORP,GR,,0000042542,2011.0,Q2TTM,2010-07-01,2011-06-30,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.14
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2001400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2001400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1384200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1384200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,617200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,314300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,314300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,302900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,34500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-4200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-38400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,264500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,86200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,178300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,178300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,176600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.39
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.38
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,124900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.39
+GOODRICH CORP,GR,,0000042542,2011.0,Q2,2011-04-01,2011-06-30,2011-07-22 15:41:52+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,7167600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,7167600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,4950100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,4950100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2217500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1139900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1139900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1077600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,138600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,1400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-56500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-193700000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,883900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,215500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,668400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,1000000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,669400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,7100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,662300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,5.21
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,5.16
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,5.21
+GOODRICH CORP,GR,,0000042542,2011.0,Q1TTM,2010-04-01,2011-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.12
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,1895900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,1895900000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1310500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1310500000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,585400000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,285100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,285100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,300300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,34600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-5800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-40100000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,260200000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,63600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,196600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,196600000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,194800000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.53
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.52
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125300000.0
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.53
+GOODRICH CORP,GR,,0000042542,2011.0,Q1,2011-01-01,2011-03-31,2012-04-26 08:02:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,8331600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,8331600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,5702800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,5702800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,2628800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,1269600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,1269600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,1359200000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,138900000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-37300000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-175400000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,1183800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,372000000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,811800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,200000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,812000000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,8200000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,803800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,,basiceps,Basic Earnings per Share,=,,usdpershare,6.34
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,6.27
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,6.34
+GOODRICH CORP,GR,,0000042542,2012.0,Q1TTM,2011-04-01,2012-03-31,,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,1.16
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalrevenue,operatingrevenue,Operating Revenue,+,credit,usd,2152600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalgrossprofit,totalrevenue,Total Revenue,+,credit,usd,2152600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalcostofrevenue,operatingcostofrevenue,Operating Cost of Revenue,+,debit,usd,1510500000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalgrossprofit,totalcostofrevenue,Total Cost of Revenue,-,debit,usd,1510500000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totaloperatingincome,totalgrossprofit,Total Gross Profit,+,credit,usd,642100000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totaloperatingexpenses,sgaexpense,"Selling, General & Admin Expense",+,debit,usd,318400000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totaloperatingincome,totaloperatingexpenses,Total Operating Expenses,-,debit,usd,318400000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalpretaxincome,totaloperatingincome,Total Operating Income,+,credit,usd,323700000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalotherincome,totalinterestexpense,Interest Expense,-,debit,usd,34800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalotherincome,totalinterestincome,Interest & Investment Income,+,credit,usd,200000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalotherincome,otherincome,"Other Income / (Expense), net",+,credit,usd,-9600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,totalpretaxincome,totalotherincome,"Total Other Income / (Expense), net",+,credit,usd,-44200000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,netincomecontinuing,totalpretaxincome,Total Pre-Tax Income ,+,credit,usd,279500000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,netincomecontinuing,incometaxexpense,Income Tax Expense,-,debit,usd,89600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,netincome,netincomecontinuing,Net Income / (Loss) Continuing Operations,+,credit,usd,189900000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,netincome,netincomediscontinued,Net Income / (Loss) Discontinued Operations,+,credit,usd,-100000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,netincometocommon,netincome,Consolidated Net Income / (Loss),+,credit,usd,189800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,netincometocommon,netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,-,debit,usd,1600000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,,netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,=,credit,usd,188200000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,basiceps,weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,,basiceps,Basic Earnings per Share,=,,usdpershare,1.48
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,dilutedeps,weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,,dilutedeps,Diluted Earnings per Share,=,,usdpershare,1.46
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,basicdilutedeps,weightedavebasicdilutedsharesos,Weighted Average Basic & Diluted Shares Outstanding,/,,shares,125800000.0
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,,basicdilutedeps,Basic & Diluted Earnings per Share,=,,usdpershare,1.48
+GOODRICH CORP,GR,,0000042542,2012.0,Q1,2012-01-01,2012-03-31,2012-04-26 08:02:00+00:00,,cashdividendspershare,Cash Dividends to Common per Share,=,,usdpershare,0.29
