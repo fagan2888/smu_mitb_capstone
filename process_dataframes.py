@@ -26,20 +26,35 @@ companies = listdir(BASE_DIR)
 for c in companies:
     company_dir = path.join(BASE_DIR, c)
 
-    if path.isfile(path.join(company_dir, BALANCE_INCORRECT.format(c))):
+    if path.isfile(path.join(company_dir, BALANCE_INCORRECT.format(c))) and not path.isfile(path.join(company_dir, BALANCE.format(c))):
         rename(
             path.join(company_dir, BALANCE_INCORRECT.format(c)),
             path.join(company_dir, BALANCE.format(c))
         )
 
-    df_income = pd.read_csv(path.join(company_dir, INCOME.format(c)))
-    df_balance = pd.read_csv(path.join(company_dir, BALANCE.format(c)))
-    df_cashflow = pd.read_csv(path.join(company_dir, CASHFLOW.format(c)))
+    try:
+        df_income = pd.read_csv(path.join(company_dir, INCOME.format(c)))
+        df_income_wide = process_df(df_income)
+        df_income_wide.to_csv(path.join(company_dir, INCOME_WIDE.format(c)), index=False)
+    except Exception as e:
+        print(e)
+        print("Exception:", path.join(company_dir, INCOME.format(c)))
+        pass
 
-    df_income_wide = process_df(df_income)
-    df_balance_wide = process_df(df_balance)
-    df_cashflow_wide = process_df(df_cashflow)
+    try:
+        df_balance = pd.read_csv(path.join(company_dir, BALANCE.format(c)))
+        df_balance_wide = process_df(df_balance)
+        df_balance_wide.to_csv(path.join(company_dir, BALANCE_WIDE.format(c)), index=False)
+    except Exception as e:
+        print(e)
+        print("Exception:", path.join(company_dir, BALANCE.format(c)))
+        pass
 
-    df_income_wide.to_csv(path.join(company_dir, INCOME_WIDE.format(c)), index=False)
-    df_balance_wide.to_csv(path.join(company_dir, BALANCE_WIDE.format(c)), index=False)
-    df_cashflow_wide.to_csv(path.join(company_dir, CASHFLOW_WIDE.format(c)), index=False)
+    try:
+        df_cashflow = pd.read_csv(path.join(company_dir, CASHFLOW.format(c)))
+        df_cashflow_wide = process_df(df_cashflow)
+        df_cashflow_wide.to_csv(path.join(company_dir, CASHFLOW_WIDE.format(c)), index=False)
+    except Exception as e:
+        print(e)
+        print("Exception:", path.join(company_dir, CASHFLOW.format(c)))
+        pass
