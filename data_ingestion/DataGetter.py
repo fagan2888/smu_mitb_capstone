@@ -118,7 +118,7 @@ class DataGetter:
         else:
             it = self._callAPI(
                 self._security_api.get_security_stock_prices,
-                id, start_date=start_date, end_date=end_date, frequency=frequency, page_size=500
+                id, start_date=start_date, end_date=end_date, frequency=frequency, page_size=1000
             )
 
         response = []
@@ -133,15 +133,28 @@ class DataGetter:
 
 
     def getSecuritiesIntradayPriceVolume(self, id, start_date, end_date, with_http_info=False):
-        try:
-            if with_http_info:
-                ret = self._security_api.get_security_intraday_prices_with_http_info(id, start_date=start_date, end_date=end_date, source='iex')
-            else:
-                ret = self._security_api.get_security_intraday_prices(id, start_date=start_date, end_date=end_date, source='iex')
-        except ApiException as e:
-            print(DataGetter.MSG_EXCEPTION %(__name__, e))
+        ret = None
+        if with_http_info:
+            it = self._callAPI(
+                self._security_api.get_security_intraday_prices_with_http_info,
+                id, start_date=start_date, end_date=end_date, page_size=1000
+            )
+        else:
+            it = self._callAPI(
+                self._security_api.get_security_intraday_prices,
+                id, start_date=start_date, end_date=end_date, page_size=1000
+            )
         
-        return ret
+        response = []
+        (ret, res) = next(it)
+        response.append(res)
+        for i in it:
+            (obj, res) = i
+            ret.intraday_prices += obj.intraday_prices
+            response.append(res)
+            sleep(0.5)
+        
+        return (ret, response)
 
 
     def getCompaniesList(self, with_http_info=False):

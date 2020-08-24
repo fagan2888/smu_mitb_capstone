@@ -115,16 +115,18 @@ class TestDataIngestion(TestCase):
         assert(all(_ == HTTPStatus.OK for _ in response))
         sleep(0.5)
 
-    """
+
     def test_DataGetter_getHistoricalIncomeStatementByCompany(self):
         print("test_DataGetter_getHistoricalIncomeStatementByCompany")
         (obj, response) = self.data_getter.getHistoricalIncomeStatementByCompany(TestDataIngestion.TEST_COMPANY, '2019-01-01', '2020-01-01', with_http_info=True)
 
+        print(len(obj.intraday_prices_dict))
         print(obj)
+        
 
         assert(all(_ == HTTPStatus.OK for _ in response))
         sleep(0.5)
-    """
+
 
     def test_DataGetter_getFundamentalsByCompany(self):
         print("test_DataGetter_getFundamentalsByCompany")
