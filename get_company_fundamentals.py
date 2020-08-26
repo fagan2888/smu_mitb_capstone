@@ -68,7 +68,11 @@ def processCompanyFundementals(statements):
 
 if __name__ == '__main__':
     company_list = getAllCompanies()
-    sp500 = pd.read_csv('./data/s&p500_historical_constituents.csv')
+    sp500 = pd.read_csv('./data/s&p500_historical_companies_1990.csv')
+    tickers = []
+    for t in list(sp500.Ticker):
+        tickers.append(t.split(' ')[0])
+    tickers = set(tickers)
     #print(sp500.head())
 
     sleep(60)
@@ -79,7 +83,7 @@ if __name__ == '__main__':
         if company is None or company.ticker is None:
             continue
 
-        if company.ticker not in set(sp500.Ticker):
+        if company.ticker not in tickers:
             continue
 
         print(f"{j}/{count} - Company ID: {company.ticker}")
