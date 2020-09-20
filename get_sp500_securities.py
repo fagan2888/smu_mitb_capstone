@@ -5,6 +5,7 @@ from datetime import datetime
 from time import sleep
 from os import path
 import pandas as pd
+import math
 
 BASE_DIR = './data'
 PRICE_DIR = path.join(BASE_DIR, 'daily_price_sp500')
@@ -43,9 +44,8 @@ if __name__ == '__main__':
     sp500 = pd.read_csv('./data/s&p500_historical_companies_1990_expanded.csv')
 
     for index, row in sp500.iterrows():
-        figi = row['figi']
-
-        if figi is not None:
+        if pd.notnull(row['figi']):
+            figi = row['figi']
             ticker = row['Ticker']
             out_file = path.join(PRICE_DIR, f"{ticker}_{figi}_daily_price.csv")
             if not path.isfile(out_file):
